@@ -1,6 +1,6 @@
 # Magmanet Apps
 
-**51 Android apps** by Magmanet. Every link below always downloads the newest version.
+**53 Android apps** by Magmanet. Every link below always downloads the newest version.
 
 **How to install:** open a link on an Android phone → download → allow *Install unknown apps* for your browser when asked.
 
@@ -22,6 +22,7 @@
 | **Puzzlito (Kids)** | Colorful, easy puzzles for kids. | [⬇️ PuzzlitoKids.apk](https://github.com/Shauls/magmanet-apps/releases/download/puzzlito-kids/PuzzlitoKids.apk) |
 | **Thinkk (Ages 5-7)** | Thinking games for ages 5-7. | [⬇️ ThinkkAges57.apk](https://github.com/Shauls/magmanet-apps/releases/download/thinkk-5-7/ThinkkAges57.apk) |
 | **Thinkk (Ages 7-9)** | Thinking and reasoning games for ages 7-9. | [⬇️ ThinkkAges79.apk](https://github.com/Shauls/magmanet-apps/releases/download/thinkk-7-9/ThinkkAges79.apk) |
+| **MotorQuest** | Motor-skill practice games for children and adults with dyspraxia / DCD, incl. road skills for learner drivers. English, Hebrew, Arabic, Russian. Offline. Not a medical device. | [⬇️ MotorQuest.apk](https://github.com/Shauls/magmanet-apps/releases/download/motorquest/MotorQuest.apk) |
 
 ## 🧠 Quiz, Puzzles & Games
 
@@ -51,6 +52,7 @@
 | **Language Learning** | Bite-sized daily vocabulary and phrase practice. | [⬇️ LanguageLearning.apk](https://github.com/Shauls/magmanet-apps/releases/download/language-learning/LanguageLearning.apk) |
 | **Music Practice** | Metronome, tuner, and practice log for musicians. | [⬇️ MusicPractice.apk](https://github.com/Shauls/magmanet-apps/releases/download/music-practice/MusicPractice.apk) |
 | **Por Favor** | Learn Spanish through original songs, from English or Hebrew. Free, offline, no ads. | [⬇️ PorFavor.apk](https://github.com/Shauls/magmanet-apps/releases/download/porfavor/PorFavor.apk) |
+| **Amor – Learn Spanish** | Learn Spanish with Lola the parrot: 24 units, spaced repetition, pronunciation feedback, Sound Lab, hands-free audio mode, verb conjugator and widget. Native Android. | [⬇️ Amor.apk](https://github.com/Shauls/magmanet-apps/releases/download/amor/Amor.apk) |
 
 ## 💪 Health & Fitness
 
