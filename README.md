@@ -1,6 +1,6 @@
 # Magmanet Apps
 
-**54 Android apps** by Magmanet. Every link below always downloads the newest version.
+**55 Android apps** by Magmanet. Every link below always downloads the newest version.
 
 **How to install:** open a link on an Android phone → download → allow *Install unknown apps* for your browser when asked.
 
@@ -23,6 +23,7 @@
 | **Thinkk (Ages 5-7)** | Thinking games for ages 5-7. | [⬇️ ThinkkAges57.apk](https://github.com/Shauls/magmanet-apps/releases/download/thinkk-5-7/ThinkkAges57.apk) |
 | **Thinkk (Ages 7-9)** | Thinking and reasoning games for ages 7-9. | [⬇️ ThinkkAges79.apk](https://github.com/Shauls/magmanet-apps/releases/download/thinkk-7-9/ThinkkAges79.apk) |
 | **MotorQuest** | Motor-skill practice games for children and adults with dyspraxia / DCD, incl. road skills for learner drivers. English, Hebrew, Arabic, Russian. Offline. Not a medical device. | [⬇️ MotorQuest.apk](https://github.com/Shauls/magmanet-apps/releases/download/motorquest/MotorQuest.apk) |
+| **Richard · ריצ'ארד – Avatar Mirror** | Fun avatar mirror: take a mirror selfie and get a cartoon avatar that looks like you, 5 art styles, dances, funny faces and a 12-sticker pack to share. Photos stay on the phone. | [⬇️ Richard.apk](https://github.com/Shauls/magmanet-apps/releases/download/richard/Richard.apk) |
 
 ## 🧠 Quiz, Puzzles & Games
 
