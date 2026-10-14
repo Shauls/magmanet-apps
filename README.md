@@ -1,6 +1,6 @@
 # Magmanet Apps
 
-**55 Android apps** by Magmanet. Every link below always downloads the newest version.
+**56 Android apps** by Magmanet. Every link below always downloads the newest version.
 
 **How to install:** open a link on an Android phone → download → allow *Install unknown apps* for your browser when asked.
 
@@ -55,6 +55,7 @@
 | **Por Favor** | Learn Spanish through original songs, from English or Hebrew. Free, offline, no ads. | [⬇️ PorFavor.apk](https://github.com/Shauls/magmanet-apps/releases/download/porfavor/PorFavor.apk) |
 | **Amor – Learn Spanish** | Learn Spanish with Lola the parrot: 24 units, spaced repetition, pronunciation feedback, Sound Lab, hands-free audio mode, verb conjugator and widget. Native Android. | [⬇️ Amor.apk](https://github.com/Shauls/magmanet-apps/releases/download/amor/Amor.apk) |
 | **Tamrurim · תמרורים** | Pass the Israeli driving-theory exam: all 1,802 official questions, smart practice that targets your mistakes, realistic mock exams and road-sign games, in six languages, offline and ad-free. | [⬇️ Tamrurim.apk](https://github.com/Shauls/magmanet-apps/releases/download/tamrurim/Tamrurim.apk) |
+| **TabMaster · טאבמאסטר** | Interactive tab and score player for guitar, bass, ukulele and drums: multi-track mixer, speed and loop trainer, play-along with the microphone, wait mode, fretboard, tab editor, Guitar Pro / MusicXML import. 73 public-domain and original pieces. | [⬇️ TabMaster.apk](https://github.com/Shauls/magmanet-apps/releases/download/tabmaster/TabMaster.apk) |
 
 ## 💪 Health & Fitness
 
