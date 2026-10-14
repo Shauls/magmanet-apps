@@ -1,6 +1,6 @@
 # Magmanet Apps
 
-**56 Android apps** by Magmanet. Every link below always downloads the newest version.
+**57 Android apps** by Magmanet. Every link below always downloads the newest version.
 
 **How to install:** open a link on an Android phone → download → allow *Install unknown apps* for your browser when asked.
 
@@ -34,6 +34,7 @@
 | **Puzzlito (Adults)** | Challenging puzzle collection for adults. | [⬇️ PuzzlitoAdults.apk](https://github.com/Shauls/magmanet-apps/releases/download/puzzlito-adults/PuzzlitoAdults.apk) |
 | **Quiz Game** | Trivia game with categories and leaderboards. | [⬇️ QuizGame.apk](https://github.com/Shauls/magmanet-apps/releases/download/quiz-game/QuizGame.apk) |
 | **Sacrifice** | Chess riddles built around brilliant sacrifices. | [⬇️ Sacrifice.apk](https://github.com/Shauls/magmanet-apps/releases/download/sacrifice/Sacrifice.apk) |
+| **Semantika · סמנטיקה** | Guess the secret word by meaning (like Semantle): daily Hebrew and English words, closeness scores and ranks, gradual hints, stats and streaks, and a Wi-Fi race with friends. Works offline. | [⬇️ Semantika.apk](https://github.com/Shauls/magmanet-apps/releases/download/semantika/Semantika.apk) |
 
 ## 🃏 Card Trainers
 
