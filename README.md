@@ -1,6 +1,6 @@
 # Magmanet Apps
 
-**57 Android apps** by Magmanet. Every link below always downloads the newest version.
+**58 Android apps** by Magmanet. Every link below always downloads the newest version.
 
 **How to install:** open a link on an Android phone → download → allow *Install unknown apps* for your browser when asked.
 
@@ -57,6 +57,7 @@
 | **Amor – Learn Spanish** | Learn Spanish with Lola the parrot: 24 units, spaced repetition, pronunciation feedback, Sound Lab, hands-free audio mode, verb conjugator and widget. Native Android. | [⬇️ Amor.apk](https://github.com/Shauls/magmanet-apps/releases/download/amor/Amor.apk) |
 | **Tamrurim · תמרורים** | Pass the Israeli driving-theory exam: all 1,802 official questions, smart practice that targets your mistakes, realistic mock exams and road-sign games, in six languages, offline and ad-free. | [⬇️ Tamrurim.apk](https://github.com/Shauls/magmanet-apps/releases/download/tamrurim/Tamrurim.apk) |
 | **TabMaster · טאבמאסטר** | Interactive tab and score player for guitar, bass, ukulele and drums: multi-track mixer, speed and loop trainer, play-along with the microphone, wait mode, fretboard, tab editor, Guitar Pro / MusicXML import. 73 public-domain and original pieces. | [⬇️ TabMaster.apk](https://github.com/Shauls/magmanet-apps/releases/download/tabmaster/TabMaster.apk) |
+| **Bobo · בובו – English Buddy** | Talk English out loud with Bobo, a friendly buddy for kids: AI conversations with a parent-added key (kid-safe, time goal, parent area) plus a full offline mode with 32 voice dialogues, speak-and-repeat, 22 stories and 600 words. | [⬇️ Bobo.apk](https://github.com/Shauls/magmanet-apps/releases/download/bobo/Bobo.apk) |
 
 ## 💪 Health & Fitness
 
