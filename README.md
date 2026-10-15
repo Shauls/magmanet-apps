@@ -1,6 +1,6 @@
 # Magmanet Apps
 
-**58 Android apps** by Magmanet. Every link below always downloads the newest version.
+**59 Android apps** by Magmanet. Every link below always downloads the newest version.
 
 **How to install:** open a link on an Android phone → download → allow *Install unknown apps* for your browser when asked.
 
@@ -13,6 +13,7 @@
 | **ARMA** | ARMA: decision intelligence for early-stage real estate development. From a single address: planning potential, regulatory clarity and financial feasibility. | [⬇️ ARMA.apk](https://github.com/Shauls/magmanet-apps/releases/download/arma/ARMA.apk) |
 | **1wayM** | 1wayM: organize your path to earning and building $1,000,000. Million Map, milestones, net worth, income streams, calculators, habits and lessons. Educational, not financial advice. Local-only. | [⬇️ 1wayM.apk](https://github.com/Shauls/magmanet-apps/releases/download/onewaym/1wayM.apk) |
 | **El HaMaayan Yoga Studio · סטודיו ליוגה אל המעיין** | Studio management for yoga, Pilates, fitness and dance studios and personal trainers: schedule, students, memberships, payments, leads and reports. Local-first. | [⬇️ YogaStudio.apk](https://github.com/Shauls/magmanet-apps/releases/download/studioflow/YogaStudio.apk) |
+| **תמחור שיפוצים · RenoQuote** | Hebrew renovation pricing for contractors: 266-item editable price list, room-by-room quotes from templates, calculators, VAT and payment milestones, client signature and a Hebrew PDF quote to send on WhatsApp, plus payments and profit per job. | [⬇️ RenoQuote.apk](https://github.com/Shauls/magmanet-apps/releases/download/renoquote/RenoQuote.apk) |
 
 ## 🎮 Kids & Family
 
