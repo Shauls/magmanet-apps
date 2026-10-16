@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**60 free Android apps · no ads · Hebrew & English**  
-**60 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**59 free Android apps · no ads · Hebrew & English**  
+**59 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -99,7 +99,6 @@
 
 | | App | Description | |
 |:-:|---|---|---|
-| <img src="https://shauls.github.io/magmanet-apps/img/icons/arma-192.png" width="48" height="48" alt=""> | **ARMA** | From one address to planning potential, regulation and feasibility<br><sub>מכתובת אחת לפוטנציאל תכנוני, לבדיקה רגולטורית ולהיתכנות כלכלית</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/arma/ARMA.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/arma/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/studioflow-192.png" width="48" height="48" alt=""> | **El HaMaayan Yoga Studio**<br>סטודיו ליוגה אל המעיין | Run your yoga or fitness studio: classes, students, memberships, payments<br><sub>ניהול סטודיו ליוגה ולכושר: מערכת שעות, מתאמנים, מנויים ותשלומים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/studioflow/YogaStudio.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/studioflow/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/renoquote-192.png" width="48" height="48" alt=""> | **RenoQuote**<br>תמחור שיפוצים | Price renovation jobs and send professional Hebrew PDF quotes<br><sub>מתמחרים עבודות שיפוץ ושולחים הצעת מחיר PDF מקצועית בעברית</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/renoquote/RenoQuote.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/renoquote/) |
 
