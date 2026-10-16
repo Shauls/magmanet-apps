@@ -1,125 +1,134 @@
-# Magmanet Apps
+<div align="center">
 
-**60 Android apps** by Magmanet. Every link below always downloads the newest version.
+<a href="https://shauls.github.io/magmanet-apps/"><img src="https://shauls.github.io/magmanet-apps/assets/favicon.svg" width="72" alt="Magmanet"></a>
 
-**How to install:** open a link on an Android phone → download → allow *Install unknown apps* for your browser when asked.
+# Magmanet Apps · האפליקציות של Magmanet
 
-*להתקנה: לפתוח את הלינק בטלפון אנדרואיד, להוריד, ולאשר "התקנה ממקורות לא ידועים" כשמתבקש.*
+### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-## 🏗️ Business & Pro
+**60 free Android apps · no ads · Hebrew & English**  
+**60 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
-| App | What it does | Download |
-|---|---|---|
-| **ARMA** | ARMA: decision intelligence for early-stage real estate development. From a single address: planning potential, regulatory clarity and financial feasibility. | [⬇️ ARMA.apk](https://github.com/Shauls/magmanet-apps/releases/download/arma/ARMA.apk) |
-| **1wayM** | 1wayM: organize your path to earning and building $1,000,000. Million Map, milestones, net worth, income streams, calculators, habits and lessons. Educational, not financial advice. Local-only. | [⬇️ 1wayM.apk](https://github.com/Shauls/magmanet-apps/releases/download/onewaym/1wayM.apk) |
-| **El HaMaayan Yoga Studio · סטודיו ליוגה אל המעיין** | Studio management for yoga, Pilates, fitness and dance studios and personal trainers: schedule, students, memberships, payments, leads and reports. Local-first. | [⬇️ YogaStudio.apk](https://github.com/Shauls/magmanet-apps/releases/download/studioflow/YogaStudio.apk) |
-| **תמחור שיפוצים · RenoQuote** | Hebrew renovation pricing for contractors: 266-item editable price list, room-by-room quotes from templates, calculators, VAT and payment milestones, client signature and a Hebrew PDF quote to send on WhatsApp, plus payments and profit per job. | [⬇️ RenoQuote.apk](https://github.com/Shauls/magmanet-apps/releases/download/renoquote/RenoQuote.apk) |
+</div>
 
-## 🎮 Kids & Family
+> **How to install:** open a download link on an Android phone → open the file → allow *Install unknown apps* for your browser when asked. Links always download the newest version.  
+> **להתקנה:** פותחים את קישור ההורדה בטלפון אנדרואיד, פותחים את הקובץ ומאשרים "התקנה ממקורות לא ידועים" כשמתבקש. הקישורים תמיד מורידים את הגרסה האחרונה.
 
-| App | What it does | Download |
-|---|---|---|
-| **Mitzi's World · העולם של מיצי** | Mitzi's World: care for Mitzi the cat, dress her up, run her pizzeria, dance on stage and fly around the world. Offline, no ads, made for kids. | [⬇️ Mitzi.apk](https://github.com/Shauls/magmanet-apps/releases/download/mitzi/Mitzi.apk) |
-| **Puzzlito (Kids)** | Colorful, easy puzzles for kids. | [⬇️ PuzzlitoKids.apk](https://github.com/Shauls/magmanet-apps/releases/download/puzzlito-kids/PuzzlitoKids.apk) |
-| **Thinkk (Ages 5-7)** | Thinking games for ages 5-7. | [⬇️ ThinkkAges57.apk](https://github.com/Shauls/magmanet-apps/releases/download/thinkk-5-7/ThinkkAges57.apk) |
-| **Thinkk (Ages 7-9)** | Thinking and reasoning games for ages 7-9. | [⬇️ ThinkkAges79.apk](https://github.com/Shauls/magmanet-apps/releases/download/thinkk-7-9/ThinkkAges79.apk) |
-| **MotorQuest** | Motor-skill practice games for children and adults with dyspraxia / DCD, incl. road skills for learner drivers. English, Hebrew, Arabic, Russian. Offline. Not a medical device. | [⬇️ MotorQuest.apk](https://github.com/Shauls/magmanet-apps/releases/download/motorquest/MotorQuest.apk) |
-| **Richard · ריצ'ארד – Avatar Mirror** | Fun avatar mirror: take a mirror selfie and get a cartoon avatar that looks like you, 5 art styles, dances, funny faces and a 12-sticker pack to share. Photos stay on the phone. | [⬇️ Richard.apk](https://github.com/Shauls/magmanet-apps/releases/download/richard/Richard.apk) |
+[📚 Learning & Languages](#-learning--languages--למידה-ושפות) · [🧸 Kids](#-kids--ילדים) · [🎸 Music](#-music--מוזיקה) · [🧩 Games & Quizzes](#-games--quizzes--משחקים-וחידונים) · [💪 Health & Fitness](#-health--fitness--כושר-ובריאות) · [✅ Productivity](#-productivity--פרודוקטיביות) · [💰 Money](#-money--כסף) · [💼 Business & Pro](#-business--pro--עסקים-ומקצועות) · [🛠️ Tools](#-tools--כלים) · [🏡 Home & Life](#-home--life--בית-וחיים)
 
-## 🧠 Quiz, Puzzles & Games
+## 📚 Learning & Languages · למידה ושפות
 
-| App | What it does | Download |
-|---|---|---|
-| **Competition** | Challenges for friends — because we love a challenge. | [⬇️ Competition.apk](https://github.com/Shauls/magmanet-apps/releases/download/competition/Competition.apk) |
-| **80s Music Quiz** | Rewind to the 80s: pop, dark eighties, international and Israeli hits. | [⬇️ 80sMusicQuiz.apk](https://github.com/Shauls/magmanet-apps/releases/download/music-quiz-80s/80sMusicQuiz.apk) |
-| **Puzzlito (Adults)** | Challenging puzzle collection for adults. | [⬇️ PuzzlitoAdults.apk](https://github.com/Shauls/magmanet-apps/releases/download/puzzlito-adults/PuzzlitoAdults.apk) |
-| **Quiz Game** | Trivia game with categories and leaderboards. | [⬇️ QuizGame.apk](https://github.com/Shauls/magmanet-apps/releases/download/quiz-game/QuizGame.apk) |
-| **Sacrifice** | Chess riddles built around brilliant sacrifices. | [⬇️ Sacrifice.apk](https://github.com/Shauls/magmanet-apps/releases/download/sacrifice/Sacrifice.apk) |
-| **Semantika · סמנטיקה** | Guess the secret word by meaning (like Semantle): daily Hebrew and English words, closeness scores and ranks, gradual hints, stats and streaks, and a Wi-Fi race with friends. Works offline. | [⬇️ Semantika.apk](https://github.com/Shauls/magmanet-apps/releases/download/semantika/Semantika.apk) |
+| | App | Description | |
+|:-:|---|---|---|
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/amor-192.png" width="48" height="48" alt=""> | **Amor** | Learn Spanish with Lola the parrot: lessons, speaking and stories<br><sub>ספרדית לדוברי אנגלית עם לולה התוכית: שיעורים, דיבור וסיפורים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/amor/Amor.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/amor/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/perfavore-192.png" width="48" height="48" alt=""> | **Per Favore** | Learn Italian through original songs, short lessons and a singing pigeon<br><sub>לומדים איטלקית עם שירים מקוריים, שיעורים קצרים ויונה שרה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/perfavore/PerFavore.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/perfavore/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/tamrurim-192.png" width="48" height="48" alt=""> | **Tamrurim**<br>תמרורים | Pass Israel's driving theory test: all pool questions and smart practice<br><sub>כל שאלות התיאוריה, תרגול חכם שמתמקד בטעויות ומבחנים מדומים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/tamrurim/Tamrurim.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/tamrurim/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/flashcards-192.png" width="48" height="48" alt=""> | **Flashcards** | Learn anything with spaced-repetition flashcards<br><sub>לומדים כל דבר עם כרטיסיות וחזרה מרווחת חכמה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/flashcards/Flashcards.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/flashcards/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/language-learning-192.png" width="48" height="48" alt=""> | **Language Learning** | Bite-sized daily vocabulary in Spanish, French, German and Italian<br><sub>אוצר מילים וביטויים בספרדית, צרפתית, גרמנית ואיטלקית, בכמה דקות ביום</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/language-learning/LanguageLearning.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/language-learning/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/porfavor-192.png" width="48" height="48" alt=""> | **Por Favor** | Learn Spanish through original songs with Lola the parrot<br><sub>לומדים ספרדית עם שירים מקוריים ולולה התוכית, מעברית או מאנגלית</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/porfavor/PorFavor.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/porfavor/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/miyun-192.png" width="48" height="48" alt=""> | **Ready for Screening**<br>מוכנים למיון | Prep for computerized screening tests: diagnostic, practice, interview<br><sub>הכנה למבחני מיון ממוחשבים: אבחון, תרגול חשיבה, סימולציות וראיון</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/miyun/Miyun.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/miyun/) |
 
-## 🃏 Card Trainers
+## 🧸 Kids · ילדים
 
-| App | What it does | Download |
-|---|---|---|
-| **Blackjack Secret** | Learn optimal blackjack strategy through practice. | [⬇️ BlackjackSecret.apk](https://github.com/Shauls/magmanet-apps/releases/download/blackjack-secret/BlackjackSecret.apk) |
-| **Bridge Secret** | Learn and master the secrets of contract bridge. | [⬇️ BridgeSecret.apk](https://github.com/Shauls/magmanet-apps/releases/download/bridge-secret/BridgeSecret.apk) |
-| **Poker Secret** | Learn winning poker strategy step by step. | [⬇️ PokerSecret.apk](https://github.com/Shauls/magmanet-apps/releases/download/poker-secret/PokerSecret.apk) |
+| | App | Description | |
+|:-:|---|---|---|
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/mitzi-192.png" width="48" height="48" alt=""> | **Mitzi's World**<br>העולם של מיצי | Feed and dress up Mitzi the cat, run her pizzeria and travel the world<br><sub>מאכילים, מלבישים ומפנקים את מיצי החתולה, מנהלים פיצרייה וטסים לעולם</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/mitzi/Mitzi.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/mitzi/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/motorquest-192.png" width="48" height="48" alt=""> | **MotorQuest**<br>מסע התנועה | Motor-skill games and learner-driver practice for dyspraxia (DCD)<br><sub>משחקי מוטוריקה ותרגול נהיגה לילדים ולמבוגרים עם דיספרקסיה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/motorquest/MotorQuest.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/motorquest/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/richard-192.png" width="48" height="48" alt=""> | **Richard**<br>ריצ׳ארד | Turn a mirror selfie into your own cartoon avatar, stickers and dances<br><sub>מצלמים סלפי במראה ומקבלים דמות מצוירת משלכם, עם סטיקרים וריקודים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/richard/Richard.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/richard/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/bobo-192.png" width="48" height="48" alt=""> | **Bobo**<br>בובו | A friendly buddy that gets kids talking English: chats, stories, games<br><sub>חבר ידידותי שגורם לילדים לדבר אנגלית: שיחות, סיפורים ומשחקים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/bobo/Bobo.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/bobo/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/puzzlito-kids-192.png" width="48" height="48" alt=""> | **Puzzlito Kids**<br>פאזליטו לילדים | 12 colorful puzzle games that grow with your child<br><sub>12 סוגי פאזלים צבעוניים ומשחקי חשיבה שגדלים יחד עם הילד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/puzzlito-kids/PuzzlitoKids.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/puzzlito-kids/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/thinkk-5-7-192.png" width="48" height="48" alt=""> | **Thinkk 5-7**<br>ת׳ינק 5–7 | 13 thinking games for ages 5-7, spoken aloud so no reading is needed<br><sub>13 משחקי חשיבה לגילאי 5–7, עם הוראות קוליות ובלי צורך לקרוא</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/thinkk-5-7/ThinkkAges57.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/thinkk-5-7/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/thinkk-7-9-192.png" width="48" height="48" alt=""> | **Thinkk 7-9**<br>ת׳ינק 7–9 | 13 worlds of logic, math and coding puzzles for ages 7-9<br><sub>13 עולמות של חידות היגיון, מספרים ותכנות לגילאי 7–9</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/thinkk-7-9/ThinkkAges79.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/thinkk-7-9/) |
 
-## 📚 Learning
+## 🎸 Music · מוזיקה
 
-| App | What it does | Download |
-|---|---|---|
-| **Per Favore – Learn Italian** | Learn Italian through original songs, from English or Hebrew: 80 lessons, 195-verb conjugation trainer, conversations and stories. Free, offline, no ads. | [⬇️ PerFavore.apk](https://github.com/Shauls/magmanet-apps/releases/download/perfavore/PerFavore.apk) |
-| **Flashcards** | Learn anything with spaced-repetition flashcards. | [⬇️ Flashcards.apk](https://github.com/Shauls/magmanet-apps/releases/download/flashcards/Flashcards.apk) |
-| **GuitarMaster** | Learn guitar step by step. GuitarMaster listens through the microphone and checks your notes, chords and rhythm. | [⬇️ GuitarMaster.apk](https://github.com/Shauls/magmanet-apps/releases/download/guitarmaster/GuitarMaster.apk) |
-| **Language Learning** | Bite-sized daily vocabulary and phrase practice. | [⬇️ LanguageLearning.apk](https://github.com/Shauls/magmanet-apps/releases/download/language-learning/LanguageLearning.apk) |
-| **Music Practice** | Metronome, tuner, and practice log for musicians. | [⬇️ MusicPractice.apk](https://github.com/Shauls/magmanet-apps/releases/download/music-practice/MusicPractice.apk) |
-| **Por Favor** | Learn Spanish through original songs, from English or Hebrew. Free, offline, no ads. | [⬇️ PorFavor.apk](https://github.com/Shauls/magmanet-apps/releases/download/porfavor/PorFavor.apk) |
-| **Amor – Learn Spanish** | Learn Spanish with Lola the parrot: 24 units, spaced repetition, pronunciation feedback, Sound Lab, hands-free audio mode, verb conjugator and widget. Native Android. | [⬇️ Amor.apk](https://github.com/Shauls/magmanet-apps/releases/download/amor/Amor.apk) |
-| **Tamrurim · תמרורים** | Pass the Israeli driving-theory exam: all 1,802 official questions, smart practice that targets your mistakes, realistic mock exams and road-sign games, in six languages, offline and ad-free. | [⬇️ Tamrurim.apk](https://github.com/Shauls/magmanet-apps/releases/download/tamrurim/Tamrurim.apk) |
-| **TabMaster · טאבמאסטר** | Interactive tab and score player for guitar, bass, ukulele and drums: multi-track mixer, speed and loop trainer, play-along with the microphone, wait mode, fretboard, tab editor, Guitar Pro / MusicXML import. 73 public-domain and original pieces. | [⬇️ TabMaster.apk](https://github.com/Shauls/magmanet-apps/releases/download/tabmaster/TabMaster.apk) |
-| **Bobo · בובו – English Buddy** | Talk English out loud with Bobo, a friendly buddy for kids: AI conversations with a parent-added key (kid-safe, time goal, parent area) plus a full offline mode with 32 voice dialogues, speak-and-repeat, 22 stories and 600 words. | [⬇️ Bobo.apk](https://github.com/Shauls/magmanet-apps/releases/download/bobo/Bobo.apk) |
-| **מוכנים למיון · Screening Test Prep** | Hebrew prep for computerized job and screening tests: unlimited thinking practice (series, matrices, logic, algorithmic, quantitative, verbal, spatial), timed simulations, personality and integrity familiarization, situational judgment, cyber awareness and interview prep. | [⬇️ Miyun.apk](https://github.com/Shauls/magmanet-apps/releases/download/miyun/Miyun.apk) |
+| | App | Description | |
+|:-:|---|---|---|
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/music-quiz-80s-192.png" width="48" height="48" alt=""> | **80s Music Quiz**<br>חידון מוזיקה: שנות ה-80 | Fact-based trivia, listening games and party play for fans of 80s music<br><sub>טריוויה, משחקי האזנה ומשחקי חברים לכל מי שגדל על המוזיקה של שנות ה-80</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/music-quiz-80s/80sMusicQuiz.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/music-quiz-80s/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/guitarmaster-192.png" width="48" height="48" alt=""> | **GuitarMaster**<br>גיטרמאסטר | Learn guitar step by step with lessons that listen to you play<br><sub>לומדים גיטרה צעד אחר צעד, עם שיעורים שמקשיבים לכם מנגנים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/guitarmaster/GuitarMaster.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/guitarmaster/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/tabmaster-192.png" width="48" height="48" alt=""> | **TabMaster**<br>טאבמאסטר | Interactive tabs for guitar, bass, ukulele and drums, with mic play-along<br><sub>טאבים ותווים אינטראקטיביים לגיטרה, בס, יוקלילי ותופים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/tabmaster/TabMaster.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/tabmaster/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/music-practice-192.png" width="48" height="48" alt=""> | **Music Practice** | Metronome, reference tones, ear training and a practice log in one app<br><sub>מטרונום, צלילי כיוון, אימון שמיעה ויומן תרגול במקום אחד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/music-practice/MusicPractice.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/music-practice/) |
 
-## 💪 Health & Fitness
+## 🧩 Games & Quizzes · משחקים וחידונים
 
-| App | What it does | Download |
-|---|---|---|
-| **Gym Trainer** | Save gym videos from YouTube, Instagram and TikTok in one tap and train with them. | [⬇️ GymTrainer.apk](https://github.com/Shauls/magmanet-apps/releases/download/gym-trainer/GymTrainer.apk) |
-| **Meditation** | Guided and timed meditation sessions. | [⬇️ Meditation.apk](https://github.com/Shauls/magmanet-apps/releases/download/meditation/Meditation.apk) |
-| **Mood Journal** | Track your mood and reflect with short entries. | [⬇️ MoodJournal.apk](https://github.com/Shauls/magmanet-apps/releases/download/mood-journal/MoodJournal.apk) |
-| **Sleep Tracker** | Log sleep and improve your rest. | [⬇️ SleepTracker.apk](https://github.com/Shauls/magmanet-apps/releases/download/sleep-tracker/SleepTracker.apk) |
-| **Water Reminder** | Stay hydrated with intake tracking and nudges. | [⬇️ WaterReminder.apk](https://github.com/Shauls/magmanet-apps/releases/download/water-reminder/WaterReminder.apk) |
-| **Workout Log** | Track gym sessions, sets, reps, and progress. | [⬇️ WorkoutLog.apk](https://github.com/Shauls/magmanet-apps/releases/download/workout-log/WorkoutLog.apk) |
-| **Workout Planner** | Plan weekly training programs and follow them. | [⬇️ WorkoutPlanner.apk](https://github.com/Shauls/magmanet-apps/releases/download/workout-planner/WorkoutPlanner.apk) |
+| | App | Description | |
+|:-:|---|---|---|
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/competition-192.png" width="48" height="48" alt=""> | **Competition**<br>תחרות | 250 challenges for 2-8 friends: play, score each other, crown a winner<br><sub>250 אתגרים ל-2 עד 8 חברים: בוחרים, משחקים, נותנים ציונים ומכתירים מנצח</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/competition/Competition.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/competition/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/puzzlito-adults-192.png" width="48" height="48" alt=""> | **Puzzlito**<br>פאזליטו | Twelve logic, number and word puzzles, a Daily Set and hints that teach<br><sub>12 חידות היגיון, מספרים ומילים, סט יומי ורמזים שמלמדים איך לפתור</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/puzzlito-adults/PuzzlitoAdults.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/puzzlito-adults/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/semantika-192.png" width="48" height="48" alt=""> | **Semantika**<br>סמנטיקה | Find the secret word by meaning: every guess shows how close you are<br><sub>מוצאים את המילה הסודית לפי המשמעות – וכל ניחוש מראה כמה התקרבתם</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/semantika/Semantika.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/semantika/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/blackjack-secret-192.png" width="48" height="48" alt=""> | **Blackjack Secret** | Master basic strategy and card counting with play money only<br><sub>לומדים אסטרטגיה בסיסית וספירת קלפים, בכסף משחק בלבד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/blackjack-secret/BlackjackSecret.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/blackjack-secret/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/bridge-secret-192.png" width="48" height="48" alt=""> | **Bridge Secret** | Learn contract bridge: bidding, declarer play and defense<br><sub>לומדים ברידג׳ חוזים: הכרזה, משחק ידיים והגנה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/bridge-secret/BridgeSecret.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/bridge-secret/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/poker-secret-192.png" width="48" height="48" alt=""> | **Poker Secret** | Learn winning poker strategy step by step, no real money<br><sub>לומדים אסטרטגיית פוקר צעד אחר צעד, בלי כסף אמיתי</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/poker-secret/PokerSecret.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/poker-secret/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/quiz-game-192.png" width="48" height="48" alt=""> | **Quiz Game**<br>חידון טריוויה | 720 questions in 12 categories, a daily challenge, party modes and leaderboards<br><sub>720 שאלות ב-12 קטגוריות, אתגר יומי, מצבי משחק לחברים וטבלאות שיאים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/quiz-game/QuizGame.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/quiz-game/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/sacrifice-192.png" width="48" height="48" alt=""> | **Sacrifice**<br>סקריפייס | Chess puzzles built around brilliant sacrifices, every line verified<br><sub>חידות שחמט סביב הקרבות מבריקות וכל טקטיקה אחרת – כל מסע נבדק</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/sacrifice/Sacrifice.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/sacrifice/) |
 
-## 🍸 Food & Drink
+## 💪 Health & Fitness · כושר ובריאות
 
-| App | What it does | Download |
-|---|---|---|
-| **Cocktail Master** | Become a cocktail expert: classic recipes, techniques, your bar and smart substitutions. | [⬇️ CocktailMaster.apk](https://github.com/Shauls/magmanet-apps/releases/download/cocktail-master/CocktailMaster.apk) |
-| **Recipe Book** | Save, organize, and cook your favorite recipes. | [⬇️ RecipeBook.apk](https://github.com/Shauls/magmanet-apps/releases/download/recipe-book/RecipeBook.apk) |
-| **Shopping List** | Shared grocery lists that sync across the family. | [⬇️ ShoppingList.apk](https://github.com/Shauls/magmanet-apps/releases/download/shopping-list/ShoppingList.apk) |
+| | App | Description | |
+|:-:|---|---|---|
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/gym-trainer-192.png" width="48" height="48" alt=""> | **Gym Trainer**<br>ג׳ים טריינר | Save training videos in one tap, then train with them<br><sub>כל סרטוני האימון שאהבתם, במקום אחד – ומוכנים לאימון</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/gym-trainer/GymTrainer.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/gym-trainer/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/meditation-192.png" width="48" height="48" alt=""> | **Meditation**<br>מדיטציה | A few calm minutes – guided, timed or breathing<br><sub>כמה דקות של שקט – עם הנחיה, טיימר או תרגיל נשימה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/meditation/Meditation.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/meditation/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/mood-journal-192.png" width="48" height="48" alt=""> | **Mood Journal**<br>יומן מצב רוח | A moment a day to check in and reflect – privately<br><sub>רגע ביום לעצור, להרגיש ולכתוב – באופן פרטי לגמרי</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/mood-journal/MoodJournal.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/mood-journal/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/sleep-tracker-192.png" width="48" height="48" alt=""> | **Sleep Tracker**<br>מעקב שינה | Log your nights and learn what really affects your sleep<br><sub>מתעדים את הלילות ומבינים מה באמת משפיע על השינה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/sleep-tracker/SleepTracker.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/sleep-tracker/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/water-reminder-192.png" width="48" height="48" alt=""> | **Water Reminder**<br>תזכורת מים | Drink enough water with a personal goal and gentle nudges<br><sub>שותים מספיק מים – עם יעד אישי ותזכורות עדינות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/water-reminder/WaterReminder.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/water-reminder/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/workout-log-192.png" width="48" height="48" alt=""> | **Workout Log**<br>יומן אימונים | Log your sets, beat your records, see your progress<br><sub>רושמים סטים, שוברים שיאים ורואים את ההתקדמות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/workout-log/WorkoutLog.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/workout-log/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/workout-planner-192.png" width="48" height="48" alt=""> | **Workout Planner**<br>מתכנן אימונים | Plan your training week and actually stick to it<br><sub>תוכנית אימונים שבועית שבאמת עוקבים אחריה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/workout-planner/WorkoutPlanner.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/workout-planner/) |
 
-## 💰 Money
+## ✅ Productivity · פרודוקטיביות
 
-| App | What it does | Download |
-|---|---|---|
-| **Budget Planner** | Plan monthly income and spending goals. | [⬇️ BudgetPlanner.apk](https://github.com/Shauls/magmanet-apps/releases/download/budget-planner/BudgetPlanner.apk) |
-| **Expense Tracker** | Log spending and see where your money goes. | [⬇️ ExpenseTracker.apk](https://github.com/Shauls/magmanet-apps/releases/download/expense-tracker/ExpenseTracker.apk) |
-| **Tip Calculator** | Split bills and calculate tips instantly. | [⬇️ TipCalculator.apk](https://github.com/Shauls/magmanet-apps/releases/download/tip-calculator/TipCalculator.apk) |
+| | App | Description | |
+|:-:|---|---|---|
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/countdown-192.png" width="48" height="48" alt=""> | **Countdown**<br>ספירה לאחור | Count down to big moments – or count up from them<br><sub>סופרים את הימים לרגעים הגדולים – ואת הימים מאז</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/countdown/Countdown.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/countdown/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/event-planner-192.png" width="48" height="48" alt=""> | **Event Planner**<br>מתכנן אירועים | Guests, tasks, budget and seating – your whole event in one place<br><sub>מוזמנים, משימות, תקציב והושבה – כל האירוע במקום אחד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/event-planner/EventPlanner.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/event-planner/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/habit-tracker-192.png" width="48" height="48" alt=""> | **Habit Tracker**<br>מעקב הרגלים | Build good habits day by day with motivating streaks<br><sub>בונים הרגלים טובים, יום אחרי יום, עם רצפים שמדרבנים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/habit-tracker/HabitTracker.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/habit-tracker/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/notes-192.png" width="48" height="48" alt=""> | **Notes**<br>פתקים | Quick notes with folders, tags and search that finds it all<br><sub>פתקים מהירים עם תיקיות, תגיות וחיפוש שמוצא הכול</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/notes/Notes.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/notes/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/pomodoro-timer-192.png" width="48" height="48" alt=""> | **Pomodoro Timer**<br>טיימר פומודורו | Focus in short bursts, rest on time, get more done<br><sub>מתרכזים בפרצים קצרים, נחים בזמן ומספיקים יותר</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/pomodoro-timer/PomodoroTimer.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/pomodoro-timer/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/todo-list-192.png" width="48" height="48" alt=""> | **To-Do List**<br>רשימת משימות | Type a task in plain words – the app handles the rest<br><sub>כותבים משימה במשפט אחד – והאפליקציה מבינה את השאר</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/todo-list/ToDoList.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/todo-list/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/travel-planner-192.png" width="48" height="48" alt=""> | **Travel Planner**<br>מתכנן טיולים | Itinerary, bookings, packing and a shared budget for every trip<br><sub>מסלול, הזמנות, רשימת אריזה ותקציב משותף לכל טיול</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/travel-planner/TravelPlanner.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/travel-planner/) |
 
-## 🗓️ Productivity
+## 💰 Money · כסף
 
-| App | What it does | Download |
-|---|---|---|
-| **Countdown** | Count down to birthdays, trips, and big events. | [⬇️ Countdown.apk](https://github.com/Shauls/magmanet-apps/releases/download/countdown/Countdown.apk) |
-| **Event Planner** | Plan parties and events with guests and tasks. | [⬇️ EventPlanner.apk](https://github.com/Shauls/magmanet-apps/releases/download/event-planner/EventPlanner.apk) |
-| **Habit Tracker** | Build daily habits with streaks and stats. | [⬇️ HabitTracker.apk](https://github.com/Shauls/magmanet-apps/releases/download/habit-tracker/HabitTracker.apk) |
-| **Notes** | Fast note-taking with folders and search. | [⬇️ Notes.apk](https://github.com/Shauls/magmanet-apps/releases/download/notes/Notes.apk) |
-| **Pomodoro Timer** | Focus timer using the Pomodoro technique. | [⬇️ PomodoroTimer.apk](https://github.com/Shauls/magmanet-apps/releases/download/pomodoro-timer/PomodoroTimer.apk) |
-| **To-Do List** | Simple task manager with due dates and reminders. | [⬇️ ToDoList.apk](https://github.com/Shauls/magmanet-apps/releases/download/todo-list/ToDoList.apk) |
-| **Travel Planner** | Organize trips, itineraries, and packing lists. | [⬇️ TravelPlanner.apk](https://github.com/Shauls/magmanet-apps/releases/download/travel-planner/TravelPlanner.apk) |
+| | App | Description | |
+|:-:|---|---|---|
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/onewaym-192.png" width="48" height="48" alt=""> | **1wayM** | Plan your path to a million: net worth, budget, income ideas and lessons<br><sub>הדרך למיליון: הון נקי, תקציב, רעיונות להכנסה ושיעורים על כסף</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/onewaym/1wayM.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/onewaym/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/budget-planner-192.png" width="48" height="48" alt=""> | **Budget Planner** | Envelope budgeting that gives every dollar a job<br><sub>תקציב מעטפות: לכל שקל יש תפקיד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/budget-planner/BudgetPlanner.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/budget-planner/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/expense-tracker-192.png" width="48" height="48" alt=""> | **Expense Tracker** | Log spending and see where your money goes<br><sub>רושמים הוצאות ורואים לאן הכסף הולך</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/expense-tracker/ExpenseTracker.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/expense-tracker/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/tip-calculator-192.png" width="48" height="48" alt=""> | **Tip Calculator** | Split bills and calculate tips instantly<br><sub>מחשבים טיפ ומתחלקים בחשבון בשניות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/tip-calculator/TipCalculator.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/tip-calculator/) |
 
-## 🏠 Home & Life
+## 💼 Business & Pro · עסקים ומקצועות
 
-| App | What it does | Download |
-|---|---|---|
-| **Book Tracker** | Track books you read, want to read, and loved. | [⬇️ BookTracker.apk](https://github.com/Shauls/magmanet-apps/releases/download/book-tracker/BookTracker.apk) |
-| **Car Maintenance** | Track fuel, service, and repairs for your vehicles. | [⬇️ CarMaintenance.apk](https://github.com/Shauls/magmanet-apps/releases/download/car-maintenance/CarMaintenance.apk) |
-| **Daily Quotes** | An inspiring quote every day, with favorites and sharing. | [⬇️ DailyQuotes.apk](https://github.com/Shauls/magmanet-apps/releases/download/daily-quotes/DailyQuotes.apk) |
-| **LeChic** | AI styling assistant: upload your photo and get outfit options. | [⬇️ LeChic.apk](https://github.com/Shauls/magmanet-apps/releases/download/lechic/LeChic.apk) |
-| **Pet Care** | Keep track of your pet's health and routines. | [⬇️ PetCare.apk](https://github.com/Shauls/magmanet-apps/releases/download/pet-care/PetCare.apk) |
-| **Plant Care** | Never forget to water your plants again. | [⬇️ PlantCare.apk](https://github.com/Shauls/magmanet-apps/releases/download/plant-care/PlantCare.apk) |
+| | App | Description | |
+|:-:|---|---|---|
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/arma-192.png" width="48" height="48" alt=""> | **ARMA** | From one address to planning potential, regulation and feasibility<br><sub>מכתובת אחת לפוטנציאל תכנוני, לבדיקה רגולטורית ולהיתכנות כלכלית</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/arma/ARMA.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/arma/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/studioflow-192.png" width="48" height="48" alt=""> | **El HaMaayan Yoga Studio**<br>סטודיו ליוגה אל המעיין | Run your yoga or fitness studio: classes, students, memberships, payments<br><sub>ניהול סטודיו ליוגה ולכושר: מערכת שעות, מתאמנים, מנויים ותשלומים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/studioflow/YogaStudio.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/studioflow/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/renoquote-192.png" width="48" height="48" alt=""> | **RenoQuote**<br>תמחור שיפוצים | Price renovation jobs and send professional Hebrew PDF quotes<br><sub>מתמחרים עבודות שיפוץ ושולחים הצעת מחיר PDF מקצועית בעברית</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/renoquote/RenoQuote.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/renoquote/) |
 
-## 🛠️ Tools
+## 🛠️ Tools · כלים
 
-| App | What it does | Download |
-|---|---|---|
-| **Password Generator** | Generate strong, customizable passwords. | [⬇️ PasswordGenerator.apk](https://github.com/Shauls/magmanet-apps/releases/download/password-generator/PasswordGenerator.apk) |
-| **QR Scanner** | Scan and generate QR codes and barcodes. | [⬇️ QRScanner.apk](https://github.com/Shauls/magmanet-apps/releases/download/qr-scanner/QRScanner.apk) |
-| **Unit Converter** | Convert length, weight, temperature, currency and more. | [⬇️ UnitConverter.apk](https://github.com/Shauls/magmanet-apps/releases/download/unit-converter/UnitConverter.apk) |
-| **Weather** | Current conditions and forecasts for your locations. | [⬇️ Weather.apk](https://github.com/Shauls/magmanet-apps/releases/download/weather/Weather.apk) |
+| | App | Description | |
+|:-:|---|---|---|
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/password-generator-192.png" width="48" height="48" alt=""> | **Password Generator**<br>מחולל סיסמאות | Strong passwords, passphrases and PINs – generated on your device<br><sub>סיסמאות חזקות, צירופי מילים וקודי PIN – הכול נוצר במכשיר</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/password-generator/PasswordGenerator.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/password-generator/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/qr-scanner-192.png" width="48" height="48" alt=""> | **QR Scanner**<br>סורק QR | Scan and create QR codes and barcodes, with link safety checks<br><sub>סורקים ויוצרים קודי QR וברקודים, עם בדיקת בטיחות לקישורים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/qr-scanner/QRScanner.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/qr-scanner/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/unit-converter-192.png" width="48" height="48" alt=""> | **Unit Converter**<br>ממיר יחידות | 13 unit categories, up-to-date currency rates and a kitchen converter<br><sub>13 קטגוריות של יחידות, שערי מטבע עדכניים וממיר למטבח</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/unit-converter/UnitConverter.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/unit-converter/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/weather-192.png" width="48" height="48" alt=""> | **Weather**<br>מזג אוויר | Current conditions, hourly outlook and a 10-day forecast<br><sub>מזג האוויר עכשיו, תחזית שעתית ותחזית ל־10 ימים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/weather/Weather.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/weather/) |
+
+## 🏡 Home & Life · בית וחיים
+
+| | App | Description | |
+|:-:|---|---|---|
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/book-tracker-192.png" width="48" height="48" alt=""> | **Book Tracker**<br>מעקב קריאה | Reading shelves, barcode scanning, reading sessions and a yearly goal<br><sub>מדפי קריאה, סריקת ברקוד, זמני קריאה ויעד שנתי</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/book-tracker/BookTracker.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/book-tracker/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/car-maintenance-192.png" width="48" height="48" alt=""> | **Car Maintenance**<br>תחזוקת רכב | Fuel, services, costs and reminders for all your vehicles<br><sub>דלק, טיפולים, עלויות ותזכורות – לכל הרכבים שלכם</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/car-maintenance/CarMaintenance.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/car-maintenance/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/cocktail-master-192.png" width="48" height="48" alt=""> | **Cocktail Master** | Classic recipes, techniques, your home bar and smart substitutions<br><sub>מתכונים קלאסיים, טכניקות, הבר שלכם ותחליפים חכמים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/cocktail-master/CocktailMaster.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/cocktail-master/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/daily-quotes-192.png" width="48" height="48" alt=""> | **Daily Quotes** | An inspiring quote every day, with favorites, collections and sharing<br><sub>ציטוט מעורר השראה בכל יום, עם מועדפים, אוספים ושיתוף</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/daily-quotes/DailyQuotes.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/daily-quotes/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/lechic-192.png" width="48" height="48" alt=""> | **LeChic** | Your pocket stylist: color palette, outfits for every occasion, your closet<br><sub>סטייליסטית אישית בכיס: פלטת צבעים, לוקים לכל אירוע והארון שלכם</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/lechic/LeChic.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/lechic/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/pet-care-192.png" width="48" height="48" alt=""> | **Pet Care**<br>טיפול בחיות מחמד | Daily routines, vaccines, meds and weight for your pet's health<br><sub>שגרה יומית, חיסונים, תרופות ומשקל – הבריאות של חיית המחמד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/pet-care/PetCare.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/pet-care/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/plant-care-192.png" width="48" height="48" alt=""> | **Plant Care**<br>טיפול בצמחים | Never forget to water: watering and feeding reminders for every plant<br><sub>לא שוכחים להשקות: תזכורות השקיה ודישון לכל צמח בבית</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/plant-care/PlantCare.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/plant-care/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/recipe-book-192.png" width="48" height="48" alt=""> | **Recipe Book**<br>ספר מתכונים | Recipes, cooking mode with timers, meal planning and a shopping list<br><sub>מתכונים, מצב בישול עם טיימרים, תכנון ארוחות ורשימת קניות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/recipe-book/RecipeBook.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/recipe-book/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/shopping-list-192.png" width="48" height="48" alt=""> | **Shopping List**<br>רשימת קניות | Smart grocery lists that sort themselves by store aisle<br><sub>רשימות קניות חכמות שמסתדרות לבד לפי מחלקות בסופר</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/shopping-list/ShoppingList.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/shopping-list/) |
 
 ---
-Free apps, no ads. Kids apps collect no data and need no internet. Estimates in ARMA, 1wayM and the card trainers are for screening/learning only.
+
+Free apps, no ads. Kids apps collect no data. Estimates in ARMA, 1wayM and the card trainers are for learning and screening only.  
+אפליקציות חינמיות, בלי פרסומות. ברוב האפליקציות המידע נשאר אצלכם בטלפון.
+
+[Privacy policies · מדיניות פרטיות](https://shauls.github.io/magmanet-apps/privacy/)
