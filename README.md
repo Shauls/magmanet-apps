@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**59 free Android apps · no ads · Hebrew & English**  
-**59 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**60 free Android apps · no ads · Hebrew & English**  
+**60 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -67,6 +67,7 @@
 | | App | Description | |
 |:-:|---|---|---|
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/gym-trainer-192.png" width="48" height="48" alt=""> | **Gym Trainer**<br>ג׳ים טריינר | Save training videos in one tap, then train with them<br><sub>כל סרטוני האימון שאהבתם, במקום אחד – ומוכנים לאימון</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/gym-trainer/GymTrainer.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/gym-trainer/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/hadar-192.png" width="48" height="48" alt=""> | **Hadar HaTeder**<br>הדר התדר | Calm and joy from within, without depending on anything outside<br><sub>שקט ושמחה מבפנים, בלי תלות במשהו חיצוני</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/hadar/Hadar.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/hadar/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/meditation-192.png" width="48" height="48" alt=""> | **Meditation**<br>מדיטציה | A few calm minutes – guided, timed or breathing<br><sub>כמה דקות של שקט – עם הנחיה, טיימר או תרגיל נשימה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/meditation/Meditation.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/meditation/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/mood-journal-192.png" width="48" height="48" alt=""> | **Mood Journal**<br>יומן מצב רוח | A moment a day to check in and reflect – privately<br><sub>רגע ביום לעצור, להרגיש ולכתוב – באופן פרטי לגמרי</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/mood-journal/MoodJournal.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/mood-journal/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/sleep-tracker-192.png" width="48" height="48" alt=""> | **Sleep Tracker**<br>מעקב שינה | Log your nights and learn what really affects your sleep<br><sub>מתעדים את הלילות ומבינים מה באמת משפיע על השינה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/sleep-tracker/SleepTracker.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/sleep-tracker/) |
