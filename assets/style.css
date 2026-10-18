@@ -274,3 +274,13 @@ body.lb-open { overflow: hidden; }
 .nf-emoji { font-size: 4rem; }
 .nf h1 { font-size: 2.2rem; margin: 10px 0; }
 .nf .btn { margin-top: 24px; }
+
+/* store intro: stats + icon mosaic */
+.stats { list-style: none; display: flex; flex-wrap: wrap; justify-content: center; gap: 8px; padding: 0; margin: 18px auto 0; }
+.stats li { background: var(--surface); border: 1px solid var(--line); border-radius: 999px; padding: 6px 14px; font-weight: 700; font-size: .92rem; box-shadow: var(--shadow); }
+.mosaic { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; max-width: 760px; margin: 22px auto 0; }
+.mosaic img { width: 52px; height: 52px; border-radius: 14px; box-shadow: 0 6px 16px rgba(20, 10, 60, .18); animation: pop .5s both; animation-delay: calc(var(--i) * 25ms); transition: transform .2s; }
+.mosaic a:hover img { transform: translateY(-4px) scale(1.06); }
+@keyframes pop { from { opacity: 0; transform: translateY(8px) scale(.9); } to { opacity: 1; transform: none; } }
+@media (max-width: 480px) { .mosaic img { width: 42px; height: 42px; border-radius: 11px; } .mosaic { gap: 8px; } }
+@media (prefers-reduced-motion: reduce) { .mosaic img { animation: none; } }
