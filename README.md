@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**60 free Android apps · no ads · Hebrew & English**  
-**60 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**63 free Android apps · no ads · Hebrew & English**  
+**63 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -48,6 +48,8 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/guitarmaster-192.png" width="48" height="48" alt=""> | **GuitarMaster**<br>גיטרמאסטר | Learn guitar step by step with lessons that listen to you play<br><sub>לומדים גיטרה צעד אחר צעד, עם שיעורים שמקשיבים לכם מנגנים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/guitarmaster/GuitarMaster.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/guitarmaster/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/tabmaster-192.png" width="48" height="48" alt=""> | **TabMaster**<br>טאבמאסטר | Interactive tabs for guitar, bass, ukulele and drums, with mic play-along<br><sub>טאבים ותווים אינטראקטיביים לגיטרה, בס, יוקלילי ותופים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/tabmaster/TabMaster.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/tabmaster/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/music-practice-192.png" width="48" height="48" alt=""> | **Music Practice** | Metronome, reference tones, ear training and a practice log in one app<br><sub>מטרונום, צלילי כיוון, אימון שמיעה ויומן תרגול במקום אחד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/music-practice/MusicPractice.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/music-practice/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/pitchtrainer-192.png" width="48" height="48" alt=""> | **Pitch Trainer**<br>אימון שמיעה | Sharper ears and a truer voice, every day<br><sub>שמיעה מוזיקלית וקול מדויק, כל יום</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/pitchtrainer/PitchTrainer.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/pitchtrainer/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/playcord-192.png" width="48" height="48" alt=""> | **PlayCord**<br>פלייקורד | Chords for any song, in seconds<br><sub>אקורדים לכל שיר, תוך שניות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/playcord/PlayCord.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/playcord/) |
 
 ## 🧩 Games & Quizzes · משחקים וחידונים
 
@@ -94,6 +96,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/onewaym-192.png" width="48" height="48" alt=""> | **1wayM** | Plan your path to a million: net worth, budget, income ideas and lessons<br><sub>הדרך למיליון: הון נקי, תקציב, רעיונות להכנסה ושיעורים על כסף</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/onewaym/1wayM.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/onewaym/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/budget-planner-192.png" width="48" height="48" alt=""> | **Budget Planner** | Envelope budgeting that gives every dollar a job<br><sub>תקציב מעטפות: לכל שקל יש תפקיד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/budget-planner/BudgetPlanner.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/budget-planner/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/expense-tracker-192.png" width="48" height="48" alt=""> | **Expense Tracker** | Log spending and see where your money goes<br><sub>רושמים הוצאות ורואים לאן הכסף הולך</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/expense-tracker/ExpenseTracker.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/expense-tracker/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/salary-192.png" width="48" height="48" alt=""> | **Salary Calculator**<br>מחשבון שכר | Gross, net, tax and rights – by 2026 rules<br><sub>ברוטו, נטו, מס וזכויות – לפי חוקי 2026</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/salary/Salary.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/salary/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/tip-calculator-192.png" width="48" height="48" alt=""> | **Tip Calculator** | Split bills and calculate tips instantly<br><sub>מחשבים טיפ ומתחלקים בחשבון בשניות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/tip-calculator/TipCalculator.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/tip-calculator/) |
 
 ## 💼 Business & Pro · עסקים ומקצועות

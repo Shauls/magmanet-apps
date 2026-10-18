@@ -14,14 +14,14 @@ footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>P
 <h2>Videos and photos</h2>
 <p>When you record a proof video, the app opens your phone's camera app; when you pick a video or screenshot, it opens the system picker. The app only gets the file you choose, copies it into its private storage and plays it back there. Videos are never uploaded and never sent to other phones. They leave your device only if you share something yourself (for example a result card through the share sheet).</p>
 <h2>Internet use</h2>
-<p>Competition does not connect to any server. It uses the network only for <strong>Play nearby</strong>, to talk directly to the other phones in the same room.</p>
+<p>Competition uses the network for <strong>Play nearby</strong>, to talk directly to the other phones in the same room. Separately, at most once a day the app checks whether a newer version is available by downloading a small public version file from GitHub Pages (shauls.github.io). Nothing about you or your device is sent; like any web request, GitHub can see your device's IP address. If a newer version exists, the app shows a notice and you choose whether to open the download link. You can turn this off in Settings ("Check for updates automatically").</p>
 <h2>Play nearby</h2>
 <p>Play nearby lets each friend play on their own phone. The phones talk directly to each other over your local Wi-Fi or hotspot; nothing goes through the internet or through us. What the phones exchange: your display name, your emoji avatar, and the game state and scores (including the challenge being played, such as the text of a custom challenge). It is not saved anywhere outside the phones in the game.</p>
 <p>An optional <strong>"also use Bluetooth"</strong> switch (off by default) uses Google Nearby Connections to find phones over Bluetooth and nearby Wi-Fi. Only when you turn it on, Android asks for the Bluetooth, nearby devices and location permissions. Android requires the location permission to scan for nearby devices on some versions; <strong>the app never reads, stores or sends your location.</strong> You can say no and keep playing over Wi-Fi.</p>
 <h2>Permissions</h2>
 <p>The app asks for a permission only when you use the feature that needs it. You can say no and still use the rest of the app.</p>
 <ul>
-<li><strong>Local network (Wi-Fi state, multicast, internet):</strong> to find and connect to the other phones for Play nearby.</li>
+<li><strong>Local network (Wi-Fi state, multicast, internet):</strong> to find and connect to the other phones for Play nearby, and for the daily update check.</li>
 <li><strong>Bluetooth, nearby devices and location:</strong> only if you turn on "also use Bluetooth" in Play nearby. Location is never used to find where you are.</li>
 <li><strong>Keep awake (wake lock):</strong> keeps the screen on while a video plays.</li>
 <li><strong>Photos and videos:</strong> picking a video uses the system picker, so the app sees only the file you choose. It stays on your device.</li>

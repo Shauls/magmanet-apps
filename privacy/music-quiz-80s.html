@@ -22,6 +22,7 @@ footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>P
 </ul>
 <p>What is sent: each lookup is a request to the Apple iTunes Search API (itunes.apple.com) containing the artist and song title of a song from the app's built-in list. The preview audio is then streamed from Apple's servers. Nothing you type is sent (the artist and song search boxes only filter the built-in list on your device), and no name, account or other personal data is included. Previews are streamed, not saved.</p>
 <p>Like any internet request, Apple can see your device's IP address. We (the developer) receive nothing: no copy of these requests, no IP address and no usage data. Apple's privacy policy: https://www.apple.com/legal/privacy/</p>
+<p>Separately, at most once a day the app checks whether a newer version is available by downloading a small public version file from GitHub Pages (shauls.github.io). Nothing about you or your device is sent; like any web request, GitHub can see your device's IP address. If a newer version exists, the app shows a notice and you choose whether to open the download link. You can turn this off in Settings ("Check for updates automatically").</p>
 <p><strong>Links:</strong> after you answer, the <strong>Open in Apple Music</strong> button (on listening screens and song pages) opens that track's page on Apple Music (music.apple.com) in the Apple Music app or your browser. This happens only when you tap it, and Apple's privacy policy applies there.</p>
 <p><strong>Read aloud:</strong> the read-aloud option uses your device's own text-to-speech engine. The app does not send the text anywhere.</p>
 <h2>Play nearby</h2>
@@ -36,7 +37,7 @@ footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>P
 <h2>Permissions</h2>
 <p>The app asks for a permission only when you use the feature that needs it. You can say no and still use the rest of the app.</p>
 <ul>
-<li><strong>Internet and network state:</strong> to stream song previews and to check the connection.</li>
+<li><strong>Internet and network state:</strong> to stream song previews, to check the connection, and for the daily update check.</li>
 <li><strong>Wi-Fi state and multicast:</strong> to find other phones on the same Wi-Fi for Play nearby.</li>
 <li><strong>Bluetooth, Nearby devices and Location:</strong> only for the optional Bluetooth switch in Play nearby, as explained above. Location is never read or used.</li>
 <li><strong>Opening links:</strong> if you choose to open a link, it opens in Apple Music or your browser, which have their own privacy policies.</li>

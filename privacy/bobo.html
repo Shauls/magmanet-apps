@@ -1,0 +1,86 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Privacy Policy — Bobo</title><style>:root{--bg:#fff;--fg:#1d1d1f;--mut:#555;--link:#2457c5;--line:#e5e5e5}
+@media (prefers-color-scheme:dark){:root{--bg:#121212;--fg:#eee;--mut:#aaa;--link:#8ab4f8;--line:#333}}
+body{background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;max-width:760px;margin:0 auto;padding:24px 16px 64px}
+a{color:var(--link)}h1{font-size:1.7em;line-height:1.25}h2{margin-top:1.8em;border-top:1px solid var(--line);padding-top:1em}
+code{background:rgba(127,127,127,.15);padding:1px 4px;border-radius:4px}table{border-collapse:collapse}td,th{border:1px solid var(--line);padding:4px 8px}
+footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>Privacy Policy — Bobo</h1>
+<p><em>Last updated: 2026-10-15</em></p>
+<p>Bobo is made by Magmanet. This policy explains what the app does with information. The short
+version: <strong>in offline mode nothing leaves the device. In the optional AI mode, which a parent turns on
+with their own Anthropic API key, the text of the conversation is sent to Anthropic to create Bobo's
+replies.</strong> Bobo never records or uploads audio.</p>
+<h2>Two modes</h2>
+<p><strong>Offline mode</strong> (the default) uses only content built into the app: scripted conversations, phrases,
+stories and word games. It does not connect to the internet, except for the daily update check
+(see Permissions), which sends nothing about the child or the device.</p>
+<p><strong>AI mode</strong> is optional. A parent opens the parent area (protected by a PIN), creates an API key in
+their own Anthropic account and pastes it into the app. From then on, AI conversations are sent from
+the device directly to Anthropic, PBC (the company that makes Claude), over an encrypted HTTPS
+connection to <code>api.anthropic.com</code>. We (Magmanet) run no server and never receive this data.</p>
+<h2>What is sent to Anthropic in AI mode</h2>
+<ul>
+<li>The text of the current conversation: what the child said (as recognized by the phone) or typed,
+  and Bobo's previous replies.</li>
+<li>The child's <strong>nickname</strong>, the <strong>interests</strong> picked from a fixed list, the <strong>English level</strong> chosen
+  in the app, and <strong>recently learned English words</strong>.</li>
+<li>At the end of a conversation, the same transcript again, to produce a short summary (new words and
+  corrections).</li>
+<li>The parent's API key, which authenticates the request to the parent's own Anthropic account.</li>
+</ul>
+<p>Not sent: audio, contacts, location, photos, device identifiers or any account details. The app asks
+for a nickname only and tells the child not to enter a full name, address or school. The nickname is
+cleaned to letters only before it is used.</p>
+<p>How Anthropic handles API data is described in Anthropic's own privacy policy and commercial terms
+(<a href="https://www.anthropic.com/legal/privacy">https://www.anthropic.com/legal/privacy</a>). Under those terms, the parent is Anthropic's customer.</p>
+<h2>Speech recognition and text-to-speech</h2>
+<ul>
+<li><strong>Speech recognition</strong> uses the speech recognizer built into the phone (Android's or iOS's
+  recognition service). Bobo receives only the recognized text. Depending on the device, the phone's
+  recognizer may process audio on the device or send it to its provider (for example Google or Apple)
+  under that provider's terms. Bobo itself never records, stores or uploads audio.</li>
+<li><strong>Text-to-speech</strong> uses the phone's built-in speech engine. Nothing is recorded.</li>
+</ul>
+<h2>What is stored on the device</h2>
+<p>Saved only in the app's private storage on the device, and removed when the app is uninstalled:</p>
+<ul>
+<li>progress (talk minutes per day, XP, stars, streak, badges, completed content, word review schedule);</li>
+<li>the child's nickname, interests and level;</li>
+<li>settings and the parent PIN (stored as a hash);</li>
+<li>the Anthropic API key, if a parent added one;</li>
+<li>AI conversation transcripts and reported messages, which are <strong>deleted automatically after 30
+  days</strong>; the parent can delete them at any time in the parent area.</li>
+</ul>
+<p>The parent area's <strong>Copy backup</strong> feature copies all of this, including the API key and
+transcripts, to the clipboard as text. Where the parent pastes it is up to them; the app never uploads
+it.</p>
+<h2>Reporting AI content</h2>
+<p>Every AI message has a report (flag) button. A reported message is hidden, is not sent to Anthropic
+again, and is saved on the device so the parent can review it in the parent area.</p>
+<h2>Children</h2>
+<p>Bobo is designed to help children practise English, with a parent in control:</p>
+<ul>
+<li>offline mode collects nothing;</li>
+<li>AI mode can only be turned on by a parent behind a PIN, with the parent's own API key;</li>
+<li>the AI is instructed never to ask for personal information and to tell the child to keep such
+  information private;</li>
+<li>there are no ads, no in-app purchases, no accounts, no social features and no links out of the app (except the update download link, which is
+  behind the parent gate);</li>
+<li>daily time limits and break reminders are set by the parent.</li>
+</ul>
+<p>If you believe a child has entered personal information in an AI conversation, delete the transcripts
+in the parent area. To ask Anthropic about data sent with your key, contact Anthropic as their
+customer.</p>
+<h2>Permissions</h2>
+<ul>
+<li><strong>Internet:</strong> used in AI mode, to reach <code>api.anthropic.com</code>, and, at most once a day, to download a
+  small public version file from GitHub Pages (shauls.github.io) to check for a newer version of the
+  app. Nothing about the child or the device is sent (GitHub can see the device's IP address, as with
+  any web request). The update download button is behind the parent gate, and the check can be turned
+  off in Settings ("Check for updates automatically").</li>
+<li><strong>Microphone:</strong> used only while the mic button is active, by the phone's speech recognizer.</li>
+<li><strong>Notifications:</strong> only if a parent turns on the daily reminder.</li>
+</ul>
+<h2>Changes</h2>
+<p>If this policy changes, we'll update the date above and publish the new version at the same address.</p>
+<h2>Contact</h2>
+<p>Questions? Open an issue at https://github.com/Shauls/magmanet-apps/issues</p><footer>Magmanet · <a href="./">All privacy policies</a> · <a href="https://github.com/Shauls/magmanet-apps">Apps</a></footer></body></html>

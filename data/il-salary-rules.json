@@ -1,0 +1,4133 @@
+{
+ "schema": 1,
+ "year": 2026,
+ "version": "2026.1",
+ "updated": "2026-10-18",
+ "effectiveFrom": "2026-01-01",
+ "sources": [
+  {
+   "id": "booklet2026",
+   "title": "רשות המסים – לוח עזר לחישוב מס הכנסה ממשכורת לחודש ינואר 2026 ואילך (מעודכן לאפריל 2026)",
+   "url": "https://www.gov.il/BlobFolder/generalpage/income-tax-monthly-deductions-booklet/he/generalInformation_income-tax-monthly-deductions-booklet_monthly-deductions-booklet-2026.pdf",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "circ300326",
+   "title": "רשות המסים – הודעה למעסיקים 30.3.2026: ריווח מדרגות מס הכנסה (רטרואקטיבי מ-1.1.2026)",
+   "url": "https://www.gov.il/BlobFolder/dynamiccollectorresultitem/employers-info-300326-1/he/IncomeTax_IncomeTaxEmployersInfo_employers-info-300326-1.pdf",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "gov_children2024",
+   "title": "רשות המסים – תוספת נקודות זיכוי להורים לילדים עד גיל 3 (5.3.2024)",
+   "url": "https://www.gov.il/he/pages/sa050324-2",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "inst052025",
+   "title": "רשות המסים – הוראת ביצוע 05/2025: מס יסף",
+   "url": "https://www.gov.il/BlobFolder/policy/inst-05-2025/he/IncomeTax_inst-05-2025.pdf",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "btl1522",
+   "title": "ביטוח לאומי – חוזר מעסיקים 1522: שינוי בתשלום דמי ביטוח לשנת 2026",
+   "url": "https://www.btl.gov.il/Insurance/HozrimBituah/Hozrim/%D7%A9%D7%99%D7%A0%D7%95%D7%99%20%D7%91%D7%AA%D7%A9%D7%9C%D7%95%D7%9D%20%D7%93%D7%9E%D7%99%20%D7%91%D7%99%D7%98%D7%95%D7%97%20%D7%9C%D7%90%D7%95%D7%9E%D7%99%20%D7%95%D7%93%D7%9E%D7%99%20%D7%91%D7%99%D7%98%D7%95%D7%97%20%D7%91%D7%A8%D7%99%D7%90%D7%95%D7%AA%20%D7%9C%D7%A9%D7%A0%D7%AA%202026.pdf",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "btl1502",
+   "title": "ביטוח לאומי – חוזר 1502: מקדמות ודמי ביטוח לעצמאים 2026",
+   "url": "https://www.btl.gov.il/Insurance/HozrimBituah/Hozrim/_%d7%9e%d7%a7%d7%93%d7%9e%d7%95%d7%aa_%d7%95%d7%93%d7%9e%d7%99_%d7%91%d7%99%d7%98%d7%95%d7%97_%d7%9c%d7%a2%d7%a6%d7%9e%d7%90%d7%99%d7%9d_2026__.pdf",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "btl1556",
+   "title": "ביטוח לאומי – חוזר 1556: שיעורי גמלאות והשכר הממוצע 01.2026",
+   "url": "https://www.btl.gov.il/benefits/HozrimGimlaot/Hozrim/%d7%97%d7%95%d7%96%d7%a8%201556-%20%d7%a9%d7%99%d7%a2%d7%95%d7%a8%d7%99%20%d7%92%d7%9e%d7%9c%d7%90%d7%95%d7%aa%20%d7%9c%d7%a9%d7%a0%d7%aa%202026%20(002).pdf",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "btl_employees",
+   "title": "ביטוח לאומי – שיעורי דמי ביטוח לעובדים שכירים",
+   "url": "https://www.btl.gov.il/Insurance/Rates/Pages/%D7%9C%D7%A2%D7%95%D7%91%D7%93%D7%99%D7%9D%20%D7%A9%D7%9B%D7%99%D7%A8%D7%99%D7%9D.aspx",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "btl_self",
+   "title": "ביטוח לאומי – שיעורי דמי ביטוח לעצמאים",
+   "url": "https://www.btl.gov.il/Insurance/National%20Insurance/type_list/Self_Employed/Pages/rates.aspx",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_points",
+   "title": "כל זכות – נקודות זיכוי ממס הכנסה",
+   "url": "https://www.kolzchut.org.il/he/נקודות_זיכוי_ממס_הכנסה",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_children5",
+   "title": "כל זכות – נקודות זיכוי להורה לילד עד גיל 5 (טבלה מרוכזת)",
+   "url": "https://www.kolzchut.org.il/he/נקודות_זיכוי_ממס_הכנסה_להורה_לילד_עד_גיל_5",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_children617",
+   "title": "כל זכות – נקודות זיכוי להורים לילדים בגיל 6–17",
+   "url": "https://www.kolzchut.org.il/he/נקודות_זיכוי_ממס_הכנסה_להורים_לילדים_בגיל_17-6",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "bshcpa",
+   "title": "משרד רואי חשבון – הגדלת נקודות זיכוי להורים (הצלבה)",
+   "url": "https://www.bshcpa.co.il/הגדלת-נקודות-זיכוי-להורים/",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_oleh",
+   "title": "כל זכות – נקודות זיכוי לעולה חדש",
+   "url": "https://www.kolzchut.org.il/he/נקודות_זיכוי_ממס_הכנסה_לעולה_חדש",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_soldier",
+   "title": "כל זכות – נקודות זיכוי לחיילים משוחררים ולמסיימי שירות לאומי",
+   "url": "https://www.kolzchut.org.il/he/נקודות_זיכוי_ממס_הכנסה_לחיילים_משוחררים_ומסיימי_שירות_לאומי-אזרחי",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "mod_soldier",
+   "title": "משרד הביטחון, אגף ההכוונה – הטבות מס לחיילים משוחררים",
+   "url": "https://www.hachvana.mod.gov.il/Benefits/migufey/Pages/kitsbat.aspx",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_reservist",
+   "title": "כל זכות – נקודות זיכוי ללוחמי מילואים (סעיף 39ב)",
+   "url": "https://www.kolzchut.org.il/he/נקודות_זיכוי_ממס_הכנסה_ללוחמי_מילואים",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_degree",
+   "title": "כל זכות – נקודות זיכוי בגין תואר ראשון",
+   "url": "https://www.kolzchut.org.il/he/נקודות_זיכוי_ממס_הכנסה_בגין_תואר_ראשון",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_disability",
+   "title": "כל זכות – פטור ממס הכנסה לאנשים עם נכות",
+   "url": "https://www.kolzchut.org.il/he/פטור_ממס_הכנסה_לאנשים_עם_נכות",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_locality",
+   "title": "כל זכות – זיכוי ממס הכנסה לתושבים בפריפריה",
+   "url": "https://www.kolzchut.org.il/he/זיכוי_ממס_הכנסה_לתושבים_בפריפריה",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_donation",
+   "title": "כל זכות – זיכוי ממס הכנסה בשל תרומה (סעיף 46)",
+   "url": "https://www.kolzchut.org.il/he/זיכוי_ממס_הכנסה_בשל_תרומה_(סעיף_46)",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_pension_self",
+   "title": "כל זכות – הטבות מס על הפקדות עצמאיות לביטוח פנסיוני",
+   "url": "https://www.kolzchut.org.il/he/הטבות_במס_הכנסה_בגין_הפקדות_עצמאיות_לביטוח_פנסיוני",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_pension",
+   "title": "כל זכות – חובת ביטוח פנסיוני לעובדים",
+   "url": "https://www.kolzchut.org.il/he/חובת_ביטוח_פנסיוני_לעובדים",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_employer_exempt",
+   "title": "כל זכות – פטור ממס על הפרשות המעסיק לביטוח פנסיוני",
+   "url": "https://www.kolzchut.org.il/he/פטור_ממס_הכנסה_על_הפרשות_המעסיק_לביטוח_פנסיוני_ולביטוח_אובדן_כושר_עבודה",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_severance_tax",
+   "title": "כל זכות – פטור ממס הכנסה על פיצויי פיטורים",
+   "url": "https://www.kolzchut.org.il/he/פטור_ממס_הכנסה_על_פיצויי_פיטורים",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_hishtalmut",
+   "title": "כל זכות – קרן השתלמות",
+   "url": "https://www.kolzchut.org.il/he/קרן_השתלמות",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_hish_self",
+   "title": "כל זכות – קרן השתלמות לעובד עצמאי",
+   "url": "https://www.kolzchut.org.il/he/קרן_השתלמות_לעובד_עצמאי",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_minwage",
+   "title": "כל זכות – שכר מינימום",
+   "url": "https://www.kolzchut.org.il/he/שכר_מינימום",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_youthwage",
+   "title": "כל זכות – שכר מינימום לנוער",
+   "url": "https://www.kolzchut.org.il/he/שכר_מינימום_לנוער",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_havraa",
+   "title": "כל זכות – דמי הבראה",
+   "url": "https://www.kolzchut.org.il/he/דמי_הבראה",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "shibolet_havraa",
+   "title": "שיבולת עורכי דין – צו ההרחבה לדמי הבראה (18.8.2026, הצלבה)",
+   "url": "https://www.shibolet.com/",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_overtime",
+   "title": "כל זכות – גמול עבור שעות נוספות",
+   "url": "https://www.kolzchut.org.il/he/גמול_עבור_שעות_נוספות",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_restday",
+   "title": "כל זכות – גמול עבור העסקה במנוחה השבועית",
+   "url": "https://www.kolzchut.org.il/he/גמול_עבור_העסקה_במנוחה_השבועית",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_notice",
+   "title": "כל זכות – הודעה מוקדמת לפיטורים",
+   "url": "https://www.kolzchut.org.il/he/הודעה_מוקדמת_לפיטורים",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_vacation",
+   "title": "כל זכות – חופשה שנתית",
+   "url": "https://www.kolzchut.org.il/he/חופשה_שנתית",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_sick",
+   "title": "כל זכות – דמי מחלה",
+   "url": "https://www.kolzchut.org.il/he/דמי_מחלה",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_osek",
+   "title": "כל זכות – עוסק פטור",
+   "url": "https://www.kolzchut.org.il/he/עוסק_פטור",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "kz_bl_self",
+   "title": "כל זכות – דמי ביטוח לאומי לעצמאי",
+   "url": "https://www.kolzchut.org.il/he/דמי_ביטוח_לאומי_לעצמאי",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "more2026",
+   "title": "מור גמל ופנסיה – תקרות וסכומים 2026 (מקור משני להצלבה)",
+   "url": "https://www.moreinvest.co.il/media/ob5nzn0o/תקרות-וסכומים-2026.pdf",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "bizportal_brackets",
+   "title": "ביזפורטל – מדרגות המס 2026 (מקור משני להצלבה)",
+   "url": "https://www.bizportal.co.il/guides/news/article/20038711",
+   "checked": "2026-10-18"
+  },
+  {
+   "id": "malam_car",
+   "title": "מלם שכר – עדכון שווי שימוש ברכב 2026 (מקור משני להצלבה)",
+   "url": "https://www.malam-payroll.com/",
+   "checked": "2026-10-18"
+  }
+ ],
+ "values": {
+  "incomeTax.monthlyBrackets": {
+   "label": "מדרגות מס הכנסה חודשיות (יגיעה אישית)",
+   "value": [
+    {
+     "upTo": 7010,
+     "rate": 0.1
+    },
+    {
+     "upTo": 10060,
+     "rate": 0.14
+    },
+    {
+     "upTo": 19000,
+     "rate": 0.2
+    },
+    {
+     "upTo": 25100,
+     "rate": 0.31
+    },
+    {
+     "upTo": 46690,
+     "rate": 0.35
+    },
+    {
+     "upTo": null,
+     "rate": 0.47
+    }
+   ],
+   "confidence": "verified",
+   "source": [
+    "booklet2026",
+    "circ300326",
+    "bizportal_brackets"
+   ],
+   "effective": "2026-01-01",
+   "note": "ריווח מדרגות 20% ו-31% בחוק ההתייעלות 2026, רטרואקטיבי מ-1.1.2026. שאר הסכומים מוקפאים 2025–2027."
+  },
+  "incomeTax.annualBrackets": {
+   "label": "מדרגות מס הכנסה שנתיות",
+   "value": [
+    {
+     "upTo": 84120,
+     "rate": 0.1
+    },
+    {
+     "upTo": 120720,
+     "rate": 0.14
+    },
+    {
+     "upTo": 228000,
+     "rate": 0.2
+    },
+    {
+     "upTo": 301200,
+     "rate": 0.31
+    },
+    {
+     "upTo": 560280,
+     "rate": 0.35
+    },
+    {
+     "upTo": null,
+     "rate": 0.47
+    }
+   ],
+   "confidence": "verified",
+   "source": [
+    "booklet2026",
+    "circ300326"
+   ],
+   "effective": "2026-01-01"
+  },
+  "incomeTax.surtax": {
+   "label": "מס יסף",
+   "value": {
+    "rate": 0.03,
+    "thresholdAnnual": 721560,
+    "thresholdMonthly": 60130,
+    "capitalExtraRate": 0.02
+   },
+   "confidence": "verified",
+   "source": [
+    "booklet2026",
+    "inst052025",
+    "bizportal_brackets"
+   ],
+   "effective": "2026-01-01",
+   "note": "3% מעל התקרה; 2% נוספים על הכנסה הונית מעל אותה תקרה (מ-2025). סכום מוקפא 2025–2027."
+  },
+  "incomeTax.disabilityExemption": {
+   "label": "פטור נכות סעיף 9(5)",
+   "value": {
+    "minPct": 90,
+    "ceilingAnnual": 445200,
+    "ceilingAnnualIdfTerror": 684000,
+    "ceilingAnnualShort": 81960
+   },
+   "confidence": "verified",
+   "source": [
+    "booklet2026",
+    "kz_disability"
+   ],
+   "effective": "2026-01-01",
+   "note": "445,200 ₪ לנכות של 365 יום ומעלה; 684,000 ₪ לנכי צה\"ל ופעולות איבה."
+  },
+  "creditPoint.monthly": {
+   "label": "ערך נקודת זיכוי חודשי",
+   "value": 242,
+   "confidence": "verified",
+   "source": [
+    "booklet2026",
+    "kz_points"
+   ],
+   "effective": "2026-01-01",
+   "note": "מוקפא 2025–2027."
+  },
+  "creditPoint.annual": {
+   "label": "ערך נקודת זיכוי שנתי",
+   "value": 2904,
+   "confidence": "verified",
+   "source": [
+    "booklet2026",
+    "kz_points"
+   ],
+   "effective": "2026-01-01"
+  },
+  "creditPoints.base": {
+   "label": "נקודות בסיס",
+   "value": {
+    "resident": 2.25,
+    "woman": 0.5
+   },
+   "confidence": "verified",
+   "source": [
+    "kz_points",
+    "booklet2026"
+   ],
+   "effective": "2026-01-01"
+  },
+  "creditPoints.children": {
+   "label": "נקודות זיכוי בעד ילדים לפי גיל הילד בשנת המס",
+   "value": {
+    "byAge": [
+     {
+      "age": 0,
+      "mother": 2.5,
+      "father": 2.5,
+      "singleParentExtra": 2.5
+     },
+     {
+      "age": 1,
+      "mother": 4.5,
+      "father": 4.5,
+      "singleParentExtra": 4.5
+     },
+     {
+      "age": 2,
+      "mother": 4.5,
+      "father": 4.5,
+      "singleParentExtra": 4.5
+     },
+     {
+      "age": 3,
+      "mother": 3.5,
+      "father": 3.5,
+      "singleParentExtra": 3.5
+     },
+     {
+      "age": 4,
+      "mother": 2.5,
+      "father": 2.5,
+      "singleParentExtra": 2.5
+     },
+     {
+      "age": 5,
+      "mother": 2.5,
+      "father": 2.5,
+      "singleParentExtra": 2.5
+     },
+     {
+      "age": 6,
+      "mother": 2,
+      "father": 1,
+      "singleParentExtra": 1
+     },
+     {
+      "age": 7,
+      "mother": 2,
+      "father": 1,
+      "singleParentExtra": 1
+     },
+     {
+      "age": 8,
+      "mother": 2,
+      "father": 1,
+      "singleParentExtra": 1
+     },
+     {
+      "age": 9,
+      "mother": 2,
+      "father": 1,
+      "singleParentExtra": 1
+     },
+     {
+      "age": 10,
+      "mother": 2,
+      "father": 1,
+      "singleParentExtra": 1
+     },
+     {
+      "age": 11,
+      "mother": 2,
+      "father": 1,
+      "singleParentExtra": 1
+     },
+     {
+      "age": 12,
+      "mother": 2,
+      "father": 1,
+      "singleParentExtra": 1
+     },
+     {
+      "age": 13,
+      "mother": 2,
+      "father": 1,
+      "singleParentExtra": 1
+     },
+     {
+      "age": 14,
+      "mother": 2,
+      "father": 1,
+      "singleParentExtra": 1
+     },
+     {
+      "age": 15,
+      "mother": 2,
+      "father": 1,
+      "singleParentExtra": 1
+     },
+     {
+      "age": 16,
+      "mother": 2,
+      "father": 1,
+      "singleParentExtra": 1
+     },
+     {
+      "age": 17,
+      "mother": 2,
+      "father": 1,
+      "singleParentExtra": 1
+     },
+     {
+      "age": 18,
+      "mother": 0.5,
+      "father": 0,
+      "singleParentExtra": 0
+     }
+    ]
+   },
+   "confidence": "verified",
+   "source": [
+    "kz_children5",
+    "kz_children617",
+    "gov_children2024",
+    "bshcpa"
+   ],
+   "effective": "2026-01-01",
+   "note": "mother = האם או ההורה שהילד בחזקתו/מקבל את קצבת הילדים; father = ההורה האחר. 'הורה אחד' (ההורה האחר נפטר/לא רשום) מקבל את שתי העמודות ועוד נקודה."
+  },
+  "creditPoints.family": {
+   "label": "נקודות משפחה",
+   "value": {
+    "singleParent": 1,
+    "divorcedRaising": 1,
+    "childSupportPayer": 1,
+    "disabledChild": 2,
+    "spouseNoIncome": 1,
+    "alimonyExSpouse": 1
+   },
+   "confidence": "verified",
+   "source": [
+    "kz_points",
+    "kz_children5"
+   ],
+   "effective": "2026-01-01",
+   "note": "נקודות ילד עם מוגבלות (2) לפי סעיף 45 – יש לוודא תנאים בכל זכות."
+  },
+  "creditPoints.oleh": {
+   "label": "עולה חדש (עלייה מ-2022)",
+   "value": {
+    "periods": [
+     {
+      "from": 1,
+      "to": 12,
+      "points": 1
+     },
+     {
+      "from": 13,
+      "to": 30,
+      "points": 3
+     },
+     {
+      "from": 31,
+      "to": 42,
+      "points": 2
+     },
+     {
+      "from": 43,
+      "to": 54,
+      "points": 1
+     }
+    ]
+   },
+   "confidence": "verified",
+   "source": [
+    "kz_oleh",
+    "booklet2026"
+   ],
+   "effective": "2026-01-01",
+   "note": "1/12 נקודה שנתית לחודש = נקודה אחת בחישוב חודשי. עולים מ-5.11.2025 עד 31.12.2026 זכאים גם לפטור על הכנסה עד 600,000 ₪ ב-2026 (לא מחושב באפליקציה)."
+  },
+  "creditPoints.returningResident": {
+   "label": "תושב חוזר ותיק",
+   "value": {
+    "periods": []
+   },
+   "confidence": "verified",
+   "source": [
+    "booklet2026"
+   ],
+   "effective": "2026-01-01",
+   "note": "תושב חוזר ותיק אינו מקבל נקודות זיכוי; ההטבות הן פטורים על הכנסות מחו\"ל ופטור 2026 לחוזרים מ-5.11.2025."
+  },
+  "creditPoints.soldier": {
+   "label": "חייל משוחרר / שירות לאומי",
+   "value": {
+    "fullPoints": 2,
+    "partialPoints": 1,
+    "fullMonthsMale": 23,
+    "fullMonthsFemale": 22,
+    "minMonths": 12,
+    "durationMonths": 36
+   },
+   "confidence": "verified",
+   "source": [
+    "kz_soldier",
+    "mod_soldier"
+   ],
+   "effective": "2026-01-01",
+   "note": "36 חודשים מהחודש שאחרי השחרור. שירות לאומי: 2 נקודות ל-24 חודשים, 1 ל-12."
+  },
+  "creditPoints.reservist": {
+   "label": "לוחמי מילואים (סעיף 39ב)",
+   "value": {
+    "bands": [
+     {
+      "from": 30,
+      "to": 39,
+      "points": 0.5
+     },
+     {
+      "from": 40,
+      "to": 49,
+      "points": 0.75
+     }
+    ],
+    "stepFrom": 50,
+    "stepBase": 1,
+    "stepDays": 5,
+    "stepPoints": 0.25,
+    "max": 4
+   },
+   "confidence": "verified",
+   "source": [
+    "kz_reservist",
+    "booklet2026"
+   ],
+   "effective": "2026-01-01",
+   "note": "לפי ימי מילואים קרביים בשנה הקודמת, לשנות המס 2026–2027."
+  },
+  "creditPoints.degree": {
+   "label": "תואר אקדמי",
+   "value": {
+    "newRulesFromYear": 2023,
+    "new": {
+     "ba": {
+      "schedule": [
+       1,
+       1,
+       1
+      ],
+      "byStudyYears": true
+     },
+     "ma": {
+      "schedule": [
+       0.5,
+       0.5
+      ]
+     },
+     "phd": {
+      "schedule": [
+       0.5,
+       0.5
+      ]
+     },
+     "medicine": {
+      "schedule": [
+       1,
+       1,
+       1,
+       0.5,
+       0.5
+      ]
+     }
+    },
+    "old": {
+     "ba": {
+      "schedule": [
+       1
+      ]
+     },
+     "ma": {
+      "schedule": [
+       0.5
+      ]
+     },
+     "phd": {
+      "schedule": [
+       0.5
+      ]
+     },
+     "medicine": {
+      "schedule": [
+       1,
+       0.5
+      ]
+     }
+    }
+   },
+   "confidence": "verified",
+   "source": [
+    "kz_degree",
+    "kz_points"
+   ],
+   "effective": "2026-01-01",
+   "note": "מהשנה שאחרי סיום התואר (אפשר לדחות בשנה). תואר ראשון שהסתיים מ-2023: נקודה לכל שנת לימודים, עד 3."
+  },
+  "credits.donations": {
+   "label": "זיכוי תרומות (סעיף 46)",
+   "value": {
+    "rate": 0.35,
+    "minAnnual": 207,
+    "maxAnnual": 10354816,
+    "maxPctIncome": 0.3
+   },
+   "confidence": "verified",
+   "source": [
+    "booklet2026",
+    "kz_donation"
+   ],
+   "effective": "2026-01-01"
+  },
+  "credits.other": {
+   "label": "זיכוי ביטוח חיים (סעיף 45א)",
+   "value": {
+    "lifeInsuranceRate": 0.25
+   },
+   "confidence": "assumed-frozen",
+   "source": [
+    "kz_points"
+   ],
+   "effective": "2026-01-01",
+   "note": "שיעור סטטוטורי ותיק; לא אומת מחדש ב-2026."
+  },
+  "locality": {
+   "label": "יישובים מזכים (סעיף 11)",
+   "value": {
+    "list": [
+     {
+      "name": "(זרעית) כפר רוזנואלד",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "(מאוחד) אשדות יעקב",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אבו סנאן",
+      "pct": 12.0,
+      "ceilingAnnual": 186000.0
+     },
+     {
+      "name": "אבו קורינאת (יישוב)",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אבו תלול",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אביבים",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "אביגיל",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "אבירים",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אבן מנחם",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אבן שמואל",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "אבני איתן",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אבנת",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אבשלום",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "אדורה",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "אדוריים",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "אדמית",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "אודם",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אוהד",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "אום בטין",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אופקים",
+      "pct": 18.0,
+      "ceilingAnnual": 259920.0
+     },
+     {
+      "name": "אור הגנוז",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אור הנר",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "אורטל",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אורים",
+      "pct": 14.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "אחוזם",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "אחיהוד",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "איבים",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "איילת השחר",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "אילון",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אילות",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "איתן",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "אל סייד",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אל-רום",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אלומות",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אלוני הבשן",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "אלי-עד",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אליאב",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "אליפז",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אליפלט",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "אלמגור",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "אלקוש",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אמירים",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "אמנון",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "אמציה",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "אניעם",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "אספר",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אפיק",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אפיקים",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "ארגמן",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "ארז",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "אשבול",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "אשבל",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "אשדות יעקב (איחוד)",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "אשחר",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "אשכולות",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "אשל הנשיא",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "אשלים",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "אשקלון",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "אשרת",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "באר אורה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "באר מילכה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "בארי",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "בוסתן הגליל",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "בוקעאתא",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "בטחה",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "ביר הדאג'",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "בירייה",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "בית ג'ן",
+      "pct": 14.0,
+      "ceilingAnnual": 259920.0
+     },
+     {
+      "name": "בית הגדי",
+      "pct": 14.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "בית הלל",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "בית העמק",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "בית הערבה",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "בית זרע",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "בית חוגלה",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "בית יוסף",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "בית קמה",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "בית שאן",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "בן עמי",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "בני דקלים",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "בני יהודה",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "בני נצרים",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "בענה",
+      "pct": 12.0,
+      "ceilingAnnual": 186000.0
+     },
+     {
+      "name": "בצת",
+      "pct": 12.0,
+      "ceilingAnnual": 186600.0
+     },
+     {
+      "name": "בר יוחאי",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "ברור חיל",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "ברוש",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "ברעם",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "בתרון",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "ג'דיידה-מכר",
+      "pct": 12.0,
+      "ceilingAnnual": 186000.0
+     },
+     {
+      "name": "ג'ולס",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "ג'ש (גוש חלב)",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "גבולות",
+      "pct": 14.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "גבים",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "גבעולים",
+      "pct": 14.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "גבעות בר",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "גבעת יואב",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "גברעם",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "גדות",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "גונן",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "גורן",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "גורנות הגליל",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "גילון",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "גילת",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "גינוסר",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "גיתה",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "געתון",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "גרופית",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "גשור",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "גשר",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "גשר הזיו",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "דביר",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "דגניה א'",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "דגניה ב'",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "דוב\"ב",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "דורות",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "דייר אל-אסד",
+      "pct": 12.0,
+      "ceilingAnnual": 186000.0
+     },
+     {
+      "name": "דייר חנא",
+      "pct": 12.0,
+      "ceilingAnnual": 186000.0
+     },
+     {
+      "name": "דימונה",
+      "pct": 18.0,
+      "ceilingAnnual": 245400.0
+     },
+     {
+      "name": "דישון",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "דלתון",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "דן",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "דפנה",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "דקל",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "דריג'את",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "האון",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "הגושרים",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "הילה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "הר עמשא",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "הררית",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "זיקים",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "זמרת",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "זרועה",
+      "pct": 14.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "חגי",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "חד-נס",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "חולית",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "חולתה",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "חוסן",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "חוסנייה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "חוקוק",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "חורה",
+      "pct": 18.0,
+      "ceilingAnnual": 259920.0
+     },
+     {
+      "name": "חורפיש",
+      "pct": 14.0,
+      "ceilingAnnual": 259920.0
+     },
+     {
+      "name": "חזון",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "חלוץ",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "חלץ",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "חמדיה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "חמדת",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "חניתה",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "חספין",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "חצבה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "חצור הגלילית",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "חצרים",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "חרשים",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "טבריה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "טובא-זנגרייה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "טירת צבי",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "טל-אל",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "טללים",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "טמרה",
+      "pct": 12.0,
+      "ceilingAnnual": 186000.0
+     },
+     {
+      "name": "טנא",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "טפחות",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "יאנוח-ג'ת",
+      "pct": 12.0,
+      "ceilingAnnual": 186000.0
+     },
+     {
+      "name": "יבול",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "יד מרדכי",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "יהל",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "יובל",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "יובלים",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "יונדב",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "יונתן",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "יושיביה",
+      "pct": 14.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "יחיעם",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "יטבתה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "יכיני",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "יסוד המעלה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "יסעור",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "יעד",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "יערה",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "יפית",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "יפתח",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "יראון",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "ירדנה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "ירוחם",
+      "pct": 18.0,
+      "ceilingAnnual": 245400.0
+     },
+     {
+      "name": "ירכא",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "ישע",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "יתד",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "כאבול",
+      "pct": 12.0,
+      "ceilingAnnual": 186000.0
+     },
+     {
+      "name": "כברי",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "כדיתה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "כורזים",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "כחל",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "כחלה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "כיסופים",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "כישור",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "כליל",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "כלנית",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "כמאנה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "כמהין",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "כמון",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "כנף",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "כנרת (מושבה)",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "כנרת (קבוצה)",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "כסיפה",
+      "pct": 18.0,
+      "ceilingAnnual": 259920.0
+     },
+     {
+      "name": "כסרא-סמיע",
+      "pct": 14.0,
+      "ceilingAnnual": 259920.0
+     },
+     {
+      "name": "כפר בלום",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "כפר גלעדי",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "כפר הנשיא",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "כפר חושן",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "כפר חנניה",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "כפר חרוב",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "כפר יאסיף",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "כפר מימון",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "כפר מסריק",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "כפר סאלד",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "כפר עזה",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "כפר ראש הנקרה",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "כפר רופין",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "כפר שמאי",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "כרכום",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "כרם בן זמרה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "כרם שלום",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "כרמי קטיף",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "כרמיאל",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "כרמייה",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "כרמים",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "כרמל",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "לבון",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "לבנים",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "להב",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "להבות הבשן",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "לוחמי הגיטאות",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "לוטם",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "לוטן",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "לימן",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "לפידות",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "לקיה",
+      "pct": 18.0,
+      "ceilingAnnual": 259920.0
+     },
+     {
+      "name": "מבוא חמה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "מבועים",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "מבטחים",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "מבקיעים",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "מג'ד אל-כרום",
+      "pct": 12.0,
+      "ceilingAnnual": 186000.0
+     },
+     {
+      "name": "מג'דל שמס",
+      "pct": 20.0,
+      "ceilingAnnual": 259920.0
+     },
+     {
+      "name": "מגאר",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "מגדל",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "מגן",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "מדרשת בן גוריון",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "מולדה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "מורן",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "מזרעה",
+      "pct": 12.0,
+      "ceilingAnnual": 186000.0
+     },
+     {
+      "name": "מחולה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "מחנה טלי",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "מחנה יוכבד",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "מחנה יפה",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "מחנה יתיר",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "מחניים",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "מטולה",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "מיצר",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "מירון",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "מכחול",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "מכמנים",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "מלילות",
+      "pct": 14.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "מלכייה",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "מנוף",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "מנות",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "מנחמיה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "מנרה",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "מסדה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "מסלול",
+      "pct": 14.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "מסעדה",
+      "pct": 14.0,
+      "ceilingAnnual": 259920.0
+     },
+     {
+      "name": "מעגלים",
+      "pct": 14.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "מעגן",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "מעוז חיים",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "מעון",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "מעונה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "מעיין ברוך",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "מעיליא",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "מעלה גמלא",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "מעלות-תרשיחא",
+      "pct": 14.0,
+      "ceilingAnnual": 259920.0
+     },
+     {
+      "name": "מפלסים",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "מצדות יהודה",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "מצובה",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "מצפה רמון",
+      "pct": 18.0,
+      "ceilingAnnual": 259920.0
+     },
+     {
+      "name": "מצפה שלם",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "מרגליות",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "מרום גולן",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "מרחב עם",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "משאבי שדה",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "משגב עם",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "משואה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "משכיות",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "משמר הירדן",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "משמר הנגב",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "מתת",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "נאות גולן",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "נאות הכיכר",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "נאות מרדכי",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "נאות סמדר",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "נבטים",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "נגוהות",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "נהרייה",
+      "pct": 12.0,
+      "ceilingAnnual": 226560.0
+     },
+     {
+      "name": "נוב",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "נווה",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "נווה אור",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "נווה אטי\"ב",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "נווה איתן",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "נווה זוהר",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "נווה זיו",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "נווה חריף",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "נועם",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "נוף הגליל",
+      "pct": 12.0,
+      "ceilingAnnual": 226560.0
+     },
+     {
+      "name": "נחל עוז",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "נחף",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "נטועה",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "נטור",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "נטע",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "ניצנה (קהילת חינוך)",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "ניצני סיני",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "ניר יצחק",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "ניר משה",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "ניר עוז",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "ניר עם",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "ניר עקיבא",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "נירים",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "נמרוד",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "נס עמים",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "נעמ\"ה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "נתיב העשרה",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "נתיב השיירה",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "נתיבות",
+      "pct": 16.0,
+      "ceilingAnnual": 226560.0
+     },
+     {
+      "name": "סאג'ור",
+      "pct": 12.0,
+      "ceilingAnnual": 186000.0
+     },
+     {
+      "name": "סאסא",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "סוסיה",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "סופה",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "סח'נין",
+      "pct": 12.0,
+      "ceilingAnnual": 186000.0
+     },
+     {
+      "name": "סלמה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "סמר",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "סנסנה",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "סעד",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "סער",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "ספיר",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "ע'ג'ר",
+      "pct": 20.0,
+      "ceilingAnnual": 259920.0
+     },
+     {
+      "name": "עבדון",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "עברון",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "עזוז",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "עידן",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "עין אל-אסד",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "עין גב",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "עין גדי",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "עין הבשור",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "עין המפרץ",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "עין הנצי\"ב",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "עין השלושה",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "עין זיוון",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "עין חצבה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "עין יהב",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "עין יעקב",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "עין קנייא",
+      "pct": 14.0,
+      "ceilingAnnual": 259920.0
+     },
+     {
+      "name": "עין תמר",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "עיר אובות",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "עכו",
+      "pct": 12.0,
+      "ceilingAnnual": 226560.0
+     },
+     {
+      "name": "עלומים",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "עלמה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "עמוקה",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "עמיעד",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "עמיעוז",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "עמיר",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "עמקה",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "עצמון שגב",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "עראבה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "עראמשה",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "ערב אל נעים",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "ערד",
+      "pct": 18.0,
+      "ceilingAnnual": 259920.0
+     },
+     {
+      "name": "ערערה-בנגב",
+      "pct": 18.0,
+      "ceilingAnnual": 259920.0
+     },
+     {
+      "name": "עשהאל",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "עתניאל",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "פארן",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "פדויים",
+      "pct": 14.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "פורייה עילית",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "פורייה-כפר עבודה",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "פורייה-נווה עובד",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "פטיש",
+      "pct": 14.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "פלך",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "פני חבר",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "פסוטה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "פעמי תש\"ז",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "פצאל",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "פקיעין (בוקייעה)",
+      "pct": 14.0,
+      "ceilingAnnual": 259920.0
+     },
+     {
+      "name": "פקיעין חדשה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "פרוד",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "פרי גן",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "צאלים",
+      "pct": 14.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "צביה",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "צבעון",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "צוחר",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "צופר",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "צוקים",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "צוריאל",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "צורית",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "צפת",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "קדם ערבה",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "קדמת צבי",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "קדרים",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "קורנית",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "קטורה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "קלחים",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "קליה",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "קלע",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "קצר א-סר",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "קצרין",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "קריית ארבע",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "קריית שמונה",
+      "pct": 20.0,
+      "ceilingAnnual": 259920.0
+     },
+     {
+      "name": "קשת",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "ראמה",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "ראס אל-עין",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "ראש פינה",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "רביבים",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "רביד",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "רגבה",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "רהט",
+      "pct": 16.0,
+      "ceilingAnnual": 226560.0
+     },
+     {
+      "name": "רוח מדבר",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "רוחמה",
+      "pct": 14.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "רועי",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "רותם",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "רחוב",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "ריחאנייה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "רמות",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "רמות נפתלי",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "רמת טראמפ",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "רמת מגשימים",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "רנן",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "רעים",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "רקפת",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "רתמים",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "שאר ישוב",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "שבי דרום",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "שבי ציון",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "שגב-שלום",
+      "pct": 18.0,
+      "ceilingAnnual": 259920.0
+     },
+     {
+      "name": "שדה אליהו",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "שדה אליעזר",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "שדה בוקר",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "שדה דוד",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "שדה נחום",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "שדה נחמיה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "שדה ניצן",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "שדה צבי",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "שדי אברהם",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "שדי תרומות",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "שדמות מחולה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "שדרות",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "שובה",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "שובל",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "שומרה",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "שומרייה",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "שוקדה",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "שורשים",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "שזור",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "שחרות",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "שיבולים",
+      "pct": 14.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "שיזף",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "שיטים",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "שייח' דנון",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "שכניה",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "שלווה",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "שלווה במדבר",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "שלומי",
+      "pct": 20.0,
+      "ceilingAnnual": 259920.0
+     },
+     {
+      "name": "שלומית",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "שמיר",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "שמעה",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "שמרת",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "שני (ליבנה)",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "שניר",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "שעב",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "שעל",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "שער הגולן",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "שפר",
+      "pct": 10.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "שקף",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "שרשרת",
+      "pct": 14.0,
+      "ceilingAnnual": 180000.0
+     },
+     {
+      "name": "שתולה",
+      "pct": 14.0,
+      "ceilingAnnual": 219960.0
+     },
+     {
+      "name": "תאשור",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "תדהר",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "תובל",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "תושייה",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "תל קציר",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "תל שבע",
+      "pct": 18.0,
+      "ceilingAnnual": 259920.0
+     },
+     {
+      "name": "תל תאומים",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "תלם",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "תלמי אליהו",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "תלמי ביל\"ו",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "תלמי יוסף",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "תלמים",
+      "pct": 7.0,
+      "ceilingAnnual": 146640.0
+     },
+     {
+      "name": "תפרח",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     },
+     {
+      "name": "תקומה",
+      "pct": 20.0,
+      "ceilingAnnual": 267840.0
+     },
+     {
+      "name": "תרבין א-(יישוב) צאנע",
+      "pct": 12.0,
+      "ceilingAnnual": 213240.0
+     }
+    ]
+   },
+   "confidence": "verified",
+   "source": [
+    "booklet2026",
+    "kz_locality"
+   ],
+   "effective": "2026-01-01",
+   "note": "רשימה מלאה מפרק ח בלוח העזר 2026. תנאי: מרכז חיים ביישוב 12 חודשים רצופים. מומלץ לוודא את היישוב ברשימה הרשמית."
+  },
+  "bl.thresholds": {
+   "label": "ביטוח לאומי – ספים",
+   "value": {
+    "averageWage": 13769,
+    "reducedThreshold": 7703,
+    "maxInsurable": 51910
+   },
+   "confidence": "verified",
+   "source": [
+    "btl1522",
+    "btl1556",
+    "btl_employees"
+   ],
+   "effective": "2026-01-01",
+   "note": "מ-2026 הסף המופחת אינו 60% מהשכר הממוצע: 7,522 ₪ צמוד למדד = 7,703 ₪."
+  },
+  "bl.employee": {
+   "label": "ביטוח לאומי ובריאות – עובד",
+   "value": {
+    "blReduced": 0.0104,
+    "blFull": 0.07,
+    "healthReduced": 0.0323,
+    "healthFull": 0.0517
+   },
+   "confidence": "verified",
+   "source": [
+    "btl1522",
+    "btl_employees"
+   ],
+   "effective": "2026-01-01",
+   "note": "הוראת שעה מ-2025 עד סוף 2026 (ניתנת להארכה). לבדוק בינואר 2027."
+  },
+  "bl.employer": {
+   "label": "ביטוח לאומי – מעסיק",
+   "value": {
+    "reduced": 0.0451,
+    "full": 0.076
+   },
+   "confidence": "verified",
+   "source": [
+    "btl1522",
+    "btl_employees"
+   ],
+   "effective": "2026-01-01"
+  },
+  "bl.categories": {
+   "label": "ביטוח לאומי – קבוצות מיוחדות (עובד)",
+   "value": {
+    "pensionAgeWoman": {
+     "blReduced": 0.0072,
+     "blFull": 0.0507,
+     "healthReduced": 0.0323,
+     "healthFull": 0.0517,
+     "employerReduced": 0.0417,
+     "employerFull": 0.0712
+    },
+    "pensionAge": {
+     "blReduced": 0.007,
+     "blFull": 0.0486,
+     "healthReduced": 0.0323,
+     "healthFull": 0.0517,
+     "employerReduced": 0.0413,
+     "employerFull": 0.0696
+    },
+    "oldAgePensioner": {
+     "blReduced": 0,
+     "blFull": 0,
+     "healthReduced": 0,
+     "healthFull": 0,
+     "employerReduced": 0.0061,
+     "employerFull": 0.0212
+    },
+    "youth": {
+     "blReduced": 0,
+     "blFull": 0,
+     "healthReduced": 0,
+     "healthFull": 0,
+     "employerReduced": 0.0061,
+     "employerFull": 0.0212
+    }
+   },
+   "confidence": "verified",
+   "source": [
+    "btl1522",
+    "btl_employees"
+   ],
+   "effective": "2026-01-01",
+   "note": "סה\"כ עובד: אישה מגיל פרישה עד 67 – 3.95%/10.24%; גיל 67–70 ללא קצבה – 3.93%/10.03%. הפיצול בין ב\"ל לבריאות הוא הנחה (הסכום הכולל מהחוזר). מקבלי קצבת אזרח ותיק – מס בריאות מנוכה מהקצבה."
+  },
+  "bl.selfEmployed": {
+   "label": "ביטוח לאומי ובריאות – עצמאי",
+   "value": {
+    "blReduced": 0.0447,
+    "blFull": 0.1283,
+    "healthReduced": 0.0323,
+    "healthFull": 0.0517,
+    "deductiblePct": 0.52,
+    "minIncomeMonthly": 3442,
+    "minMonthlyPayment": 265,
+    "nonWorkingMonthly": 266
+   },
+   "confidence": "verified",
+   "source": [
+    "btl1502",
+    "btl_self",
+    "kz_bl_self"
+   ],
+   "effective": "2026-01-01",
+   "note": "52% מדמי הביטוח הלאומי (בלי מס בריאות) מותרים בניכוי ממס – מקור: כל זכות."
+  },
+  "bl.selfEmployedCategories": {
+   "label": "ביטוח לאומי – עצמאי בקבוצות מיוחדות",
+   "value": {
+    "pensionAge": {
+     "blReduced": 0.0369,
+     "blFull": 0.1062,
+     "healthReduced": 0.0323,
+     "healthFull": 0.0517
+    },
+    "pensionAgeWoman": {
+     "blReduced": 0.0369,
+     "blFull": 0.1062,
+     "healthReduced": 0.0323,
+     "healthFull": 0.0517
+    },
+    "oldAgePensioner": {
+     "blReduced": 0.0026,
+     "blFull": 0.0078,
+     "healthReduced": 0,
+     "healthFull": 0
+    },
+    "youth": {
+     "blReduced": 0.0026,
+     "blFull": 0.0078,
+     "healthReduced": 0,
+     "healthFull": 0
+    }
+   },
+   "confidence": "verified",
+   "source": [
+    "btl1502",
+    "btl1522"
+   ],
+   "effective": "2026-01-01",
+   "note": "גיל פרישה ללא קצבה: 6.92%/15.79% כולל בריאות (הפיצול הנחה)."
+  },
+  "pension.mandatory": {
+   "label": "פנסיה חובה – שיעורי הפרשה",
+   "value": {
+    "employee": 0.06,
+    "employer": 0.065,
+    "severance": 0.06
+   },
+   "confidence": "verified",
+   "source": [
+    "kz_pension",
+    "more2026"
+   ],
+   "effective": "2026-01-01",
+   "note": "על שכר היסוד עד השכר הממוצע במשק (13,769 ₪) אלא אם נקבע אחרת. 6 חודשי המתנה לעובד חדש בלי פנסיה קודמת."
+  },
+  "pension.taxCredit": {
+   "label": "זיכוי על הפרשת עובד לפנסיה",
+   "value": {
+    "creditRate": 0.35,
+    "maxPctOfSalary": 0.07,
+    "insuredSalaryCeilingMonthly": 9700
+   },
+   "confidence": "verified",
+   "source": [
+    "booklet2026",
+    "kz_pension_self",
+    "more2026"
+   ],
+   "effective": "2026-01-01"
+  },
+  "pension.employerExempt": {
+   "label": "פטור הפרשות מעסיק לתגמולים",
+   "value": {
+    "pct": 0.075,
+    "salaryCapMonthly": 34423,
+    "maxMonthly": 2582
+   },
+   "confidence": "verified",
+   "source": [
+    "booklet2026",
+    "kz_employer_exempt",
+    "more2026"
+   ],
+   "effective": "2026-01-01",
+   "note": "עד 7.5% מהשכר ועד 2.5 × השכר הממוצע (34,423 ₪). מעבר לכך – זקיפת הכנסה."
+  },
+  "pension.severanceExempt": {
+   "label": "פטור הפרשות מעסיק לפיצויים",
+   "value": {
+    "pct": 0.0833,
+    "salaryCapMonthly": 45600
+   },
+   "confidence": "needs-check",
+   "source": [
+    "booklet2026",
+    "more2026"
+   ],
+   "effective": "2026-01-01",
+   "note": "תקרה 45,600 ₪ – המקורות חלוקים אם זה שכר חודשי או הפקדה שנתית; ההשפעה זניחה כמעט לכל השכירים."
+  },
+  "pension.selfEmployed": {
+   "label": "פנסיה לעצמאי (סעיפים 47 ו-45א)",
+   "value": {
+    "deductPct": 0.11,
+    "creditPct": 0.055,
+    "qualifyingIncomeCeilingAnnual": 232800,
+    "maxDeductionAnnual": 25608
+   },
+   "confidence": "needs-check",
+   "source": [
+    "kz_pension_self",
+    "booklet2026"
+   ],
+   "effective": "2026-01-01",
+   "note": "ניכוי עד 11% וזיכוי 35% על עד 5.5% מההכנסה המזכה. תקרת ההכנסה המזכה (232,800 ₪) הוסקה מסכום הניכוי המרבי; יש לאמת."
+  },
+  "hishtalmut": {
+   "label": "קרן השתלמות",
+   "value": {
+    "employee": 0.025,
+    "employer": 0.075,
+    "salaryCeilingMonthly": 15712,
+    "selfEmployedDeductPct": 0.045,
+    "selfEmployedIncomeCeilingAnnual": 293397,
+    "selfEmployedExemptDepositAnnual": 20566
+   },
+   "confidence": "verified",
+   "source": [
+    "booklet2026",
+    "kz_hishtalmut",
+    "kz_hish_self",
+    "more2026"
+   ],
+   "effective": "2026-01-01"
+  },
+  "minWage": {
+   "label": "שכר מינימום",
+   "value": {
+    "monthly": 6443.85,
+    "hourly": 35.4,
+    "daily5": 297.41,
+    "daily6": 257.75,
+    "previousMonthly": 6247.67,
+    "youth": [
+     {
+      "label": "עד גיל 16",
+      "pct": 0.7
+     },
+     {
+      "label": "16–17",
+      "pct": 0.75
+     },
+     {
+      "label": "17–18",
+      "pct": 0.83
+     },
+     {
+      "label": "חניך",
+      "pct": 0.6
+     }
+    ]
+   },
+   "confidence": "verified",
+   "source": [
+    "btl1522",
+    "kz_minwage",
+    "kz_youthwage"
+   ],
+   "effective": "2026-04-01",
+   "note": "ינואר–מרץ 2026: 6,247.67 ₪. נוער: שכר שעתי = חודשי ÷ 173."
+  },
+  "wages": {
+   "label": "שכר ממוצע במשק",
+   "value": {
+    "averageEconomy": 13769
+   },
+   "confidence": "verified",
+   "source": [
+    "btl1556",
+    "booklet2026"
+   ],
+   "effective": "2026-01-01"
+  },
+  "havraa": {
+   "label": "דמי הבראה",
+   "value": {
+    "dailyRatePrivate": 451.5,
+    "dailyRatePublic": 511.6,
+    "daysBySeniority": [
+     {
+      "from": 1,
+      "to": 1,
+      "days": 5
+     },
+     {
+      "from": 2,
+      "to": 3,
+      "days": 6
+     },
+     {
+      "from": 4,
+      "to": 10,
+      "days": 7
+     },
+     {
+      "from": 11,
+      "to": 15,
+      "days": 8
+     },
+     {
+      "from": 16,
+      "to": 19,
+      "days": 9
+     },
+     {
+      "from": 20,
+      "days": 10
+     }
+    ]
+   },
+   "confidence": "needs-check",
+   "source": [
+    "kz_havraa",
+    "shibolet_havraa"
+   ],
+   "effective": "2025-07-01",
+   "note": "תעריף 451.50 ₪ לפי צו הרחבה שפורסם 18.8.2026; מועד התחולה המדויק שנוי במחלוקת בין המקורות."
+  },
+  "overtime": {
+   "label": "שעות נוספות ומנוחה שבועית",
+   "value": {
+    "first": 1.25,
+    "beyond": 1.5,
+    "firstHoursPerDay": 2,
+    "restDay": 1.5,
+    "restDayOvertimeFirst": 1.75,
+    "restDayOvertimeBeyond": 2.0,
+    "monthlyHours": 182,
+    "weeklyHours": 42
+   },
+   "confidence": "verified",
+   "source": [
+    "kz_overtime",
+    "kz_restday"
+   ],
+   "effective": "2018-04-01"
+  },
+  "severance": {
+   "label": "פיצויי פיטורים – פטור ממס",
+   "value": {
+    "exemptPerYear": 13750,
+    "exemptPerYearDeath": 27520
+   },
+   "confidence": "verified",
+   "source": [
+    "booklet2026",
+    "kz_severance_tax",
+    "more2026"
+   ],
+   "effective": "2026-01-01",
+   "note": "עד 13,750 ₪ לכל שנת עבודה ולא יותר מ-1.5 משכורות לשנה."
+  },
+  "fringe.car": {
+   "label": "שווי שימוש ברכב",
+   "value": {
+    "pctOfListPrice": 0.0248,
+    "maxListPrice": 596860,
+    "reduction_hybrid": 580,
+    "reduction_plugin": 1150,
+    "reduction_electric": 1380
+   },
+   "confidence": "verified",
+   "source": [
+    "booklet2026",
+    "malam_car"
+   ],
+   "effective": "2026-01-01",
+   "note": "הפחתות לרכב ירוק – הוראת שעה עד 31.12.2028."
+  },
+  "fringe.other": {
+   "label": "שווי הטבות אחרות",
+   "value": {
+    "phoneMonthly": 115
+   },
+   "confidence": "verified",
+   "source": [
+    "booklet2026"
+   ],
+   "effective": "2026-01-01",
+   "note": "1,380 ₪ לשנה (115 ₪ לחודש)."
+  },
+  "vat": {
+   "label": "מע\"מ ועוסק פטור",
+   "value": {
+    "rate": 0.18,
+    "exemptDealerCeiling": 122833
+   },
+   "confidence": "verified",
+   "source": [
+    "kz_osek",
+    "booklet2026"
+   ],
+   "effective": "2026-01-01",
+   "note": "תקרת עוסק פטור 2026 – כל זכות וביזפורטל; לא אומתה בדף של רשות המסים."
+  },
+  "vacation": {
+   "label": "ימי חופשה שנתית (נטו)",
+   "value": {
+    "days5": [
+     {
+      "from": 1,
+      "to": 5,
+      "days": 12
+     },
+     {
+      "from": 6,
+      "to": 6,
+      "days": 14
+     },
+     {
+      "from": 7,
+      "to": 7,
+      "days": 15
+     },
+     {
+      "from": 8,
+      "to": 8,
+      "days": 16
+     },
+     {
+      "from": 9,
+      "to": 9,
+      "days": 17
+     },
+     {
+      "from": 10,
+      "to": 10,
+      "days": 18
+     },
+     {
+      "from": 11,
+      "to": 11,
+      "days": 19
+     },
+     {
+      "from": 12,
+      "days": 20
+     }
+    ],
+    "days6": [
+     {
+      "from": 1,
+      "to": 5,
+      "days": 14
+     },
+     {
+      "from": 6,
+      "to": 6,
+      "days": 16
+     },
+     {
+      "from": 7,
+      "to": 7,
+      "days": 18
+     },
+     {
+      "from": 8,
+      "to": 8,
+      "days": 19
+     },
+     {
+      "from": 9,
+      "to": 9,
+      "days": 20
+     },
+     {
+      "from": 10,
+      "to": 10,
+      "days": 21
+     },
+     {
+      "from": 11,
+      "to": 11,
+      "days": 22
+     },
+     {
+      "from": 12,
+      "to": 12,
+      "days": 23
+     },
+     {
+      "from": 13,
+      "days": 24
+     }
+    ]
+   },
+   "confidence": "verified",
+   "source": [
+    "kz_vacation"
+   ],
+   "effective": "2017-01-01"
+  },
+  "sick": {
+   "label": "דמי מחלה",
+   "value": {
+    "daysPerMonth": 1.5,
+    "maxDays": 90,
+    "day1": 0,
+    "day2to3": 0.5,
+    "day4plus": 1.0
+   },
+   "confidence": "verified",
+   "source": [
+    "kz_sick"
+   ],
+   "effective": "2017-01-01"
+  }
+ },
+ "links": [
+  {
+   "category": "רשות המסים",
+   "title": "רשות המסים – דף הבית",
+   "description": "שירותים, טפסים ומידע רשמי של רשות המסים בישראל.",
+   "url": "https://www.gov.il/he/departments/israel_tax_authority/govil-landing-page"
+  },
+  {
+   "category": "רשות המסים",
+   "title": "לוח עזר לחישוב מס הכנסה 2026",
+   "description": "מדרגות המס, שווי נקודת זיכוי, תקרות ורשימת היישובים המזכים לשנת 2026 (PDF).",
+   "url": "https://www.gov.il/BlobFolder/generalpage/income-tax-monthly-deductions-booklet/he/generalInformation_income-tax-monthly-deductions-booklet_monthly-deductions-booklet-2026.pdf"
+  },
+  {
+   "category": "רשות המסים",
+   "title": "תיאום מס מקוון",
+   "description": "עריכת תיאום מס באופן מקוון למי שמקבל שכר מיותר ממעסיק אחד.",
+   "url": "https://www.gov.il/he/service/tax-coordination-online"
+  },
+  {
+   "category": "רשות המסים",
+   "title": "בקשה להחזר מס – טופס 135",
+   "description": "הגשת דוח מקוצר לבקשת החזר מס הכנסה עד 6 שנים אחורה.",
+   "url": "https://www.gov.il/he/service/itc135"
+  },
+  {
+   "category": "רשות המסים",
+   "title": "טופס 101 – כרטיס עובד",
+   "description": "הטופס שממלאים אצל המעסיק כדי לקבל נקודות זיכוי, הקלות ותיאום מס.",
+   "url": "https://www.gov.il/he/service/itc101"
+  },
+  {
+   "category": "רשות המסים",
+   "title": "טופס 106 – אישור שנתי על משכורת",
+   "description": "מה כולל הריכוז השנתי של השכר והניכויים ואיך משתמשים בו.",
+   "url": "https://www.gov.il/he/service/itc-106"
+  },
+  {
+   "category": "רשות המסים",
+   "title": "הטבת מס לבעלי תואר – טופס 119",
+   "description": "בקשה לנקודות זיכוי בגין תואר אקדמי או תעודת מקצוע.",
+   "url": "https://www.gov.il/he/service/itc119"
+  },
+  {
+   "category": "רשות המסים",
+   "title": "הקלות מס לעולים ולתושבים חוזרים",
+   "description": "בקשה למימוש הקלות המס לעולים חדשים ולתושבים חוזרים ותיקים.",
+   "url": "https://www.gov.il/he/service/tax-relief-new-immigrants"
+  },
+  {
+   "category": "רשות המסים",
+   "title": "פתיחת תיק עוסק פטור",
+   "description": "בקשה מקוונת לפתיחת תיק עוסק פטור במע״מ ובמס הכנסה.",
+   "url": "https://www.gov.il/he/service/request-open-exempt-dealer-via-internet"
+  },
+  {
+   "category": "רשות המסים",
+   "title": "בדיקת מוסד לזיכוי על תרומות (סעיף 46)",
+   "description": "בדיקה אם מוסד ציבורי מוכר לזיכוי ממס בגין תרומות.",
+   "url": "https://www.gov.il/he/service/confirmation-of-donations"
+  },
+  {
+   "category": "רשות המסים",
+   "title": "מס יסף – הוראת ביצוע 2025",
+   "description": "הוראת רשות המסים על המס הנוסף בשיעור 3% (ו-2% על הכנסות הון) מעל התקרה (PDF).",
+   "url": "https://www.gov.il/BlobFolder/policy/inst-05-2025/he/IncomeTax_inst-05-2025.pdf"
+  },
+  {
+   "category": "רשות המסים",
+   "title": "הטבות מס לחיילים משוחררים",
+   "description": "הסבר משרד הביטחון על נקודות הזיכוי לחיילים משוחררים ב-36 החודשים שאחרי השחרור.",
+   "url": "https://www.hachvana.mod.gov.il/Benefits/migufey/Pages/kitsbat.aspx"
+  },
+  {
+   "category": "סימולטורים ומחשבונים",
+   "title": "סימולטור מס הכנסה שנתי לשכירים",
+   "description": "סימולטור רשמי של רשות המסים לחישוב מס הכנסה שנתי לשכיר.",
+   "url": "https://secapp.taxes.gov.il/shSimulatorMas/main.aspx"
+  },
+  {
+   "category": "סימולטורים ומחשבונים",
+   "title": "מחשבון מס לניכוי מהשכר",
+   "description": "חישוב המס שינוכה מהשכר החודשי או השנתי לפי נקודות הזיכוי.",
+   "url": "https://www.gov.il/he/service/income-tax-calculator"
+  },
+  {
+   "category": "סימולטורים ומחשבונים",
+   "title": "סימולטור החזר מס לשכירים",
+   "description": "בדיקה אנונימית אם מגיע לכם החזר מס בשנה מסוימת.",
+   "url": "https://www.gov.il/he/service/simulator-employee"
+  },
+  {
+   "category": "סימולטורים ומחשבונים",
+   "title": "מחשבון נקודות זיכוי",
+   "description": "חישוב נקודות הזיכוי המגיעות לפי מצב משפחתי.",
+   "url": "https://www.gov.il/he/service/tax-credit"
+  },
+  {
+   "category": "סימולטורים ומחשבונים",
+   "title": "מחשבון שווי שימוש ברכב",
+   "description": "חישוב שווי השימוש החודשי ברכב צמוד לפי דגם ושנת עלייה לכביש.",
+   "url": "https://secapp.taxes.gov.il/mm_usecar10/UseCarScreen.aspx"
+  },
+  {
+   "category": "סימולטורים ומחשבונים",
+   "title": "סימולטור מענק עבודה (מס הכנסה שלילי)",
+   "description": "בדיקת זכאות וגובה מענק עבודה לשכירים ולעצמאים.",
+   "url": "https://www.gov.il/he/service/imaging-simulation-for-job-grant"
+  },
+  {
+   "category": "סימולטורים ומחשבונים",
+   "title": "מחשבוני זכויות – ביטוח לאומי",
+   "description": "כל המחשבונים של הביטוח הלאומי במקום אחד.",
+   "url": "https://www.btl.gov.il/Simulators/Pages/default.aspx"
+  },
+  {
+   "category": "סימולטורים ומחשבונים",
+   "title": "מחשבון דמי ביטוח לשכיר",
+   "description": "חישוב דמי ביטוח לאומי ובריאות שינוכו משכר העובד.",
+   "url": "https://www.btl.gov.il/Simulators/Pages/BituahCalculator.aspx"
+  },
+  {
+   "category": "סימולטורים ומחשבונים",
+   "title": "מחשבון דמי ביטוח לעצמאי ולמי שאינו עובד",
+   "description": "חישוב דמי ביטוח חודשיים לעצמאי, לסטודנט ולמי שאינו עובד.",
+   "url": "https://www.btl.gov.il/Simulators/BituahCalc/Pages/Insurance_NotSachir.aspx"
+  },
+  {
+   "category": "סימולטורים ומחשבונים",
+   "title": "מחשבון דמי אבטלה",
+   "description": "הערכת סכום דמי האבטלה היומי והחודשי.",
+   "url": "https://www.btl.gov.il/Simulators/Pages/AvtalaCalcNew.aspx"
+  },
+  {
+   "category": "סימולטורים ומחשבונים",
+   "title": "מחשבון דמי לידה",
+   "description": "חישוב סכום דמי הלידה ליום.",
+   "url": "https://www.btl.gov.il/Simulators/Pages/DmeyLedaCalc.aspx"
+  },
+  {
+   "category": "סימולטורים ומחשבונים",
+   "title": "מחשבון דמי ניהול",
+   "description": "השוואת דמי הניהול בפנסיה, בגמל ובביטוח והשפעתם על החיסכון.",
+   "url": "https://www.gov.il/he/service/management_fee_calculator"
+  },
+  {
+   "category": "ביטוח לאומי",
+   "title": "שיעורי דמי ביטוח לעובדים שכירים",
+   "description": "שיעורי ביטוח לאומי ובריאות לעובד ולמעסיק, כולל השכר המופחת והתקרה.",
+   "url": "https://www.btl.gov.il/Insurance/Rates/Pages/%D7%9C%D7%A2%D7%95%D7%91%D7%93%D7%99%D7%9D%20%D7%A9%D7%9B%D7%99%D7%A8%D7%99%D7%9D.aspx"
+  },
+  {
+   "category": "ביטוח לאומי",
+   "title": "שיעורי דמי ביטוח לעצמאים",
+   "description": "שיעורי דמי הביטוח וההכנסה המרבית לעובד עצמאי.",
+   "url": "https://www.btl.gov.il/Insurance/National%20Insurance/type_list/Self_Employed/Pages/rates.aspx"
+  },
+  {
+   "category": "ביטוח לאומי",
+   "title": "דמי ביטוח למי שאינו עובד",
+   "description": "סכומי דמי הביטוח למי שאינו עובד ולבעלי הכנסה שלא מעבודה.",
+   "url": "https://www.btl.gov.il/Insurance/Rates/Pages/%D7%9E%D7%99%20%D7%A9%D7%90%D7%99%D7%A0%D7%9D%20%D7%A2%D7%95%D7%91%D7%93%D7%99%D7%9D%20%D7%95%D7%91%D7%A2%D7%9C%D7%99%20%D7%94%D7%9B%D7%A0%D7%A1%D7%94%20%D7%A9%D7%9C%D7%90%20%D7%9E%D7%A2%D7%91%D7%95%D7%93%D7%94.aspx"
+  },
+  {
+   "category": "ביטוח לאומי",
+   "title": "שיעורי דמי ביטוח בריאות",
+   "description": "שיעורי דמי ביטוח הבריאות לפי סוג המבוטח.",
+   "url": "https://www.btl.gov.il/Insurance/Health_Insurance/Pages/%D7%A9%D7%99%D7%A2%D7%95%D7%A8%D7%99%20%D7%93%D7%9E%D7%99%20%D7%91%D7%99%D7%98%D7%95%D7%97%20%D7%91%D7%A8%D7%99%D7%90%D7%95%D7%AA.aspx"
+  },
+  {
+   "category": "ביטוח לאומי",
+   "title": "כל שיעורי דמי הביטוח",
+   "description": "ריכוז טבלאות שיעורי וסכומי דמי הביטוח לכל סוגי המבוטחים.",
+   "url": "https://www.btl.gov.il/Insurance/Rates/Pages/default.aspx"
+  },
+  {
+   "category": "ביטוח לאומי",
+   "title": "דמי אבטלה",
+   "description": "תנאי הזכאות, תקופת התשלום ואופן הגשת התביעה לדמי אבטלה.",
+   "url": "https://www.btl.gov.il/benefits/Unemployment/Pages/default.aspx"
+  },
+  {
+   "category": "ביטוח לאומי",
+   "title": "איך מחשבים דמי אבטלה",
+   "description": "הסבר על חישוב השכר היומי הממוצע ושיעורי דמי האבטלה.",
+   "url": "https://www.btl.gov.il/benefits/Unemployment/Pages/hisuv.aspx"
+  },
+  {
+   "category": "ביטוח לאומי",
+   "title": "דמי לידה",
+   "description": "זכאות, משך התשלום והגשת תביעה לדמי לידה.",
+   "url": "https://www.btl.gov.il/benefits/maternity/Pages/default.aspx"
+  },
+  {
+   "category": "ביטוח לאומי",
+   "title": "שכר מינימום – נתונים",
+   "description": "טבלת שכר המינימום החודשי, היומי והשעתי לאורך השנים.",
+   "url": "https://www.btl.gov.il/Mediniyut/GeneralData/Pages/%D7%A9%D7%9B%D7%A8%20%D7%9E%D7%99%D7%A0%D7%99%D7%9E%D7%95%D7%9D.aspx"
+  },
+  {
+   "category": "כל זכות",
+   "title": "שכר מינימום",
+   "description": "גובה שכר המינימום העדכני ומי זכאי לו.",
+   "url": "https://www.kolzchut.org.il/he/%D7%A9%D7%9B%D7%A8_%D7%9E%D7%99%D7%A0%D7%99%D7%9E%D7%95%D7%9D"
+  },
+  {
+   "category": "כל זכות",
+   "title": "דמי הבראה",
+   "description": "מי זכאי לדמי הבראה, כמה ימים ומה התעריף ליום.",
+   "url": "https://www.kolzchut.org.il/he/%D7%93%D7%9E%D7%99_%D7%94%D7%91%D7%A8%D7%90%D7%94"
+  },
+  {
+   "category": "כל זכות",
+   "title": "פיצויי פיטורים",
+   "description": "מתי מגיעים פיצויי פיטורים ואיך מחשבים אותם.",
+   "url": "https://www.kolzchut.org.il/he/%D7%A4%D7%99%D7%A6%D7%95%D7%99%D7%99_%D7%A4%D7%99%D7%98%D7%95%D7%A8%D7%99%D7%9D"
+  },
+  {
+   "category": "כל זכות",
+   "title": "שעות נוספות",
+   "description": "התשלום על שעות נוספות (125% ו-150%) ומגבלות ההעסקה.",
+   "url": "https://www.kolzchut.org.il/he/%D7%A9%D7%A2%D7%95%D7%AA_%D7%A0%D7%95%D7%A1%D7%A4%D7%95%D7%AA"
+  },
+  {
+   "category": "כל זכות",
+   "title": "חופשה שנתית",
+   "description": "כמה ימי חופשה בתשלום מגיעים לפי ותק.",
+   "url": "https://www.kolzchut.org.il/he/%D7%97%D7%95%D7%A4%D7%A9%D7%94_%D7%A9%D7%A0%D7%AA%D7%99%D7%AA"
+  },
+  {
+   "category": "כל זכות",
+   "title": "דמי מחלה",
+   "description": "צבירת ימי מחלה ושיעור התשלום עליהם.",
+   "url": "https://www.kolzchut.org.il/he/%D7%93%D7%9E%D7%99_%D7%9E%D7%97%D7%9C%D7%94"
+  },
+  {
+   "category": "כל זכות",
+   "title": "הודעה מוקדמת לפיטורים",
+   "description": "כמה זמן מראש המעסיק חייב להודיע על פיטורים.",
+   "url": "https://www.kolzchut.org.il/he/%D7%94%D7%95%D7%93%D7%A2%D7%94_%D7%9E%D7%95%D7%A7%D7%93%D7%9E%D7%AA_%D7%9C%D7%A4%D7%99%D7%98%D7%95%D7%A8%D7%99%D7%9D"
+  },
+  {
+   "category": "כל זכות",
+   "title": "הודעה מוקדמת להתפטרות",
+   "description": "כמה זמן מראש העובד חייב להודיע על התפטרות.",
+   "url": "https://www.kolzchut.org.il/he/%D7%94%D7%95%D7%93%D7%A2%D7%94_%D7%9E%D7%95%D7%A7%D7%93%D7%9E%D7%AA_%D7%9C%D7%94%D7%AA%D7%A4%D7%98%D7%A8%D7%95%D7%AA"
+  },
+  {
+   "category": "כל זכות",
+   "title": "תלוש שכר",
+   "description": "מה חייב להופיע בתלוש השכר ומתי יש למסור אותו.",
+   "url": "https://www.kolzchut.org.il/he/%D7%AA%D7%9C%D7%95%D7%A9_%D7%A9%D7%9B%D7%A8"
+  },
+  {
+   "category": "כל זכות",
+   "title": "נקודות זיכוי ממס הכנסה",
+   "description": "מדריך לכל סוגי נקודות הזיכוי ושוויין.",
+   "url": "https://www.kolzchut.org.il/he/%D7%A0%D7%A7%D7%95%D7%93%D7%95%D7%AA_%D7%96%D7%99%D7%9B%D7%95%D7%99_%D7%9E%D7%9E%D7%A1_%D7%94%D7%9B%D7%A0%D7%A1%D7%94"
+  },
+  {
+   "category": "כל זכות",
+   "title": "נקודות זיכוי לחיילים משוחררים",
+   "description": "נקודות זיכוי לחיילים משוחררים ולמסיימי שירות לאומי-אזרחי.",
+   "url": "https://www.kolzchut.org.il/he/%D7%A0%D7%A7%D7%95%D7%93%D7%95%D7%AA_%D7%96%D7%99%D7%9B%D7%95%D7%99_%D7%9E%D7%9E%D7%A1_%D7%94%D7%9B%D7%A0%D7%A1%D7%94_%D7%9C%D7%97%D7%99%D7%99%D7%9C%D7%99%D7%9D_%D7%9E%D7%A9%D7%95%D7%97%D7%A8%D7%A8%D7%99%D7%9D_%D7%95%D7%9E%D7%A1%D7%99%D7%99%D7%9E%D7%99_%D7%A9%D7%99%D7%A8%D7%95%D7%AA_%D7%9C%D7%90%D7%95%D7%9E%D7%99-%D7%90%D7%96%D7%A8%D7%97%D7%99"
+  },
+  {
+   "category": "כל זכות",
+   "title": "זיכוי ממס לתושבי יישובים מזכים",
+   "description": "הטבת מס לתושבי יישובים בפריפריה ואופן מימושה.",
+   "url": "https://www.kolzchut.org.il/he/%D7%96%D7%99%D7%9B%D7%95%D7%99_%D7%9E%D7%9E%D7%A1_%D7%94%D7%9B%D7%A0%D7%A1%D7%94_%D7%9C%D7%AA%D7%95%D7%A9%D7%91%D7%99%D7%9D_%D7%91%D7%A4%D7%A8%D7%99%D7%A4%D7%A8%D7%99%D7%94"
+  },
+  {
+   "category": "כל זכות",
+   "title": "מדרגות מס הכנסה",
+   "description": "מדרגות המס העדכניות על הכנסה מעבודה.",
+   "url": "https://www.kolzchut.org.il/he/%D7%9E%D7%93%D7%A8%D7%92%D7%95%D7%AA_%D7%9E%D7%A1_%D7%94%D7%9B%D7%A0%D7%A1%D7%94"
+  },
+  {
+   "category": "כל זכות",
+   "title": "פנסיה חובה",
+   "description": "חובת המעסיק להפריש לביטוח פנסיוני ושיעורי ההפרשה.",
+   "url": "https://www.kolzchut.org.il/he/%D7%97%D7%95%D7%91%D7%AA_%D7%91%D7%99%D7%98%D7%95%D7%97_%D7%A4%D7%A0%D7%A1%D7%99%D7%95%D7%A0%D7%99_%D7%9C%D7%A2%D7%95%D7%91%D7%93%D7%99%D7%9D"
+  },
+  {
+   "category": "כל זכות",
+   "title": "קרן השתלמות",
+   "description": "איך פועלת קרן השתלמות ומה ההטבות במס.",
+   "url": "https://www.kolzchut.org.il/he/%D7%A7%D7%A8%D7%9F_%D7%94%D7%A9%D7%AA%D7%9C%D7%9E%D7%95%D7%AA"
+  },
+  {
+   "category": "כל זכות",
+   "title": "החזר מס הכנסה",
+   "description": "מי עשוי להיות זכאי להחזר מס ואיך מבקשים אותו.",
+   "url": "https://www.kolzchut.org.il/he/%D7%94%D7%97%D7%96%D7%A8_%D7%9E%D7%A1_%D7%94%D7%9B%D7%A0%D7%A1%D7%94"
+  },
+  {
+   "category": "כל זכות",
+   "title": "תיאום מס הכנסה",
+   "description": "מתי צריך לעשות תיאום מס ואיך עושים אותו.",
+   "url": "https://www.kolzchut.org.il/he/%D7%AA%D7%99%D7%90%D7%95%D7%9D_%D7%9E%D7%A1_%D7%94%D7%9B%D7%A0%D7%A1%D7%94"
+  },
+  {
+   "category": "כל זכות",
+   "title": "מנוחה שבועית",
+   "description": "הזכות למנוחה שבועית והגמול על עבודה ביום המנוחה.",
+   "url": "https://www.kolzchut.org.il/he/%D7%9E%D7%A0%D7%95%D7%97%D7%94_%D7%A9%D7%91%D7%95%D7%A2%D7%99%D7%AA"
+  },
+  {
+   "category": "כל זכות",
+   "title": "החזר הוצאות נסיעה",
+   "description": "החזר הוצאות הנסיעה לעבודה ובחזרה והתקרה היומית.",
+   "url": "https://www.kolzchut.org.il/he/%D7%94%D7%97%D7%96%D7%A8_%D7%94%D7%95%D7%A6%D7%90%D7%95%D7%AA_%D7%A0%D7%A1%D7%99%D7%A2%D7%94"
+  },
+  {
+   "category": "כל זכות",
+   "title": "דמי אבטלה",
+   "description": "תנאי הזכאות לדמי אבטלה וחישוב הסכום.",
+   "url": "https://www.kolzchut.org.il/he/%D7%93%D7%9E%D7%99_%D7%90%D7%91%D7%98%D7%9C%D7%94"
+  },
+  {
+   "category": "כל זכות",
+   "title": "דמי לידה",
+   "description": "זכאות לדמי לידה ומשך התשלום.",
+   "url": "https://www.kolzchut.org.il/he/%D7%93%D7%9E%D7%99_%D7%9C%D7%99%D7%93%D7%94"
+  },
+  {
+   "category": "משרד העבודה",
+   "title": "זכויות עובדים – משרד העבודה",
+   "description": "ריכוז המידע והשירותים של משרד העבודה בנושא זכויות עובדים.",
+   "url": "https://www.gov.il/he/departments/topics/workers-rights"
+  },
+  {
+   "category": "משרד העבודה",
+   "title": "שכר מינימום – משרד העבודה",
+   "description": "מדריך משרד העבודה לשכר המינימום וחובות המעסיק.",
+   "url": "https://www.gov.il/he/departments/guides/minimum-wage"
+  },
+  {
+   "category": "משרד העבודה",
+   "title": "הגשת תלונה על הפרת חוקי עבודה",
+   "description": "טופס מקוון להגשת תלונה (גם אנונימית) נגד מעסיק.",
+   "url": "https://www.gov.il/he/service/work-rights-violation-complaints"
+  },
+  {
+   "category": "משרד העבודה",
+   "title": "מינהל הסדרה ואכיפת חוקי עבודה",
+   "description": "היחידה שאוכפת את דיני העבודה ומטפלת בתלונות עובדים.",
+   "url": "https://www.gov.il/he/departments/units/regularization-and-enforcement"
+  },
+  {
+   "category": "משרד העבודה",
+   "title": "חופשה שנתית – משרד העבודה",
+   "description": "מדריך רשמי לזכאות לחופשה שנתית בתשלום.",
+   "url": "https://www.gov.il/he/departments/guides/annual-vacations"
+  },
+  {
+   "category": "משרד העבודה",
+   "title": "היעדרות עקב מחלה – משרד העבודה",
+   "description": "מדריך רשמי לדמי מחלה ולהיעדרות מהעבודה עקב מחלה.",
+   "url": "https://www.gov.il/he/Departments/Guides/paid-sick-leave"
+  },
+  {
+   "category": "משרד העבודה",
+   "title": "הפרשות לפיצויי פיטורים",
+   "description": "מידע על הפרשות המעסיק לפיצויים בקופה הפנסיונית.",
+   "url": "https://www.gov.il/he/pages/provisions-for-severance-pay"
+  },
+  {
+   "category": "משרד העבודה",
+   "title": "יחסי עבודה – שאלות ותשובות",
+   "description": "תשובות משרד העבודה לשאלות נפוצות בנושא זכויות בעבודה.",
+   "url": "https://www.gov.il/he/departments/faq/work-relations-faq"
+  },
+  {
+   "category": "פנסיה וחיסכון",
+   "title": "הר הכסף – איתור חסכונות פנסיוניים",
+   "description": "איתור קופות גמל, קרנות פנסיה וביטוחי חיים על שמכם.",
+   "url": "https://itur.mof.gov.il/home/shuk"
+  },
+  {
+   "category": "פנסיה וחיסכון",
+   "title": "קבלת מידע על חסכונות פנסיוניים",
+   "description": "שירות ממשלתי לבדיקת קיומם של חשבונות פנסיוניים לא פעילים.",
+   "url": "https://www.gov.il/he/service/pension_savings_search"
+  },
+  {
+   "category": "פנסיה וחיסכון",
+   "title": "פנסיה נט",
+   "description": "השוואת תשואות ודמי ניהול של קרנות הפנסיה.",
+   "url": "https://pensyanet.cma.gov.il/"
+  },
+  {
+   "category": "פנסיה וחיסכון",
+   "title": "גמל נט",
+   "description": "השוואת תשואות קופות גמל וקרנות השתלמות.",
+   "url": "https://gemelnet.cma.gov.il/views/gemeltsuot.aspx"
+  },
+  {
+   "category": "פנסיה וחיסכון",
+   "title": "ביטוח נט",
+   "description": "השוואת תשואות של פוליסות ביטוח מנהלים וחיסכון.",
+   "url": "https://bituachnet.cma.gov.il/"
+  },
+  {
+   "category": "פנסיה וחיסכון",
+   "title": "רשות שוק ההון, ביטוח וחיסכון",
+   "description": "הרגולטור של הפנסיה, הגמל והביטוח: מידע, פניות ותלונות.",
+   "url": "https://www.gov.il/he/departments/units/department_cma"
+  }
+ ]
+}
