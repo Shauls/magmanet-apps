@@ -4,7 +4,7 @@ body{background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,
 a{color:var(--link)}h1{font-size:1.7em;line-height:1.25}h2{margin-top:1.8em;border-top:1px solid var(--line);padding-top:1em}
 code{background:rgba(127,127,127,.15);padding:1px 4px;border-radius:4px}table{border-collapse:collapse}td,th{border:1px solid var(--line);padding:4px 8px}
 footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>Privacy Policy — Bobo</h1>
-<p><em>Last updated: 2026-10-15</em></p>
+<p><em>Last updated: 2026-10-18</em></p>
 <p>Bobo is made by Magmanet. This policy explains what the app does with information. The short
 version: <strong>in offline mode nothing leaves the device. In the optional AI mode, which a parent turns on
 with their own Anthropic API key, the text of the conversation is sent to Anthropic to create Bobo's
@@ -12,7 +12,8 @@ replies.</strong> Bobo never records or uploads audio.</p>
 <h2>Two modes</h2>
 <p><strong>Offline mode</strong> (the default) uses only content built into the app: scripted conversations, phrases,
 stories and word games. It does not connect to the internet, except for the daily update check
-(see Permissions), which sends nothing about the child or the device.</p>
+(see Permissions), which sends nothing about the child or the device. Bobo collects no usage
+statistics or analytics in either mode.</p>
 <p><strong>AI mode</strong> is optional. A parent opens the parent area (protected by a PIN), creates an API key in
 their own Anthropic account and pastes it into the app. From then on, AI conversations are sent from
 the device directly to Anthropic, PBC (the company that makes Claude), over an encrypted HTTPS
@@ -72,10 +73,9 @@ in the parent area. To ask Anthropic about data sent with your key, contact Anth
 customer.</p>
 <h2>Permissions</h2>
 <ul>
-<li><strong>Internet:</strong> used in AI mode, to reach <code>api.anthropic.com</code>, and, at most once a day, to download a
-  small public version file from GitHub Pages (shauls.github.io) to check for a newer version of the
-  app. Nothing about the child or the device is sent (GitHub can see the device's IP address, as with
-  any web request). The update download button is behind the parent gate, and the check can be turned
+<li><strong>Internet:</strong> used in AI mode, to reach <code>api.anthropic.com</code>, and for the update check.
+  Once a day the app checks for a newer version by asking the Magmanet server (EU, Contabo) — the request contains only the app name, its version number and how it was installed (site/Google Play); the server counts checks per app and version in aggregate, stores no identifiers and no IP address; if the server is unavailable the app downloads the public version file from GitHub Pages instead (GitHub may see your IP address).
+  The check carries no identifiers and nothing about the child or the device. The update download button is behind the parent gate, and the check can be turned
   off in Settings ("Check for updates automatically").</li>
 <li><strong>Microphone:</strong> used only while the mic button is active, by the phone's speech recognizer.</li>
 <li><strong>Notifications:</strong> only if a parent turns on the daily reminder.</li>

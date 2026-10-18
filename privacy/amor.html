@@ -4,15 +4,15 @@ body{background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,
 a{color:var(--link)}h1{font-size:1.7em;line-height:1.25}h2{margin-top:1.8em;border-top:1px solid var(--line);padding-top:1em}
 code{background:rgba(127,127,127,.15);padding:1px 4px;border-radius:4px}table{border-collapse:collapse}td,th{border:1px solid var(--line);padding:4px 8px}
 footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>Privacy Policy — Amor</h1>
-<p><em>Last updated: 2026-10-15</em></p>
-<p>Amor is made by Magmanet. This policy explains what the app does with your information. The short version: <strong>your learning data stays on your device, and nothing leaves it unless you use the optional AI features with your own API key.</strong></p>
+<p><em>Last updated: 2026-10-18</em></p>
+<p>Amor is made by Magmanet. This policy explains what the app does with your information. The short version: <strong>your learning data stays on your device, and nothing leaves it unless you use the optional AI features with your own API key</strong>, apart from anonymous usage statistics, which you can turn off.</p>
 <h2>What we collect</h2>
-<p>We don't collect anything. Amor has no accounts, no analytics, no advertising and no tracking. We never see, sell or share your data.</p>
+<p>Amor has no accounts, no advertising and no tracking. The only thing we collect is anonymous usage statistics (see below), which you can turn off. We never see, sell or share your data.</p>
 <h2>Where your data is stored</h2>
 <p>Your progress, streaks and settings are saved only on your device, in the app's private storage. Android's own backup may include your learning progress (only the progress file; never the tutor API key). Everything is removed when you uninstall the app.</p>
 <h2>Internet use</h2>
 <p>Lessons, reviews, the verb tables, Sound Lab and audio mode work offline.</p>
-<p><strong>Update check:</strong> Once a day the app checks whether a newer version exists by downloading a public version file from GitHub Pages (shauls.github.io). The request carries no personal data or identifiers; GitHub may see the device's IP address, as with any web request. The check can be turned off in Settings.</p>
+<p><strong>Update check:</strong> Once a day the app checks for a newer version by asking the Magmanet server (EU, Contabo) — the request contains only the app name, its version number and how it was installed (site/Google Play); the server counts checks per app and version in aggregate, stores no identifiers and no IP address; if the server is unavailable the app downloads the public version file from GitHub Pages instead (GitHub may see your IP address). The check can be turned off in Settings.</p>
 <p>The <strong>AI features</strong> (conversations with Lola by chat or voice call, AI-written stories and "Why?" explanations after a mistake) are optional and off until you enter <strong>your own Anthropic API key</strong>. When you use them, the app sends the following directly from your phone to Anthropic's API (api.anthropic.com), over an encrypted connection, under your key:</p>
 <ul>
 <li><strong>Chat and voice calls:</strong> the messages you type or say (as text), Lola's earlier replies in that conversation, the scenario, and your learner profile.</li>
@@ -20,7 +20,11 @@ footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>P
 <li><strong>"Why?" explanations:</strong> the exercise, your answer, the correct answer and its English meaning.</li>
 </ul>
 <p>Your <strong>learner profile</strong> is: your first name (only if you entered one), your course level and completed units, up to 250 words you have studied, the grammar points you most often get wrong, the interests you picked and your preferred Spanish (Spain or Latin America).</p>
-<p>Magmanet has no server and does not receive any of this. Anthropic processes it under its own terms and privacy policy: https://www.anthropic.com/legal/privacy. Your key is kept only in the app's private storage, is never included in backups, and can be removed in the tutor settings. AI stories you generate are saved only on your phone.</p>
+<p>Magmanet does not receive any of this. Anthropic processes it under its own terms and privacy policy: https://www.anthropic.com/legal/privacy. Your key is kept only in the app's private storage, is never included in backups, and can be removed in the tutor settings. AI stories you generate are saved only on your phone.</p>
+<h2>Anonymous usage statistics</h2>
+<p>Amor sends anonymous usage statistics over HTTPS (a short ping once a day; usage events a few times a day at most, batched) to Magmanet's own server, hosted in the EU (Contabo), not to Google or any other third party. It sends the app name and version, your Android version, your language, how the app was installed (from Google Play, the website or elsewhere), a random install ID, and anonymous usage events (which screens and features are used and for how long). The random ID is made by the app when it is installed; it is not a device identifier. No personal content is sent.</p>
+<p>On the server the ID is hashed and no IP address is stored. Raw data is deleted after 400 days. It is used only to count active users and improve the app, never for advertising or profiling, and it is never sold or shared.</p>
+<p>This is on by default. You can turn it off on the Me tab ("Share anonymous usage statistics"). Turning it off stops sending immediately and deletes the random ID and any unsent usage events from your phone.</p>
 <h2>Reporting AI content</h2>
 <p>Every AI reply, story and explanation has a <strong>Report</strong> button. Reporting hides that content on your phone, keeps a note of the report on your phone, and opens your phone's share sheet with a pre-filled report. Nothing is sent unless you choose an app (for example your email) and send it yourself. If you send us a report, we use it only to improve the app's AI instructions and delete it when it's no longer needed.</p>
 <h2>Permissions</h2>

@@ -4,16 +4,16 @@ body{background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,
 a{color:var(--link)}h1{font-size:1.7em;line-height:1.25}h2{margin-top:1.8em;border-top:1px solid var(--line);padding-top:1em}
 code{background:rgba(127,127,127,.15);padding:1px 4px;border-radius:4px}table{border-collapse:collapse}td,th{border:1px solid var(--line);padding:4px 8px}
 footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>Privacy Policy — Semantika</h1>
-<p><em>Last updated: 2026-10-17</em></p>
-<p>Semantika is made by Magmanet. This policy explains what the app does with your information. The short version: <strong>your data stays on your device</strong>, unless you choose to join the online leaderboards.</p>
+<p><em>Last updated: 2026-10-18</em></p>
+<p>Semantika is made by Magmanet. This policy explains what the app does with your information. The short version: <strong>your data stays on your device</strong>, unless you choose to join the online leaderboards. The app also sends anonymous usage statistics, which you can turn off.</p>
 <h2>What we collect</h2>
-<p>By default, nothing. Semantika has no sign-up, no analytics, no advertising and no tracking. We never sell or share your data.</p>
-<p>The only exception is the optional <strong>online leaderboards</strong> (below): if, and only if, you join them, the nickname, city and daily results you choose to publish are sent to the Magmanet leaderboard server.</p>
+<p>By default, only anonymous usage statistics (see below), which you can turn off. Semantika has no sign-up, no advertising and no tracking. We never sell or share your data.</p>
+<p>The other exception is the optional <strong>online leaderboards</strong> (below): if, and only if, you join them, the nickname, city and daily results you choose to publish are sent to the Magmanet leaderboard server.</p>
 <h2>Where your data is stored</h2>
 <p>Everything you enter is saved only on your device, in the app's private storage. It is removed when you uninstall the app.</p>
 <p>The app's <strong>Copy backup</strong> feature (Settings → Your data) copies your data as text to your clipboard, so you can keep it somewhere you choose. Where you paste it is up to you; the app never uploads it.</p>
 <h2>Online leaderboards (optional, off until you join)</h2>
-<p>Semantika can show public leaderboards for the daily puzzle (in your city, your region, Israel and the world). The first time you open them, the app asks whether you want to take part. If you choose "Not now", nothing is ever sent.</p>
+<p>Semantika can show public leaderboards for the daily puzzle (in your city, your region, Israel and the world). The first time you open them, the app asks whether you want to take part. If you choose "Not now", nothing is ever sent to the leaderboards.</p>
 <p>If you join:</p>
 <ul>
 <li><strong>What is sent:</strong> a nickname you pick (2–16 characters), the city you pick from a list (for players outside Israel: the country you pick), the district (region) of that city, and for each daily puzzle you solve on its day: the number of guesses, hint points and the time it took, plus your current daily streak. To check results are plausible, the puzzle number and its language are sent too. Practice, archive and race games are never sent.</li>
@@ -25,8 +25,12 @@ footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>P
 </ul>
 <p>Semantika is not directed at children, and the leaderboards are only for players who choose to join.</p>
 <h2>Internet use</h2>
-<p>Without the leaderboards, Semantika works entirely offline; the only internet request is the update check below. With the leaderboards joined, it also connects to the Magmanet leaderboard server, to send your results and load the tables. The Android "internet" permission is needed for that and for any network connection, including the direct local-network connection between phones in Play nearby.</p>
-<p>At most once a day the app checks whether a newer version is available by downloading a small public version file from GitHub Pages (shauls.github.io). Nothing about you or your device is sent; like any web request, GitHub can see your device's IP address. If a newer version exists, the app shows a notice and you choose whether to open the download link. You can turn this off in Settings ("Check for updates automatically").</p>
+<p>Without the leaderboards, Semantika works entirely offline; the only internet requests are the update check and the anonymous usage statistics below. With the leaderboards joined, it also connects to the Magmanet leaderboard server, to send your results and load the tables. The Android "internet" permission is needed for that and for any network connection, including the direct local-network connection between phones in Play nearby.</p>
+<p>Once a day the app checks for a newer version by asking the Magmanet server (EU, Contabo) — the request contains only the app name, its version number and how it was installed (site/Google Play); the server counts checks per app and version in aggregate, stores no identifiers and no IP address; if the server is unavailable the app downloads the public version file from GitHub Pages instead (GitHub may see your IP address). If a newer version exists, the app shows a notice and you choose whether to open the download link. You can turn this off in Settings ("Check for updates automatically").</p>
+<h2>Anonymous usage statistics</h2>
+<p>Semantika sends anonymous usage statistics over HTTPS (a short ping once a day; usage events a few times a day at most, batched) to Magmanet's own server, hosted in the EU (Contabo), not to Google or any other third party. It sends the app name and version, your Android version, your language, how the app was installed (from Google Play, the website or elsewhere), a random install ID, and anonymous usage events (which screens and features are used and for how long). The random ID is made by the app when it is installed; it is not a device identifier. No personal content is sent (no words you guess, and no leaderboard nickname or city).</p>
+<p>On the server the ID is hashed and no IP address is stored. Raw data is deleted after 400 days. It is used only to count active users and improve the app, never for advertising or profiling, and it is never sold or shared.</p>
+<p>This is on by default. You can turn it off in Settings ("Share anonymous usage statistics"). Turning it off stops sending immediately and deletes the random ID and any unsent usage events from your phone.</p>
 <h2>Permissions</h2>
 <p>The app asks for a permission only when you use the feature that needs it. You can say no and still use the rest of the app.</p>
 <ul>

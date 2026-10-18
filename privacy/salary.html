@@ -5,11 +5,10 @@ a{color:var(--link)}h1{font-size:1.7em;line-height:1.25}h2{margin-top:1.8em;bord
 code{background:rgba(127,127,127,.15);padding:1px 4px;border-radius:4px}table{border-collapse:collapse}td,th{border:1px solid var(--line);padding:4px 8px}
 footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>מדיניות פרטיות — מחשבון שכר</h1>
 <p><em>עודכן לאחרונה: 18/10/2026</em></p>
-<p>את האפליקציה "מחשבון שכר" (<code>com.magmanet.salary</code>) מפתחת Magmanet. המסמך הזה מסביר מה האפליקציה עושה במידע שלכם. בקיצור: <strong>המידע שלכם נשאר במכשיר שלכם.</strong></p>
+<p>את האפליקציה "מחשבון שכר" (<code>com.magmanet.salary</code>) מפתחת Magmanet. המסמך הזה מסביר מה האפליקציה עושה במידע שלכם. בקיצור: <strong>המידע שלכם נשאר במכשיר שלכם.</strong> האפליקציה שולחת רק נתוני שימוש אנונימיים, ואפשר לכבות אותם.</p>
 <h2>איזה מידע אנחנו אוספים</h2>
-<p>אנחנו לא אוספים שום מידע. באפליקציה אין:
+<p>אנחנו אוספים רק נתוני שימוש אנונימיים (ראו בהמשך), ואפשר לכבות אותם. באפליקציה אין:
 - חשבונות משתמש
-- כלי ניתוח (אנליטיקס)
 - פרסומות
 - מעקב</p>
 <p>אנחנו לא רואים את המידע שלכם, לא מוכרים אותו ולא משתפים אותו.</p>
@@ -20,18 +19,23 @@ footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>�
 - תרחישים שמורים</p>
 <p>כל החישובים נעשים במכשיר. הסרת האפליקציה מוחקת את כל המידע.</p>
 <h2>אינטרנט</h2>
-<p>האפליקציה עובדת גם בלי אינטרנט, עם נתוני המס המובנים בה. היא מתחברת לרשת רק לשלוש מטרות:</p>
+<p>האפליקציה עובדת גם בלי אינטרנט, עם נתוני המס המובנים בה. היא מתחברת לרשת רק לארבע מטרות:</p>
 <ol>
 <li><strong>עדכון נתוני המס:</strong> לכל היותר פעם ביום, ובכל פעם שתלחצו "בדיקת עדכון נתונים".
    - האפליקציה מורידה קובץ נתונים ציבורי מ-GitHub Pages (shauls.github.io). הקובץ כולל מדרגות מס, שיעורי ביטוח לאומי, תקרות וקישורים רשמיים.</li>
-<li><strong>בדיקת גרסה חדשה:</strong> לכל היותר פעם ביום, האפליקציה מורידה קובץ גרסאות ציבורי מאותו אתר.
+<li><strong>בדיקת גרסה חדשה:</strong> פעם ביום האפליקציה בודקת אם יש גרסה חדשה יותר בפנייה לשרת של Magmanet (באיחוד האירופי, אצל Contabo) — הבקשה כוללת רק את שם האפליקציה, מספר הגרסה שלה ודרך ההתקנה (מהאתר/מ-Google Play); השרת סופר בדיקות לפי אפליקציה וגרסה באופן מצטבר בלבד, ולא שומר מזהים או כתובת IP; אם השרת לא זמין, האפליקציה מורידה במקום זאת את קובץ הגרסאות הציבורי מ-GitHub Pages (GitHub עשוי לראות את כתובת ה-IP שלך).
    - אפשר לכבות את הבדיקה בהגדרות.</li>
 <li><strong>דפי מידע רשמיים:</strong> כשאתם בוחרים קישור במסך "מידע רשמי" או מקור של נתון, הדף נפתח בדפדפן בתוך האפליקציה.
    - הדפים שייכים לאתרים כמו gov.il, btl.gov.il ו-kolzchut.org.il, ומדיניות הפרטיות שלהם חלה עליהם.</li>
+<li><strong>נתוני שימוש אנונימיים:</strong> פינג קצר פעם ביום, ואירועי שימוש לכל היותר כמה פעמים ביום (במנות); ראו בסעיף הבא.</li>
 </ol>
-<p>בהורדות (סעיפים 1 ו-2) לא נשלח שום מידע עליכם או על המכשיר: לא נתוני שכר, לא מידע אישי ולא מזהים. כמו בכל בקשה ברשת, השרת יכול לראות את כתובת ה-IP של המכשיר.</p>
+<p>בסעיפים 1 ו-2 לא נשלח שום מידע עליכם או על המכשיר: לא נתוני שכר, לא מידע אישי ולא מזהים. בהורדה מ-GitHub Pages, כמו בכל בקשה ברשת, השרת יכול לראות את כתובת ה-IP של המכשיר.</p>
+<h2>נתוני שימוש אנונימיים</h2>
+<p>האפליקציה שולחת נתוני שימוש אנונימיים (פינג קצר פעם ביום; אירועי שימוש לכל היותר כמה פעמים ביום, במנות) בחיבור מוצפן (HTTPS) לשרת של Magmanet, שמאוחסן באיחוד האירופי (אצל Contabo), ולא ל-Google או לכל צד שלישי אחר. נשלחים: שם האפליקציה והגרסה שלה, גרסת Android, השפה, דרך ההתקנה (מ-Google Play, מהאתר או ממקור אחר), מזהה התקנה אקראי, ואירועי שימוש אנונימיים (באילו מסכים ותכונות משתמשים ולכמה זמן). המזהה האקראי נוצר על ידי האפליקציה בזמן ההתקנה, והוא אינו מזהה של המכשיר. לא נשלח שום תוכן אישי (לא נתוני שכר ולא פרטי פרופיל).</p>
+<p>בשרת המזהה עובר גיבוב (hash), וכתובת ה-IP לא נשמרת. הנתונים הגולמיים נמחקים אחרי 400 יום. הם משמשים רק לספירת משתמשים פעילים ולשיפור האפליקציה, אף פעם לא לפרסום או ליצירת פרופילים, ולעולם לא נמכרים או משותפים.</p>
+<p>השליחה פעילה כברירת מחדל. אפשר לכבות אותה בהגדרות ("שיתוף נתוני שימוש אנונימיים"). הכיבוי עוצר את השליחה מיד ומוחק מהטלפון את המזהה האקראי ואת אירועי השימוש שעוד לא נשלחו.</p>
 <h2>שיתוף שאתם יוזמים</h2>
-<p>המידע יוצא מהמכשיר רק כשאתם בוחרים לשתף אותו, ורק ליעד שאתם בוחרים:</p>
+<p>המידע שאתם מזינים יוצא מהמכשיר רק כשאתם בוחרים לשתף אותו, ורק ליעד שאתם בוחרים:</p>
 <ul>
 <li><strong>שיתוף פירוט השכר (טקסט או PDF):</strong> האפליקציה פותחת את תפריט השיתוף של המערכת. אתם בוחרים את האפליקציה ואת הנמען.</li>
 <li><strong>הדפסה:</strong> נעשית דרך שירות ההדפסה של המכשיר.</li>
@@ -44,7 +48,7 @@ footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>�
 </ul>
 <p>האפליקציה לא מבקשת גישה למיקום, לאנשי קשר, למצלמה, למיקרופון או לקבצים.</p>
 <h2>ילדים</h2>
-<p>האפליקציה מיועדת למבוגרים (18+). איננו אוספים מידע מאף אחד, כולל ילדים.</p>
+<p>האפליקציה מיועדת למבוגרים (18+). איננו אוספים מידע אישי מאף אחד, כולל ילדים (נתוני השימוש שתוארו למעלה הם אנונימיים).</p>
 <h2>הבהרה</h2>
 <p>החישובים משוערים ולצורכי מידע בלבד. הם אינם מהווים ייעוץ מס או ייעוץ משפטי. האפליקציה אינה קשורה לרשות המסים, לביטוח הלאומי או לכל גוף ממשלתי.</p>
 <h2>שינויים במדיניות</h2>
@@ -52,13 +56,15 @@ footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>�
 <hr />
 <h2>English summary</h2>
 <ul>
-<li><strong>We collect nothing.</strong> The app has no accounts, analytics, ads or tracking.</li>
+<li><strong>We collect only anonymous usage statistics.</strong> The app has no accounts, ads or tracking.</li>
 <li><strong>Storage:</strong> salary figures, personal profiles (for credit points) and saved scenarios are kept only in the app's private storage. Uninstalling the app deletes them.</li>
-<li><strong>Internet, used for three things only:</strong></li>
+<li><strong>Internet, used for four things only:</strong></li>
 <li>downloading the public tax-rules file (at most once a day, or when you tap "check for data update");</li>
-<li>the daily update check, which you can turn off in Settings;</li>
-<li>opening official pages you choose, in an in-app browser tab.
-  Nothing about you or your device is sent. The host can see the device's IP address, as with any web request.</li>
+<li>the daily update check, which you can turn off in Settings. Once a day the app checks for a newer version by asking the Magmanet server (EU, Contabo) — the request contains only the app name, its version number and how it was installed (site/Google Play); the server counts checks per app and version in aggregate, stores no identifiers and no IP address; if the server is unavailable the app downloads the public version file from GitHub Pages instead (GitHub may see your IP address);</li>
+<li>opening official pages you choose, in an in-app browser tab;</li>
+<li>anonymous usage statistics (below).
+  None of these sends anything about you or your device (no salary figures, no identifiers). GitHub Pages can see the device's IP address during a download, as with any web request.</li>
+<li><strong>Anonymous usage statistics:</strong> the app sends (a short ping once a day; usage events a few times a day at most, batched), over HTTPS to Magmanet's own server hosted in the EU (Contabo), not to Google or any third party: the app name and version, Android version, language, how the app was installed (Google Play, the website or elsewhere), a random install ID (made by the app at install time, not a device identifier), and anonymous usage events (which screens and features are used and for how long). No personal content (no salary figures or profile details). The ID is hashed on the server, no IP address is stored, and raw data is deleted after 400 days. Used only to count active users and improve the app, never for ads or profiling, never sold or shared. On by default; turn it off in Settings ("שיתוף נתוני שימוש אנונימיים"), which stops sending immediately and deletes the random ID and unsent usage events from the phone.</li>
 <li><strong>Sharing you start:</strong> text or PDF breakdowns leave the device only when you share, print or copy them.</li>
 <li><strong>Permissions:</strong> <code>INTERNET</code>, plus the app-private <code>com.magmanet.salary.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION</code> that AndroidX adds automatically. No runtime permissions are requested.</li>
 <li><strong>Not advice; not affiliated:</strong> results are estimates for information only. The app is not affiliated with any government body.</li>

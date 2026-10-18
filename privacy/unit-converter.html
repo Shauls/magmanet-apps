@@ -4,10 +4,10 @@ body{background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,
 a{color:var(--link)}h1{font-size:1.7em;line-height:1.25}h2{margin-top:1.8em;border-top:1px solid var(--line);padding-top:1em}
 code{background:rgba(127,127,127,.15);padding:1px 4px;border-radius:4px}table{border-collapse:collapse}td,th{border:1px solid var(--line);padding:4px 8px}
 footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>Privacy Policy — Unit Converter</h1>
-<p><em>Last updated: 2026-10-03</em></p>
-<p>Unit Converter is made by Magmanet. This policy explains what the app does with your information. The short version: <strong>your data stays on your device.</strong></p>
+<p><em>Last updated: 2026-10-18</em></p>
+<p>Unit Converter is made by Magmanet. This policy explains what the app does with your information. The short version: <strong>your data stays on your device</strong>; the app only sends anonymous usage statistics, which you can turn off.</p>
 <h2>What we collect</h2>
-<p>We don't collect anything. Unit Converter has no accounts, no analytics, no advertising and no tracking. We never see, sell or share your data.</p>
+<p>Unit Converter has no accounts, no advertising and no tracking. The only thing we collect is anonymous usage statistics (see below), which you can turn off. We never see, sell or share your data.</p>
 <h2>Where your data is stored</h2>
 <p>Everything you enter is saved only on your device, in the app's private storage. It is removed when you uninstall the app.</p>
 <p>The app's <strong>Copy backup</strong> feature (Settings → Your data) copies your data as text to your clipboard, so you can keep it somewhere you choose. Where you paste it is up to you; the app never uploads it.</p>
@@ -15,9 +15,13 @@ footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>P
 <p>To provide some features, the app contacts these third-party services directly from your device:</p>
 <ul>
 <li>Frankfurter (api.frankfurter.app), a free currency-rate service based on European Central Bank data. The app requests the latest exchange rates; no personal data is sent.</li>
-<li>GitHub Pages (shauls.github.io), at most once a day, to check whether a newer version of the app is available. The app downloads a small public version file; nothing about you or your device is sent. You can turn this off in Settings ("Check for updates automatically").</li>
+<li>The update check. Once a day the app checks for a newer version by asking the Magmanet server (EU, Contabo) — the request contains only the app name, its version number and how it was installed (site/Google Play); the server counts checks per app and version in aggregate, stores no identifiers and no IP address; if the server is unavailable the app downloads the public version file from GitHub Pages instead (GitHub may see your IP address). You can turn this off in Settings ("Check for updates automatically").</li>
 </ul>
 <p>Like any internet request, these services can see your device's IP address. We don't receive or store these requests.</p>
+<h2>Anonymous usage statistics</h2>
+<p>Unit Converter sends anonymous usage statistics over HTTPS (a short ping once a day; usage events a few times a day at most, batched) to Magmanet's own server, hosted in the EU (Contabo), not to Google or any other third party. It sends the app name and version, your Android version, your language, how the app was installed (from Google Play, the website or elsewhere), a random install ID, and anonymous usage events (which screens and features are used and for how long). The random ID is made by the app when it is installed; it is not a device identifier. No personal content is sent.</p>
+<p>On the server the ID is hashed and no IP address is stored. Raw data is deleted after 400 days. It is used only to count active users and improve the app, never for advertising or profiling, and it is never sold or shared.</p>
+<p>This is on by default. You can turn it off in Settings ("Share anonymous usage statistics"). Turning it off stops sending immediately and deletes the random ID and any unsent usage events from your phone.</p>
 <h2>Changes</h2>
 <p>If this policy changes, we'll update the date above and publish the new version at the same address.</p>
 <h2>Contact</h2>

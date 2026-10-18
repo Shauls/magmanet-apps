@@ -5,23 +5,27 @@ a{color:var(--link)}h1{font-size:1.7em;line-height:1.25}h2{margin-top:1.8em;bord
 code{background:rgba(127,127,127,.15);padding:1px 4px;border-radius:4px}table{border-collapse:collapse}td,th{border:1px solid var(--line);padding:4px 8px}
 footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>Privacy Policy — PlayCord</h1>
 <p><em>Last updated: 2026-10-18</em></p>
-<p>PlayCord is made by Magmanet. This policy explains what the app does with your information. The short version: <strong>everything runs on your device. PlayCord collects nothing.</strong></p>
+<p>PlayCord is made by Magmanet. This policy explains what the app does with your information. The short version: <strong>everything runs on your device. PlayCord collects only anonymous usage statistics, which you can turn off.</strong></p>
 <h2>What we collect</h2>
-<p>We don't collect anything. PlayCord has no accounts, no analytics, no advertising and no tracking. We never see, sell or share your data.</p>
+<p>PlayCord has no accounts, no advertising and no tracking. The only thing we collect is anonymous usage statistics (see below), which you can turn off. We never see, sell or share your data.</p>
 <h2>Where your data is stored</h2>
 <p>The songs you open are analysed on your phone. The analyses (chords, beats, sections, your edits), your settings, setlists, favourites, pasted lyrics, recordings you make and your practice scores are saved only on your device, in the app's private storage. Uninstalling the app deletes them. Your audio files are never uploaded.</p>
 <p>When you <strong>share or save</strong> something (a chord chart, a PDF, a MIDI file, a practice track), the app hands it to the app or folder you choose. Nothing is sent unless you do this, and where it goes is up to you.</p>
 <p>The app reads the <strong>clipboard</strong> only when you tap "Paste lyrics", and copies to it only when you tap a copy button.</p>
 <h2>Internet use</h2>
-<p>PlayCord works offline. Its only internet request is the update check: at most once a day, release versions of the app download a small public version file from GitHub Pages (shauls.github.io) to see whether a newer version is available. Nothing about you or your device is sent; like any web request, GitHub can see your device's IP address. If a newer version exists, the app shows a notice and you choose whether to open the download link (or the store page, if you installed the app from the store). Development (debug) builds skip this check.</p>
+<p>PlayCord works offline. It goes online only to send anonymous usage statistics (see below) and for the update check (release versions only). Once a day the app checks for a newer version by asking the Magmanet server (EU, Contabo) — the request contains only the app name, its version number and how it was installed (site/Google Play); the server counts checks per app and version in aggregate, stores no identifiers and no IP address; if the server is unavailable the app downloads the public version file from GitHub Pages instead (GitHub may see your IP address). If a newer version exists, the app shows a notice and you choose whether to open the download link (or the store page, if you installed the app from the store). Development (debug) builds skip this check.</p>
+<h2>Anonymous usage statistics</h2>
+<p>PlayCord sends anonymous usage statistics over HTTPS (a short ping once a day; usage events a few times a day at most, batched) to Magmanet's own server, hosted in the EU (Contabo), not to Google or any other third party. It sends the app name and version, your Android version, your language, how the app was installed (from Google Play, the website or elsewhere), a random install ID, and anonymous usage events (which screens and features are used and for how long). The random ID is made by the app when it is installed; it is not a device identifier. No personal content is sent.</p>
+<p>On the server the ID is hashed and no IP address is stored. Raw data is deleted after 400 days. It is used only to count active users and improve the app, never for advertising or profiling, and it is never sold or shared.</p>
+<p>This is on by default. You can turn it off in Settings, in the Privacy section ("Share anonymous usage statistics"). Turning it off stops sending immediately and deletes the random ID and any unsent usage events from your phone.</p>
 <h2>Permissions</h2>
 <p>The app asks for a permission only when you use the feature that needs it. You can say no and still use the rest of the app.</p>
 <ul>
 <li><strong>Microphone:</strong> only while you use live chord recognition, the tuner, the chord-change drill or "Record". The sound is analysed on the device. A recording you make is saved on the device only; nothing is uploaded.</li>
-<li><strong>Internet:</strong> only for the daily update check described above.</li>
+<li><strong>Internet:</strong> only for the daily update check and the anonymous usage statistics described above.</li>
 </ul>
 <h2>Children</h2>
-<p>PlayCord is a music tool for teens and adults and is not directed at children. It collects no personal information from anyone.</p>
+<p>PlayCord is a music tool for teens and adults and is not directed at children. It collects no personal information from anyone (the usage statistics described above are anonymous).</p>
 <h2>Changes</h2>
 <p>If this policy changes, we'll update the date above and publish the new version at the same address.</p>
 <h2>Contact</h2>

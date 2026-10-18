@@ -4,9 +4,9 @@ body{background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,
 a{color:var(--link)}h1{font-size:1.7em;line-height:1.25}h2{margin-top:1.8em;border-top:1px solid var(--line);padding-top:1em}
 code{background:rgba(127,127,127,.15);padding:1px 4px;border-radius:4px}table{border-collapse:collapse}td,th{border:1px solid var(--line);padding:4px 8px}
 footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>Privacy Policy — ARMA</h1>
-<p><em>Last updated: 2026-10-15</em></p>
+<p><em>Last updated: 2026-10-18</em></p>
 <p>ARMA is made by Magmanet. This policy explains what the app does with your information.</p>
-<p>The short version: <strong>we (Magmanet) don't receive any of your data.</strong> There are no accounts, no analytics, no advertising and no tracking. Your projects stay on your device. When you look up a site, the address or block/parcel you typed and the site's coordinates are sent <strong>directly from your device</strong> to the public open-data services listed below, only to fetch the results you asked for.</p>
+<p>The short version: <strong>we (Magmanet) don't receive any of your data</strong>, apart from anonymous usage statistics, which you can turn off. There are no accounts, no advertising and no tracking. Your projects stay on your device. When you look up a site, the address or block/parcel you typed and the site's coordinates are sent <strong>directly from your device</strong> to the public open-data services listed below, only to fetch the results you asked for.</p>
 <p>ARMA is not a government app and does not represent the Israel Planning Administration or any government body. It reads public open data published by the services listed below.</p>
 <h2>What leaves your device, and where it goes</h2>
 <p>When you search for a site or open its map, the app contacts these public services directly from your device:</p>
@@ -18,15 +18,19 @@ footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>P
 </ul>
 <p>These are searched sites, not your own location: the app has no location permission and never reads where your device is. Like any internet request, each service can see your device's IP address and handles requests under its own policy (OpenStreetMap Foundation: https://osmfoundation.org/wiki/Privacy_Policy; Israeli government services: https://www.gov.il/he/departments/general/privacy_policy). Magmanet does not receive, see or store these requests.</p>
 <p>If you choose to connect your own ARMA server in Settings, site lookups and your projects are sent to that server instead, under your organisation's terms.</p>
-<p>Separately, at most once a day the app checks whether a newer version is available by downloading a small public version file from GitHub Pages (shauls.github.io). Nothing about you or your device is sent; like any web request, GitHub can see your device's IP address. If a newer version exists, the app shows a notice and you choose whether to open the download link. You can turn this off in Settings ("Check for updates automatically").</p>
+<p>Separately, for the update check: once a day the app checks for a newer version by asking the Magmanet server (EU, Contabo) — the request contains only the app name, its version number and how it was installed (site/Google Play); the server counts checks per app and version in aggregate, stores no identifiers and no IP address; if the server is unavailable the app downloads the public version file from GitHub Pages instead (GitHub may see your IP address). If a newer version exists, the app shows a notice and you choose whether to open the download link. You can turn this off in Settings ("Check for updates automatically").</p>
+<h2>Anonymous usage statistics</h2>
+<p>ARMA sends anonymous usage statistics over HTTPS (a short ping once a day; usage events a few times a day at most, batched) to Magmanet's own server, hosted in the EU (Contabo), not to Google or any other third party. It sends the app name and version, your Android version, your language, how the app was installed (from Google Play, the website or elsewhere), a random install ID, and anonymous usage events (which screens and features are used and for how long). The random ID is made by the app when it is installed; it is not a device identifier. No personal content is sent (no sites, addresses, projects or notes).</p>
+<p>On the server the ID is hashed and no IP address is stored. Raw data is deleted after 400 days. It is used only to count active users and improve the app, never for advertising or profiling, and it is never sold or shared.</p>
+<p>This is on by default. You can turn it off in Settings ("Share anonymous usage statistics"). Turning it off stops sending immediately and deletes the random ID and any unsent usage events from your phone.</p>
 <h2>What we collect</h2>
-<p>Nothing. Magmanet has no server for this app and receives no personal data, usage data or crash reports. We never sell or share your data.</p>
+<p>Only the anonymous usage statistics described above, which you can turn off. Magmanet receives no personal data and no crash reports. We never sell or share your data.</p>
 <h2>Where your data is stored</h2>
 <p>Everything you enter is saved only on your device, in the app's private storage. It is removed when you uninstall the app. You can clear your search history in Settings.</p>
 <p>The app's <strong>Copy backup</strong> feature (Settings → Your data) copies your data as text to your clipboard, so you can keep it somewhere you choose. Where you paste it is up to you; the app never uploads it.</p>
 <h2>Permissions</h2>
 <ul>
-<li><strong>Internet</strong> (<code>android.permission.INTERNET</code>): to contact the public services above, the optional ARMA server you configure, the map tiles, and the daily update check. The app requests no other permissions.</li>
+<li><strong>Internet</strong> (<code>android.permission.INTERNET</code>): to contact the public services above, the optional ARMA server you configure, the map tiles, the daily update check and the anonymous usage statistics. The app requests no other permissions.</li>
 <li><strong>Opening links:</strong> if you choose to open a link (for example a plan page on mavat.iplan.gov.il), it opens in your browser, which has its own privacy policy.</li>
 </ul>
 <h2>Your projects</h2>
