@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**80 free Android apps · no ads · Hebrew & English**  
-**80 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**81 free Android apps · no ads · Hebrew & English**  
+**81 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -71,6 +71,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/blackjack-secret-192.png" width="48" height="48" alt=""> | **Blackjack Secret** | Master basic strategy and card counting with play money only<br><sub>לומדים אסטרטגיה בסיסית וספירת קלפים, בכסף משחק בלבד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/blackjack-secret/BlackjackSecret.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/blackjack-secret/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/bridge-secret-192.png" width="48" height="48" alt=""> | **Bridge Secret** | Learn contract bridge: bidding, declarer play and defense<br><sub>לומדים ברידג׳ חוזים: הכרזה, משחק ידיים והגנה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/bridge-secret/BridgeSecret.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/bridge-secret/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/forbiddenwords-192.png" width="48" height="48" alt=""> | **Forbidden Words**<br>מילים אסורות | Describe the word without saying the forbidden ones<br><sub>תארו את המילה בלי להגיד את המילים האסורות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/forbiddenwords/ForbiddenWords.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/forbiddenwords/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/mafia-192.png" width="48" height="48" alt=""> | **Mafia Night**<br>מאפיה | Secret roles. One night. Who is lying?<br><sub>תפקידים סודיים. לילה אחד. מי משקר?</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/mafia/Mafia.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/mafia/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/pokernight-192.png" width="48" height="48" alt=""> | **Poker Night**<br>ערב פוקר | Texas Hold'em with friends – everyone on their own phone<br><sub>טקסס הולדם עם חברים – כל אחד בטלפון שלו</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/pokernight/PokerNight.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/pokernight/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/poker-secret-192.png" width="48" height="48" alt=""> | **Poker Secret** | Learn winning poker strategy step by step, no real money<br><sub>לומדים אסטרטגיית פוקר צעד אחר צעד, בלי כסף אמיתי</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/poker-secret/PokerSecret.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/poker-secret/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/quiz-game-192.png" width="48" height="48" alt=""> | **Quiz Game**<br>חידון טריוויה | 720 questions in 12 categories, a daily challenge, party modes and leaderboards<br><sub>720 שאלות ב-12 קטגוריות, אתגר יומי, מצבי משחק לחברים וטבלאות שיאים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/quiz-game/QuizGame.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/quiz-game/) |
