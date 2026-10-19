@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**65 free Android apps · no ads · Hebrew & English**  
-**65 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**66 free Android apps · no ads · Hebrew & English**  
+**66 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -27,6 +27,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/language-learning-192.png" width="48" height="48" alt=""> | **Language Learning** | Bite-sized daily vocabulary in Spanish, French, German and Italian<br><sub>אוצר מילים וביטויים בספרדית, צרפתית, גרמנית ואיטלקית, בכמה דקות ביום</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/language-learning/LanguageLearning.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/language-learning/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/porfavor-192.png" width="48" height="48" alt=""> | **Por Favor** | Learn Spanish through original songs with Lola the parrot<br><sub>לומדים ספרדית עם שירים מקוריים ולולה התוכית, מעברית או מאנגלית</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/porfavor/PorFavor.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/porfavor/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/miyun-192.png" width="48" height="48" alt=""> | **Ready for Screening**<br>מוכנים למיון | Prep for computerized screening tests: diagnostic, practice, interview<br><sub>הכנה למבחני מיון ממוחשבים: אבחון, תרגול חשיבה, סימולציות וראיון</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/miyun/Miyun.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/miyun/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/psychometric-192.png" width="48" height="48" alt=""> | **Target 800**<br>יעד 800 | Free psychometric test prep – verbal, quantitative, English and writing<br><sub>הכנה חינמית לפסיכומטרי – מילולי, כמותי, אנגלית וכתיבה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/psychometric/Psychometric.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/psychometric/) |
 
 ## 🧸 Kids · ילדים
 
