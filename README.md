@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**74 free Android apps · no ads · Hebrew & English**  
-**74 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**75 free Android apps · no ads · Hebrew & English**  
+**75 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -108,6 +108,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/expense-tracker-192.png" width="48" height="48" alt=""> | **Expense Tracker** | Log spending and see where your money goes<br><sub>רושמים הוצאות ורואים לאן הכסף הולך</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/expense-tracker/ExpenseTracker.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/expense-tracker/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/topmoves-192.png" width="48" height="48" alt=""> | **Morning Movers**<br>היורדות של הבוקר | The 10 biggest decliners and gainers at the last close<br><sub>10 המניות שירדו ו-10 שעלו הכי הרבה בסגירה האחרונה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/topmoves/TopMoves.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/topmoves/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/salary-192.png" width="48" height="48" alt=""> | **Salary Calculator**<br>מחשבון שכר | Gross, net, tax and rights – by 2026 rules<br><sub>ברוטו, נטו, מס וזכויות – לפי חוקי 2026</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/salary/Salary.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/salary/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/basket-192.png" width="48" height="48" alt=""> | **Smart Basket**<br>סל חכם | Where is your basket cheapest? Supermarket price comparison<br><sub>איפה הסל שלכם הכי זול? השוואת מחירים בסופרמרקטים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/basket/Basket.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/basket/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/tip-calculator-192.png" width="48" height="48" alt=""> | **Tip Calculator** | Split bills and calculate tips instantly<br><sub>מחשבים טיפ ומתחלקים בחשבון בשניות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/tip-calculator/TipCalculator.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/tip-calculator/) |
 
 ## 💼 Business & Pro · עסקים ומקצועות
