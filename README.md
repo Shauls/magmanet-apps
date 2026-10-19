@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**63 free Android apps · no ads · Hebrew & English**  
-**63 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**64 free Android apps · no ads · Hebrew & English**  
+**64 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -72,6 +72,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/hadar-192.png" width="48" height="48" alt=""> | **Hadar HaTeder**<br>הדר התדר | Calm and joy from within, without depending on anything outside<br><sub>שקט ושמחה מבפנים, בלי תלות במשהו חיצוני</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/hadar/Hadar.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/hadar/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/meditation-192.png" width="48" height="48" alt=""> | **Meditation**<br>מדיטציה | A few calm minutes – guided, timed or breathing<br><sub>כמה דקות של שקט – עם הנחיה, טיימר או תרגיל נשימה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/meditation/Meditation.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/meditation/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/mood-journal-192.png" width="48" height="48" alt=""> | **Mood Journal**<br>יומן מצב רוח | A moment a day to check in and reflect – privately<br><sub>רגע ביום לעצור, להרגיש ולכתוב – באופן פרטי לגמרי</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/mood-journal/MoodJournal.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/mood-journal/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/readeye-192.png" width="48" height="48" alt=""> | **ReadEye**<br>עין קוראת | Point the camera – and hear the text, in Hebrew and English<br><sub>מצלמים טקסט – ושומעים אותו, בעברית ובאנגלית</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/readeye/ReadEye.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/readeye/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/sleep-tracker-192.png" width="48" height="48" alt=""> | **Sleep Tracker**<br>מעקב שינה | Log your nights and learn what really affects your sleep<br><sub>מתעדים את הלילות ומבינים מה באמת משפיע על השינה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/sleep-tracker/SleepTracker.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/sleep-tracker/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/water-reminder-192.png" width="48" height="48" alt=""> | **Water Reminder**<br>תזכורת מים | Drink enough water with a personal goal and gentle nudges<br><sub>שותים מספיק מים – עם יעד אישי ותזכורות עדינות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/water-reminder/WaterReminder.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/water-reminder/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/workout-log-192.png" width="48" height="48" alt=""> | **Workout Log**<br>יומן אימונים | Log your sets, beat your records, see your progress<br><sub>רושמים סטים, שוברים שיאים ורואים את ההתקדמות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/workout-log/WorkoutLog.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/workout-log/) |

@@ -1,0 +1,67 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Privacy Policy — ReadEye (עין קוראת)</title><style>:root{--bg:#fff;--fg:#1d1d1f;--mut:#555;--link:#2457c5;--line:#e5e5e5}
+@media (prefers-color-scheme:dark){:root{--bg:#121212;--fg:#eee;--mut:#aaa;--link:#8ab4f8;--line:#333}}
+body{background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;max-width:760px;margin:0 auto;padding:24px 16px 64px}
+a{color:var(--link)}h1{font-size:1.7em;line-height:1.25}h2{margin-top:1.8em;border-top:1px solid var(--line);padding-top:1em}
+code{background:rgba(127,127,127,.15);padding:1px 4px;border-radius:4px}table{border-collapse:collapse}td,th{border:1px solid var(--line);padding:4px 8px}
+footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>Privacy Policy — ReadEye (עין קוראת)</h1>
+<p><em>Last updated: 2026-10-19</em></p>
+<p>ReadEye is made by Magmanet. It reads text aloud for people with visual impairment. This policy explains what the app does with your information. The short version: <strong>reading happens on your phone. Your photos, screenshots and text don't leave it, unless you turn on smart reading with your own key.</strong></p>
+<h2>What we collect</h2>
+<p>We (Magmanet) collect only anonymous usage statistics (see below), and you can turn them off. ReadEye has no accounts, no advertising and no tracking of its own. We never see, sell or share your photos, screenshots or the text you read.</p>
+<h2>Reading on your device</h2>
+<ul>
+<li><strong>Camera, shared images, gallery images and screen captures</strong> are processed on your phone by the Tesseract text-recognition engine, which is part of the app. Images are never uploaded in normal use.</li>
+<li>Captured photos and screen captures are kept only in the app's temporary cache folder, which Android clears.</li>
+<li><strong>Text-to-speech</strong> uses your phone's own speech engine (for example "Speech Services by Google"). The text is handed to that engine on your phone. How the engine itself handles data is up to its maker, and most voices work offline.</li>
+<li><strong>History:</strong> the text of your last 50 readings (never the images) is saved only on your phone, in the app's private storage. You can delete one reading or all of them in the app. Everything is removed when you uninstall the app.</li>
+</ul>
+<h2>Translation</h2>
+<p>Translation uses Google ML Kit's on-device translation. The first time you translate into a language, the app downloads that language pack from Google. After that, translation runs offline on your phone, and <strong>your text is not sent to Google</strong>.</p>
+<p>ML Kit may send anonymous diagnostic and performance information to Google, such as the device model and Android version, the app's name and version, timings, error codes, and a per-installation identifier that doesn't identify you. It never includes your text or images. Details: https://developers.google.com/ml-kit/android-data-disclosure</p>
+<h2>Smart reading (optional, off by default)</h2>
+<p>Smart reading is used only if you turn it on and enter <strong>your own</strong> Anthropic API key. Each time you use it, the app sends the image (or, for some translations, the recognized text) <strong>directly from your phone to Anthropic</strong> (api.anthropic.com) over an encrypted connection. Anthropic transcribes or translates it and sends the text back.</p>
+<ul>
+<li>Magmanet's servers are not involved, and we never see the image, the text or your key.</li>
+<li>Anthropic processes the request under your own account and its terms and privacy policy (https://www.anthropic.com/legal/privacy). Usage is billed to your Anthropic account.</li>
+<li>The app does not store the image beyond the temporary cache.</li>
+<li>Your key is stored only on this phone, encrypted with a key held in the Android Keystore. It is sent only to Anthropic, only for smart reading or the "Test key" button. "Delete key" removes it.</li>
+</ul>
+<h2>Internet use</h2>
+<p>ReadEye uses the internet only for:</p>
+<ul>
+<li>downloading translation language packs (from Google)</li>
+<li>downloading the optional high-accuracy recognition models (from GitHub, tesseract-ocr/tessdata_best), only if you choose to</li>
+<li>smart reading, only if you set it up (see above)</li>
+<li>the daily update check and anonymous usage statistics (see below)</li>
+<li>ML Kit's diagnostic information (see above)</li>
+</ul>
+<p>Once a day the app checks for a newer version by asking the Magmanet server (EU, Contabo).</p>
+<ul>
+<li>The request contains only the app name, its version number and how it was installed (website or Google Play).</li>
+<li>The server counts checks per app and version in aggregate, and stores no identifiers and no IP address.</li>
+<li>If the server is unavailable, the app downloads the public version file from GitHub Pages instead (GitHub may see your IP address).</li>
+<li>You can turn this off in Settings ("Check for updates automatically").</li>
+</ul>
+<h2>Anonymous usage statistics</h2>
+<p>ReadEye sends anonymous usage statistics over HTTPS to Magmanet's own server, hosted in the EU (Contabo). That means a short ping once a day, plus usage events batched a few times a day at most.</p>
+<ul>
+<li><strong>What's sent:</strong> the app name and version, your Android version, your language, how the app was installed, a random install ID, and anonymous usage events. Usage events include which screens are used and counts of actions such as "read with camera", "read a shared image", "translate" or "smart reading".</li>
+<li><strong>What's never sent:</strong> the text you read, your images, or the languages you translate.</li>
+<li><strong>The random ID</strong> is made by the app when it is installed. It is not a device identifier.</li>
+<li><strong>On the server,</strong> the ID is hashed and no IP address is stored. Raw data is deleted after 400 days. It is used only to count active users and improve the app, never for advertising or profiling, and it is never sold or shared.</li>
+<li><strong>Turning it off:</strong> this is on by default. You can turn it off in Settings ("Share anonymous usage statistics"). Turning it off stops sending immediately and deletes the random ID and any unsent events from your phone.</li>
+</ul>
+<h2>Permissions</h2>
+<ul>
+<li><strong>Camera:</strong> to read text in front of the camera. Frames are processed on your phone and never uploaded. The microphone is not used. Without the camera you can still read shared images, gallery images, the screen and copied text.</li>
+<li><strong>Screen capture (MediaProjection) and a foreground service:</strong> used only when you tap "Read the screen" or its Quick Settings tile. Android asks for your consent every time. The app captures one frame, reads it on your phone and stops immediately. A notification is shown while it captures.</li>
+<li><strong>Photos:</strong> the system photo picker lets you choose one image. No storage permission is needed.</li>
+<li><strong>Internet:</strong> see "Internet use" above.</li>
+<li><strong>Vibration:</strong> for the vibration patterns (you can turn these off in Settings).</li>
+</ul>
+<h2>Children</h2>
+<p>The app has no accounts, ads or chat, and anyone can use it. It collects no personal information from anyone.</p>
+<h2>Changes</h2>
+<p>If this policy changes, we'll update the date above and publish the new version at the same address.</p>
+<h2>Contact</h2>
+<p>Questions? Open an issue at https://github.com/Shauls/magmanet-apps/issues</p><footer>Magmanet · <a href="./">All privacy policies</a> · <a href="https://github.com/Shauls/magmanet-apps">Apps</a></footer></body></html>
