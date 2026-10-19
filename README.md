@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**73 free Android apps · no ads · Hebrew & English**  
-**73 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**74 free Android apps · no ads · Hebrew & English**  
+**74 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -46,6 +46,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/puzzlito-kids-192.png" width="48" height="48" alt=""> | **Puzzlito Kids**<br>פאזליטו לילדים | 12 colorful puzzle games that grow with your child<br><sub>12 סוגי פאזלים צבעוניים ומשחקי חשיבה שגדלים יחד עם הילד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/puzzlito-kids/PuzzlitoKids.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/puzzlito-kids/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/thinkk-5-7-192.png" width="48" height="48" alt=""> | **Thinkk 5-7**<br>ת׳ינק 5–7 | 13 thinking games for ages 5-7, spoken aloud so no reading is needed<br><sub>13 משחקי חשיבה לגילאי 5–7, עם הוראות קוליות ובלי צורך לקרוא</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/thinkk-5-7/ThinkkAges57.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/thinkk-5-7/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/thinkk-7-9-192.png" width="48" height="48" alt=""> | **Thinkk 7-9**<br>ת׳ינק 7–9 | 13 worlds of logic, math and coding puzzles for ages 7-9<br><sub>13 עולמות של חידות היגיון, מספרים ותכנות לגילאי 7–9</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/thinkk-7-9/ThinkkAges79.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/thinkk-7-9/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/treasurehunt-192.png" width="48" height="48" alt=""> | **Treasure Hunt**<br>ציד אוצרות | A treasure hunt at home – riddles, QR codes and challenges<br><sub>ציד אוצרות בבית – חידות, קודי QR ומשימות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/treasurehunt/TreasureHunt.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/treasurehunt/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/whoami-192.png" width="48" height="48" alt=""> | **Who Am I?**<br>מי אני? | Phone on your forehead – friends give the hints<br><sub>הטלפון על המצח – החברים נותנים רמזים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/whoami/WhoAmI.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/whoami/) |
 
 ## 🎸 Music · מוזיקה
