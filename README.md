@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**79 free Android apps · no ads · Hebrew & English**  
-**79 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**80 free Android apps · no ads · Hebrew & English**  
+**80 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -75,6 +75,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/poker-secret-192.png" width="48" height="48" alt=""> | **Poker Secret** | Learn winning poker strategy step by step, no real money<br><sub>לומדים אסטרטגיית פוקר צעד אחר צעד, בלי כסף אמיתי</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/poker-secret/PokerSecret.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/poker-secret/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/quiz-game-192.png" width="48" height="48" alt=""> | **Quiz Game**<br>חידון טריוויה | 720 questions in 12 categories, a daily challenge, party modes and leaderboards<br><sub>720 שאלות ב-12 קטגוריות, אתגר יומי, מצבי משחק לחברים וטבלאות שיאים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/quiz-game/QuizGame.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/quiz-game/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/sacrifice-192.png" width="48" height="48" alt=""> | **Sacrifice**<br>סקריפייס | Chess puzzles built around brilliant sacrifices, every line verified<br><sub>חידות שחמט סביב הקרבות מבריקות וכל טקטיקה אחרת – כל מסע נבדק</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/sacrifice/Sacrifice.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/sacrifice/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/tilerummy-192.png" width="48" height="48" alt=""> | **Tile Rummy**<br>רמי אבנים | Runs, groups and one shared table<br><sub>רצפים, קבוצות ושולחן משותף אחד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/tilerummy/TileRummy.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/tilerummy/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/spy-192.png" width="48" height="48" alt=""> | **Who's the Spy?**<br>המרגל | Everyone knows where they are. Except one<br><sub>כולם יודעים איפה הם. חוץ מאחד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/spy/Spy.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/spy/) |
 
 ## 💪 Health & Fitness · כושר ובריאות
