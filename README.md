@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**82 free Android apps · no ads · Hebrew & English**  
-**82 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**84 free Android apps · no ads · Hebrew & English**  
+**84 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -70,6 +70,8 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/backgammon-192.png" width="48" height="48" alt=""> | **Backgammon**<br>שש־בש | Backgammon on a wooden board – vs the computer or a friend<br><sub>שש־בש על לוח עץ – מול המחשב או עם חבר</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/backgammon/Backgammon.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/backgammon/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/blackjack-secret-192.png" width="48" height="48" alt=""> | **Blackjack Secret** | Master basic strategy and card counting with play money only<br><sub>לומדים אסטרטגיה בסיסית וספירת קלפים, בכסף משחק בלבד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/blackjack-secret/BlackjackSecret.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/blackjack-secret/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/bridge-secret-192.png" width="48" height="48" alt=""> | **Bridge Secret** | Learn contract bridge: bidding, declarer play and defense<br><sub>לומדים ברידג׳ חוזים: הכרזה, משחק ידיים והגנה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/bridge-secret/BridgeSecret.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/bridge-secret/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/cardrush-192.png" width="48" height="48" alt=""> | **Card Rush**<br>ראש בראש | Match colour, number or symbol – and be first to empty your hand<br><sub>התאימו צבע, מספר או סמל – ותהיו הראשונים להיפטר מהקלפים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/cardrush/CardRush.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/cardrush/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/boardduel-192.png" width="48" height="48" alt=""> | **Chess & Checkers**<br>שחמט ודמקה | Two classic board games, one app<br><sub>שני משחקי לוח קלאסיים, אפליקציה אחת</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/boardduel/BoardDuel.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/boardduel/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/fivedice-192.png" width="48" height="48" alt=""> | **Five Dice**<br>חמש קוביות | Five dice, three rolls, thirteen boxes<br><sub>חמש קוביות, שלוש הטלות, שלוש עשרה משבצות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/fivedice/FiveDice.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/fivedice/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/forbiddenwords-192.png" width="48" height="48" alt=""> | **Forbidden Words**<br>מילים אסורות | Describe the word without saying the forbidden ones<br><sub>תארו את המילה בלי להגיד את המילים האסורות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/forbiddenwords/ForbiddenWords.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/forbiddenwords/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/mafia-192.png" width="48" height="48" alt=""> | **Mafia Night**<br>מאפיה | Secret roles. One night. Who is lying?<br><sub>תפקידים סודיים. לילה אחד. מי משקר?</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/mafia/Mafia.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/mafia/) |
