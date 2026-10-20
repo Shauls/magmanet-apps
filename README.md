@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**85 free Android apps · no ads · Hebrew & English**  
-**85 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**86 free Android apps · no ads · Hebrew & English**  
+**86 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -78,6 +78,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/pokernight-192.png" width="48" height="48" alt=""> | **Poker Night**<br>ערב פוקר | Texas Hold'em with friends – everyone on their own phone<br><sub>טקסס הולדם עם חברים – כל אחד בטלפון שלו</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/pokernight/PokerNight.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/pokernight/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/poker-secret-192.png" width="48" height="48" alt=""> | **Poker Secret** | Learn winning poker strategy step by step, no real money<br><sub>לומדים אסטרטגיית פוקר צעד אחר צעד, בלי כסף אמיתי</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/poker-secret/PokerSecret.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/poker-secret/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/quiz-game-192.png" width="48" height="48" alt=""> | **Quiz Game**<br>חידון טריוויה | 720 questions in 12 categories, a daily challenge, party modes and leaderboards<br><sub>720 שאלות ב-12 קטגוריות, אתגר יומי, מצבי משחק לחברים וטבלאות שיאים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/quiz-game/QuizGame.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/quiz-game/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/quizshow-192.png" width="48" height="48" alt=""> | **Quiz Show Live**<br>שעשועון | A quiz-show night at home: one screen is the studio, every phone a buzzer<br><sub>ערב שעשועון בבית: מסך אחד הוא האולפן, כל טלפון הוא באזר</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/quizshow/QuizShow.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/quizshow/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/sacrifice-192.png" width="48" height="48" alt=""> | **Sacrifice**<br>סקריפייס | Chess puzzles built around brilliant sacrifices, every line verified<br><sub>חידות שחמט סביב הקרבות מבריקות וכל טקטיקה אחרת – כל מסע נבדק</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/sacrifice/Sacrifice.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/sacrifice/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/duelgames-192.png" width="48" height="48" alt=""> | **Sea Battle & Four in a Row**<br>צוללות ו־4 בשורה | Two classic duels: hunt the fleet, line up four<br><sub>שני דו־קרבות קלאסיים: צדים את הצי, מסדרים ארבע</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/duelgames/DuelGames.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/duelgames/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/tilerummy-192.png" width="48" height="48" alt=""> | **Tile Rummy**<br>רמי אבנים | Runs, groups and one shared table<br><sub>רצפים, קבוצות ושולחן משותף אחד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/tilerummy/TileRummy.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/tilerummy/) |
