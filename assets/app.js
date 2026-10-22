@@ -73,7 +73,30 @@
       document.body.classList.toggle('filtering', !!(cat || words.length));
       chips.forEach(function (ch) { var on = ch.getAttribute('data-cat') === cat; ch.classList.toggle('on', on); ch.setAttribute('aria-pressed', on); });
       if (scroll) $('.all').scrollIntoView({ block: 'start' });
+      // The address bar follows the category, so it can be copied and sent as is.
+      try {
+        var u = new URL(location.href);
+        if (cat) u.searchParams.set('cat', cat); else u.searchParams.delete('cat');
+        if (u.href !== location.href) history.replaceState(null, '', u.href);
+      } catch (e) {}
+      if (share) share.hidden = !cat;
     }
+    // "Share this category": the /c/<key>/ link, whose preview shows that category.
+    var share = $('#shareCat');
+    if (share) share.addEventListener('click', function () {
+      var url = share.getAttribute('data-base') + cat + '/';
+      var chip = $('.chip[data-cat="' + cat + '"]');
+      var lbl = chip && chip.querySelector(isEn() ? '.t-en' : '.t-he');
+      var title = lbl ? lbl.textContent.trim() : '';
+      if (navigator.share) { navigator.share({ title: title, url: url }).catch(function () {}); return; }
+      var done = function () {
+        var old = share.innerHTML;
+        share.textContent = share.getAttribute(isEn() ? 'data-copied-en' : 'data-copied-he');
+        setTimeout(function () { share.innerHTML = old; }, 1800);
+      };
+      if (navigator.clipboard) navigator.clipboard.writeText(url).then(done, function () { prompt('', url); });
+      else prompt('', url);
+    });
     q.addEventListener('input', function () { run(false); });
     q.addEventListener('keydown', function (e) { if (e.key === 'Enter') { e.preventDefault(); run(true); q.blur(); } });
     chips.forEach(function (ch) { ch.addEventListener('click', function () { cat = ch.getAttribute('data-cat'); run(false); }); });

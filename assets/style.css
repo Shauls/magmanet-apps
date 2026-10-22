@@ -35,6 +35,8 @@ img { max-width: 100%; display: block; }
 a { color: inherit; }
 button { font: inherit; color: inherit; }
 h1, h2, h3 { line-height: 1.2; margin: 0; }
+/* hidden always wins over a component's own display (the search and category filter hide cards) */
+[hidden] { display: none !important; }
 svg { width: 1em; height: 1em; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
 .qr svg { fill: initial; stroke: none; width: 100%; height: auto; }
 :focus-visible { outline: 3px solid var(--brand); outline-offset: 2px; border-radius: 6px; }
@@ -284,3 +286,8 @@ body.lb-open { overflow: hidden; }
 @keyframes pop { from { opacity: 0; transform: translateY(8px) scale(.9); } to { opacity: 1; transform: none; } }
 @media (max-width: 480px) { .mosaic img { width: 42px; height: 42px; border-radius: 11px; } .mosaic { gap: 8px; } }
 @media (prefers-reduced-motion: reduce) { .mosaic img { animation: none; } }
+
+/* "Share this category" (home, while a category is picked) */
+.share-cat { display: inline-flex; align-items: center; gap: 6px; flex: none; color: var(--accent, var(--brand)); }
+.share-cat[hidden] { display: none; }
+.share-cat svg { width: 18px; height: 18px; fill: none; stroke: currentColor; stroke-width: 2; stroke-linecap: round; stroke-linejoin: round; }
