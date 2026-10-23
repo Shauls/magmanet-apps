@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**95 free Android apps · no ads · Hebrew & English**  
-**95 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**96 free Android apps · no ads · Hebrew & English**  
+**96 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -40,6 +40,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/bobo-192.png" width="48" height="48" alt=""> | **Bobo**<br>בובו | A friendly buddy that gets kids talking English: chats, stories, games<br><sub>חבר ידידותי שגורם לילדים לדבר אנגלית: שיחות, סיפורים ומשחקים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/bobo/Bobo.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/bobo/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/brainrace-192.png" width="48" height="48" alt=""> | **Brain Race**<br>מרוץ מוחות | A math and word race – every kid at their own level<br><sub>מרוץ חשבון ומילים – כל ילד ברמה שלו</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/brainrace/BrainRace.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/brainrace/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/chainstory-192.png" width="48" height="48" alt=""> | **Chain Story**<br>סיפור בשרשרת | Everyone adds a part – the whole story comes at the end<br><sub>כל אחד מוסיף חלק – ורק בסוף שומעים את כל הסיפור</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/chainstory/ChainStory.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/chainstory/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/dollhouse-192.png" width="48" height="48" alt=""> | **Doll House**<br>בית הבובות | Furnish a cozy doll house, move the family around and play pretend – offline<br><sub>מרהטים בית בובות חמים, מזיזים את המשפחה ומשחקים בדמיון – בלי אינטרנט</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/dollhouse/DollHouse.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/dollhouse/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/familytrivia-192.png" width="48" height="48" alt=""> | **Family Trivia**<br>טריוויה משפחתית | Kids and parents in one round – each with a question their size<br><sub>ילדים והורים באותו סיבוב – כל אחד עם שאלה בגובה שלו</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/familytrivia/FamilyTrivia.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/familytrivia/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/fashionstudio-192.png" width="48" height="48" alt=""> | **Fashion Studio**<br>סטודיו לאופנה | Design clothes, dress diverse models and put on your own runway show!<br><sub>מעצבים בגדים, מלבישים דוגמנים ודוגמניות ועולים למסלול בתצוגת אופנה משלכם!</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/fashionstudio/FashionStudio.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/fashionstudio/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/freezedance-192.png" width="48" height="48" alt=""> | **Freeze Dance**<br>פסל! | Dance – and when the music stops, freeze!<br><sub>רוקדים – וכשהמוזיקה נעצרת, פסל!</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/freezedance/FreezeDance.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/freezedance/) |
