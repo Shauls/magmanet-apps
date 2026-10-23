@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**89 free Android apps · no ads · Hebrew & English**  
-**89 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**90 free Android apps · no ads · Hebrew & English**  
+**90 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -43,6 +43,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/familytrivia-192.png" width="48" height="48" alt=""> | **Family Trivia**<br>טריוויה משפחתית | Kids and parents in one round – each with a question their size<br><sub>ילדים והורים באותו סיבוב – כל אחד עם שאלה בגובה שלו</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/familytrivia/FamilyTrivia.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/familytrivia/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/freezedance-192.png" width="48" height="48" alt=""> | **Freeze Dance**<br>פסל! | Dance – and when the music stops, freeze!<br><sub>רוקדים – וכשהמוזיקה נעצרת, פסל!</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/freezedance/FreezeDance.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/freezedance/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/groupmemory-192.png" width="48" height="48" alt=""> | **Group Memory**<br>זיכרון קבוצתי | A giant memory game across several phones<br><sub>משחק זיכרון ענק על כמה טלפונים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/groupmemory/GroupMemory.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/groupmemory/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/bakery-192.png" width="48" height="48" alt=""> | **Little Bakery**<br>הקונדיטוריה הקטנה | Bake, decorate and serve sweet treats to cute animal customers. No ads!<br><sub>אופים, מקשטים ומגישים מאפים מתוקים ללקוחות חמודים. בלי פרסומות!</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/bakery/Bakery.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/bakery/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/puzzlito-kids-192.png" width="48" height="48" alt=""> | **Puzzlito Kids**<br>פאזליטו לילדים | 12 colorful puzzle games that grow with your child<br><sub>12 סוגי פאזלים צבעוניים ומשחקי חשיבה שגדלים יחד עם הילד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/puzzlito-kids/PuzzlitoKids.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/puzzlito-kids/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/thinkk-5-7-192.png" width="48" height="48" alt=""> | **Thinkk 5-7**<br>ת׳ינק 5–7 | 13 thinking games for ages 5-7, spoken aloud so no reading is needed<br><sub>13 משחקי חשיבה לגילאי 5–7, עם הוראות קוליות ובלי צורך לקרוא</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/thinkk-5-7/ThinkkAges57.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/thinkk-5-7/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/thinkk-7-9-192.png" width="48" height="48" alt=""> | **Thinkk 7-9**<br>ת׳ינק 7–9 | 13 worlds of logic, math and coding puzzles for ages 7-9<br><sub>13 עולמות של חידות היגיון, מספרים ותכנות לגילאי 7–9</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/thinkk-7-9/ThinkkAges79.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/thinkk-7-9/) |
