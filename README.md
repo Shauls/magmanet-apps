@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**88 free Android apps · no ads · Hebrew & English**  
-**88 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**89 free Android apps · no ads · Hebrew & English**  
+**89 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -24,6 +24,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/perfavore-192.png" width="48" height="48" alt=""> | **Per Favore** | Learn Italian through original songs, short lessons and a singing pigeon<br><sub>לומדים איטלקית עם שירים מקוריים, שיעורים קצרים ויונה שרה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/perfavore/PerFavore.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/perfavore/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/tamrurim-192.png" width="48" height="48" alt=""> | **Tamrurim**<br>תמרורים | Pass Israel's driving theory test: all pool questions and smart practice<br><sub>כל שאלות התיאוריה, תרגול חכם שמתמקד בטעויות ומבחנים מדומים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/tamrurim/Tamrurim.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/tamrurim/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/flashcards-192.png" width="48" height="48" alt=""> | **Flashcards** | Learn anything with spaced-repetition flashcards<br><sub>לומדים כל דבר עם כרטיסיות וחזרה מרווחת חכמה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/flashcards/Flashcards.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/flashcards/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/policerights-192.png" width="48" height="48" alt=""> | **Know Your Rights – Police**<br>הזכויות שלי מול השוטר | Know your rights with Israeli police – and stay calm<br><sub>לדעת מה מותר מול שוטר – ולהישאר רגועים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/policerights/PoliceRights.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/policerights/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/language-learning-192.png" width="48" height="48" alt=""> | **Language Learning** | Bite-sized daily vocabulary in Spanish, French, German and Italian<br><sub>אוצר מילים וביטויים בספרדית, צרפתית, גרמנית ואיטלקית, בכמה דקות ביום</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/language-learning/LanguageLearning.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/language-learning/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/porfavor-192.png" width="48" height="48" alt=""> | **Por Favor** | Learn Spanish through original songs with Lola the parrot<br><sub>לומדים ספרדית עם שירים מקוריים ולולה התוכית, מעברית או מאנגלית</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/porfavor/PorFavor.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/porfavor/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/miyun-192.png" width="48" height="48" alt=""> | **Ready for Screening**<br>מוכנים למיון | Prep for computerized screening tests: diagnostic, practice, interview<br><sub>הכנה למבחני מיון ממוחשבים: אבחון, תרגול חשיבה, סימולציות וראיון</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/miyun/Miyun.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/miyun/) |
