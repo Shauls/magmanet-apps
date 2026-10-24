@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**126 free Android apps · no ads · Hebrew & English**  
-**126 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**127 free Android apps · no ads · Hebrew & English**  
+**127 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -96,6 +96,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/duelgames-192.png" width="48" height="48" alt=""> | **Duel: Sea & Four**<br>דו־קרב | Two classic duels: hunt the fleet, line up four<br><sub>שני דו־קרבות קלאסיים: צדים את הצי, מסדרים ארבע</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/duelgames/DuelGames.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/duelgames/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/emojipuzzle-192.png" width="48" height="48" alt=""> | **Emoji Riddle**<br>אימוג'ידע | Five emoji riddles a day. Can you read them?<br><sub>חמש חידות אימוג'י ביום. תצליחו לפענח?</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/emojipuzzle/EmojiPuzzle.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/emojipuzzle/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/excuses-192.png" width="48" height="48" alt=""> | **Excuses: Funny Excuse Maker**<br>תירוצים – מחולל תירוצים | A funny excuse for every situation. Shake for a new one!<br><sub>תירוץ מצחיק לכל מצב. נערו בשביל עוד אחד!</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/excuses/Excuses.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/excuses/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/hexasort-192.png" width="48" height="48" alt=""> | **Hexa Sort: Calm Color Puzzle**<br>משושים צבעוניים – פאזל מיון | Stack, slide and clear calm, colourful hexagons<br><sub>מערמים, מחליקים ומנקים משושים צבעוניים – ברוגע</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/hexasort/HexaSort.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/hexasort/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/fivedice-192.png" width="48" height="48" alt=""> | **High Five Dice**<br>חמישייה! | Five dice, three rolls, thirteen boxes<br><sub>חמש קוביות, שלוש הטלות, שלוש עשרה משבצות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/fivedice/FiveDice.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/fivedice/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/historyday-192.png" width="48" height="48" alt=""> | **History Today: Daily Quiz**<br>היום בהיסטוריה – חידון יומי | Five questions a day about what happened on this date<br><sub>חמש שאלות ביום על מה שקרה בתאריך הזה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/historyday/HistoryDay.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/historyday/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/hotseat-192.png" width="48" height="48" alt=""> | **Hot Seat**<br>כיסא חם | How well do your friends really know you?<br><sub>כמה טוב החברים באמת מכירים אתכם?</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/hotseat/HotSeat.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/hotseat/) |
