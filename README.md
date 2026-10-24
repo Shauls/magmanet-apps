@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**133 free Android apps · no ads · Hebrew & English**  
-**133 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**134 free Android apps · no ads · Hebrew & English**  
+**134 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -141,6 +141,7 @@
 |:-:|---|---|---|
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/countdown-192.png" width="48" height="48" alt=""> | **Countdown**<br>ספירה לאחור | Count down to big moments – or count up from them<br><sub>סופרים את הימים לרגעים הגדולים – ואת הימים מאז</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/countdown/Countdown.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/countdown/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/event-planner-192.png" width="48" height="48" alt=""> | **Event Planner**<br>מתכנן אירועים | Guests, tasks, budget and seating – your whole event in one place<br><sub>מוזמנים, משימות, תקציב והושבה – כל האירוע במקום אחד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/event-planner/EventPlanner.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/event-planner/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/grouplists-192.png" width="48" height="48" alt=""> | **Group Lists**<br>רשימות משותפות | Shopping, packing and who-brings-what – one list for the whole group<br><sub>קניות, ציוד לטיול ומי מביא מה – רשימה אחת לכל החבורה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/grouplists/GroupLists.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/grouplists/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/habit-tracker-192.png" width="48" height="48" alt=""> | **Habit Tracker**<br>מעקב הרגלים | Build good habits day by day with motivating streaks<br><sub>בונים הרגלים טובים, יום אחרי יום, עם רצפים שמדרבנים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/habit-tracker/HabitTracker.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/habit-tracker/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/notes-192.png" width="48" height="48" alt=""> | **Notes**<br>פתקים | Quick notes with folders, tags and search that finds it all<br><sub>פתקים מהירים עם תיקיות, תגיות וחיפוש שמוצא הכול</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/notes/Notes.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/notes/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/pomodoro-timer-192.png" width="48" height="48" alt=""> | **Pomodoro Timer**<br>טיימר פומודורו | Focus in short bursts, rest on time, get more done<br><sub>מתרכזים בפרצים קצרים, נחים בזמן ומספיקים יותר</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/pomodoro-timer/PomodoroTimer.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/pomodoro-timer/) |
