@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**119 free Android apps · no ads · Hebrew & English**  
-**119 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**120 free Android apps · no ads · Hebrew & English**  
+**120 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -183,6 +183,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/pet-care-192.png" width="48" height="48" alt=""> | **Pet Care**<br>טיפול בחיות מחמד | Daily routines, vaccines, meds and weight for your pet's health<br><sub>שגרה יומית, חיסונים, תרופות ומשקל – הבריאות של חיית המחמד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/pet-care/PetCare.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/pet-care/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/plant-care-192.png" width="48" height="48" alt=""> | **Plant Care**<br>טיפול בצמחים | Never forget to water: watering and feeding reminders for every plant<br><sub>לא שוכחים להשקות: תזכורות השקיה ודישון לכל צמח בבית</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/plant-care/PlantCare.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/plant-care/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/recipe-book-192.png" width="48" height="48" alt=""> | **Recipe Book**<br>ספר מתכונים | Recipes, cooking mode with timers, meal planning and a shopping list<br><sub>מתכונים, מצב בישול עם טיימרים, תכנון ארוחות ורשימת קניות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/recipe-book/RecipeBook.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/recipe-book/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/schoollist-192.png" width="48" height="48" alt=""> | **School List: Supplies Checklist**<br>רשימת ציוד לבית ספר | All your kids' supplies lists – and one shopping list for the store<br><sub>כל רשימות הציוד של הילדים – ורשימת קניות אחת לחנות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/schoollist/SchoolList.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/schoollist/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/shopping-list-192.png" width="48" height="48" alt=""> | **Shopping List**<br>רשימת קניות | Smart grocery lists that sort themselves by store aisle<br><sub>רשימות קניות חכמות שמסתדרות לבד לפי מחלקות בסופר</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/shopping-list/ShoppingList.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/shopping-list/) |
 
 ---
