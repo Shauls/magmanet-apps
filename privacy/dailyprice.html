@@ -1,0 +1,29 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Privacy Policy — What&#x27;s the Price? (כמה זה עולה?)</title><style>:root{--bg:#fff;--fg:#1d1d1f;--mut:#555;--link:#2457c5;--line:#e5e5e5}
+@media (prefers-color-scheme:dark){:root{--bg:#121212;--fg:#eee;--mut:#aaa;--link:#8ab4f8;--line:#333}}
+body{background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;max-width:760px;margin:0 auto;padding:24px 16px 64px}
+a{color:var(--link)}h1{font-size:1.7em;line-height:1.25}h2{margin-top:1.8em;border-top:1px solid var(--line);padding-top:1em}
+code{background:rgba(127,127,127,.15);padding:1px 4px;border-radius:4px}table{border-collapse:collapse}td,th{border:1px solid var(--line);padding:4px 8px}
+footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>Privacy Policy — What's the Price? (כמה זה עולה?)</h1>
+<p><em>Last updated: 2026-10-24</em></p>
+<p>What's the Price? is made by Magmanet. The short version: <strong>your games stay on your device.</strong> The app asks our server for supermarket prices (sending only product barcodes) and sends anonymous usage statistics, which you can turn off.</p>
+<h2>What we collect</h2>
+<p>By default, only anonymous usage statistics (see below). There is no sign-up, no account, no advertising and no tracking. We never sell or share your data.</p>
+<h2>Where your data is stored</h2>
+<p>Your games, guesses, scores, streak, the saved price snapshots and your settings are stored only on your device, in the app's private storage. They are removed when you uninstall the app or use Settings → Reset games and stats. <strong>Copy backup</strong> (Settings → Your data) copies them as text to your clipboard; the app never uploads it.</p>
+<h2>Prices</h2>
+<p>To build each day's game the app asks the Magmanet server (EU, Contabo) for the prices of that day's products: <code>GET /v1/basket/item/&lt;barcode&gt;</code> with a fixed area (Tel Aviv-Yafo). The request contains only the product's barcode and that fixed area. <strong>No location, account or identifier is sent</strong>, and the app has no location permission. The prices come from the price files Israeli supermarket chains publish by law; they may differ in store.</p>
+<h2>Update check</h2>
+<p>Once a day the app asks the Magmanet server whether a newer version exists (app name, version and how it was installed only; no identifiers, no IP address stored). If the server is unavailable it reads the public version file from GitHub Pages. You can turn this off in Settings.</p>
+<h2>Anonymous usage statistics</h2>
+<p>The app sends anonymous usage statistics over HTTPS (a short ping once a day; usage events a few times a day at most, batched) to Magmanet's own server in the EU (Contabo), not to Google or any other third party: app name and version, Android version, phone manufacturer and model, language, how the app was installed, a random install ID made by the app, and anonymous usage events (which screens and features are used, for how long, and each finished game's score). On the server the ID is hashed and no IP address is stored; raw data is deleted after 400 days. It is used only to count users and improve the app. It is on by default; turn it off in Settings ("Share anonymous usage statistics"), which stops sending and deletes the random ID from your phone.</p>
+<h2>Permissions</h2>
+<ul>
+<li><strong>Internet:</strong> prices, the update check and the anonymous usage statistics.</li>
+</ul>
+<p>No location, camera, microphone, contacts, storage, notification or sensor permissions.</p>
+<h2>Children</h2>
+<p>The app is not directed at children and collects no personal information from anyone.</p>
+<h2>Changes</h2>
+<p>If this policy changes, we'll update the date above and publish the new version at the same address.</p>
+<h2>Contact</h2>
+<p>Questions? Open an issue at https://github.com/Shauls/magmanet-apps/issues</p><footer>Magmanet · <a href="./">All privacy policies</a> · <a href="https://github.com/Shauls/magmanet-apps">Apps</a></footer></body></html>
