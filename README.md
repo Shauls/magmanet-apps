@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**131 free Android apps · no ads · Hebrew & English**  
-**131 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**132 free Android apps · no ads · Hebrew & English**  
+**132 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -105,6 +105,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/hotseat-192.png" width="48" height="48" alt=""> | **Hot Seat**<br>כיסא חם | How well do your friends really know you?<br><sub>כמה טוב החברים באמת מכירים אתכם?</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/hotseat/HotSeat.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/hotseat/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/howisraeli-192.png" width="48" height="48" alt=""> | **How Israeli Are You?**<br>כמה ישראלי אתה? | Funny, kind quizzes about Israeli life<br><sub>שאלונים מצחיקים על החיים בישראל</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/howisraeli/HowIsraeli.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/howisraeli/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/mafia-192.png" width="48" height="48" alt=""> | **Mafia Night**<br>מאפיה | Secret roles. One night. Who is lying?<br><sub>תפקידים סודיים. לילה אחד. מי משקר?</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/mafia/Mafia.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/mafia/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/nonogram-192.png" width="48" height="48" alt=""> | **Picture Logic: Color Nonograms**<br>תשבץ ציורים – פאזל צבעוני | Numbers in, pictures out. Calm, colourful logic puzzles.<br><sub>מספרים נכנסים, ציור יוצא. פאזלי היגיון צבעוניים ורגועים.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/nonogram/Nonogram.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/nonogram/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/pokernight-192.png" width="48" height="48" alt=""> | **Poker Night**<br>ערב פוקר | Texas Hold'em with friends – everyone on their own phone<br><sub>טקסס הולדם עם חברים – כל אחד בטלפון שלו</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/pokernight/PokerNight.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/pokernight/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/poker-secret-192.png" width="48" height="48" alt=""> | **Poker Secret** | Learn winning poker strategy step by step, no real money<br><sub>לומדים אסטרטגיית פוקר צעד אחר צעד, בלי כסף אמיתי</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/poker-secret/PokerSecret.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/poker-secret/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/cardrush-192.png" width="48" height="48" alt=""> | **Poof!**<br>פוף! | Match colour, number or symbol – and be first to empty your hand<br><sub>התאימו צבע, מספר או סמל – ותהיו הראשונים להיפטר מהקלפים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/cardrush/CardRush.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/cardrush/) |
