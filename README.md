@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**114 free Android apps · no ads · Hebrew & English**  
-**114 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**115 free Android apps · no ads · Hebrew & English**  
+**115 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -48,6 +48,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/fashionstudio-192.png" width="48" height="48" alt=""> | **Fashion Studio**<br>סטודיו לאופנה | Design clothes, dress diverse models and put on your own runway show!<br><sub>מעצבים בגדים, מלבישים דוגמנים ודוגמניות ועולים למסלול בתצוגת אופנה משלכם!</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/fashionstudio/FashionStudio.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/fashionstudio/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/freezedance-192.png" width="48" height="48" alt=""> | **Freeze Dance**<br>פסל! | Dance – and when the music stops, freeze!<br><sub>רוקדים – וכשהמוזיקה נעצרת, פסל!</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/freezedance/FreezeDance.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/freezedance/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/groupmemory-192.png" width="48" height="48" alt=""> | **Group Memory**<br>זיכרון קבוצתי | A giant memory game across several phones<br><sub>משחק זיכרון ענק על כמה טלפונים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/groupmemory/GroupMemory.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/groupmemory/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/hiddenobjects-192.png" width="48" height="48" alt=""> | **Hidden Objects: Israel**<br>מצאו את החפצים | Look closely and find every hidden thing!<br><sub>מסתכלים טוב – ומוצאים את כל החפצים המוסתרים!</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/hiddenobjects/HiddenObjects.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/hiddenobjects/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/lettertrace-192.png" width="48" height="48" alt=""> | **Letter Tracer**<br>כותבים אותיות | Trace Hebrew & English letters and numbers with a finger. Stars, no ads!<br><sub>לומדים לכתוב אותיות בעברית ובאנגלית ומספרים עם האצבע. כוכבים, בלי פרסומות!</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/lettertrace/LetterTrace.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/lettertrace/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/bakery-192.png" width="48" height="48" alt=""> | **Little Bakery**<br>הקונדיטוריה הקטנה | Bake, decorate and serve sweet treats to cute animal customers. No ads!<br><sub>אופים, מקשטים ומגישים מאפים מתוקים ללקוחות חמודים. בלי פרסומות!</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/bakery/Bakery.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/bakery/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/magicgarden-192.png" width="48" height="48" alt=""> | **Magic Garden**<br>הגינה הקסומה | A cozy magic garden that grows in real time: a few calm minutes a day.<br><sub>גינה קסומה ונעימה שגדלה בזמן אמת: כמה דקות רגועות ביום.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/magicgarden/MagicGarden.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/magicgarden/) |
