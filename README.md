@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**127 free Android apps · no ads · Hebrew & English**  
-**127 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**128 free Android apps · no ads · Hebrew & English**  
+**128 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -81,6 +81,7 @@
 |:-:|---|---|---|
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/competition-192.png" width="48" height="48" alt=""> | **Competition**<br>תחרות | 250 challenges for 2-8 friends: play, score each other, crown a winner<br><sub>250 אתגרים ל-2 עד 8 חברים: בוחרים, משחקים, נותנים ציונים ומכתירים מנצח</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/competition/Competition.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/competition/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/puzzlito-adults-192.png" width="48" height="48" alt=""> | **Puzzlito**<br>פאזליטו | Twelve logic, number and word puzzles, a Daily Set and hints that teach<br><sub>12 חידות היגיון, מספרים ומילים, סט יומי ורמזים שמלמדים איך לפתור</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/puzzlito-adults/PuzzlitoAdults.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/puzzlito-adults/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/retro8-192.png" width="48" height="48" alt=""> | **Retro 8: 12 Classic Games**<br>משחקי מחשב של פעם – 12 ב־1 | 12 original games in the spirit of the first home computers<br><sub>12 משחקים מקוריים ברוח המחשבים הביתיים הראשונים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/retro8/Retro8.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/retro8/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/semantika-192.png" width="48" height="48" alt=""> | **Semantika**<br>סמנטיקה | Find the secret word by meaning: every guess shows how close you are<br><sub>מוצאים את המילה הסודית לפי המשמעות – וכל ניחוש מראה כמה התקרבתם</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/semantika/Semantika.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/semantika/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/backgammon-192.png" width="48" height="48" alt=""> | **Backgammon**<br>שש־בש | Backgammon on a wooden board – vs the computer or a friend<br><sub>שש־בש על לוח עץ – מול המחשב או עם חבר</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/backgammon/Backgammon.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/backgammon/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/bingo-192.png" width="48" height="48" alt=""> | **Bingo Together**<br>בינגו ביחד | Bingo for families, classrooms and clubs – no money<br><sub>בינגו למשפחות, כיתות ומועדונים – בלי כסף</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/bingo/Bingo.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/bingo/) |
