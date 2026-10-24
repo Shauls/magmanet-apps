@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**112 free Android apps · no ads · Hebrew & English**  
-**112 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**113 free Android apps · no ads · Hebrew & English**  
+**113 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -86,6 +86,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/blackjack-secret-192.png" width="48" height="48" alt=""> | **Blackjack Secret** | Master basic strategy and card counting with play money only<br><sub>לומדים אסטרטגיה בסיסית וספירת קלפים, בכסף משחק בלבד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/blackjack-secret/BlackjackSecret.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/blackjack-secret/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/boardduel-192.png" width="48" height="48" alt=""> | **Board Duel**<br>מלך הלוח | Two classic board games, one app<br><sub>שני משחקי לוח קלאסיים, אפליקציה אחת</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/boardduel/BoardDuel.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/boardduel/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/bridge-secret-192.png" width="48" height="48" alt=""> | **Bridge Secret** | Learn contract bridge: bidding, declarer play and defense<br><sub>לומדים ברידג׳ חוזים: הכרזה, משחק ידיים והגנה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/bridge-secret/BridgeSecret.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/bridge-secret/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/couplesquiz-192.png" width="48" height="48" alt=""> | **Couples Quiz**<br>כמה אתם מתאימים? | How well do you two really know each other?<br><sub>כמה טוב אתם באמת מכירים?</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/couplesquiz/CouplesQuiz.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/couplesquiz/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/dailyword-192.png" width="48" height="48" alt=""> | **Daily Word**<br>מילה ביום | Five letters, six guesses, one word a day.<br><sub>חמש אותיות, שישה ניסיונות, מילה אחת ביום.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/dailyword/DailyWord.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/dailyword/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/forbiddenwords-192.png" width="48" height="48" alt=""> | **Don't Say It!**<br>אל תגיד! | Describe the word without saying the forbidden ones<br><sub>תארו את המילה בלי להגיד את המילים האסורות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/forbiddenwords/ForbiddenWords.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/forbiddenwords/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/duelgames-192.png" width="48" height="48" alt=""> | **Duel: Sea & Four**<br>דו־קרב | Two classic duels: hunt the fleet, line up four<br><sub>שני דו־קרבות קלאסיים: צדים את הצי, מסדרים ארבע</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/duelgames/DuelGames.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/duelgames/) |
