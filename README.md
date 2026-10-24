@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**130 free Android apps · no ads · Hebrew & English**  
-**130 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**131 free Android apps · no ads · Hebrew & English**  
+**131 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -90,6 +90,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/bridge-secret-192.png" width="48" height="48" alt=""> | **Bridge Secret** | Learn contract bridge: bidding, declarer play and defense<br><sub>לומדים ברידג׳ חוזים: הכרזה, משחק ידיים והגנה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/bridge-secret/BridgeSecret.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/bridge-secret/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/blockpuzzle-192.png" width="48" height="48" alt=""> | **Color Blocks: Calm Puzzle**<br>בלוקים צבעוניים – פאזל רגוע | A calm, colourful block puzzle<br><sub>פאזל בלוקים רגוע וצבעוני</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/blockpuzzle/BlockPuzzle.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/blockpuzzle/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/pixelart-192.png" width="48" height="48" alt=""> | **Color by Number: Pixel Art**<br>צביעה לפי מספרים – פיקסל ארט | Tap, fill, relax. Pixel art one colour at a time.<br><sub>מקישים, צובעים, נרגעים. פיקסל ארט צבע אחרי צבע.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/pixelart/PixelArt.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/pixelart/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/flowconnect-192.png" width="48" height="48" alt=""> | **Color Connect: Pipes Puzzle**<br>מחברים צבעים – פאזל צינורות | Connect the colours, fill the board – calmly<br><sub>מחברים את הצבעים וממלאים את הלוח – ברוגע</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/flowconnect/FlowConnect.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/flowconnect/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/colorsort-192.png" width="48" height="48" alt=""> | **Color Sort: Calm Pour Puzzle**<br>מיון צבעים – פאזל מזיגה רגוע | Pour, sort, breathe. A calm, colourful puzzle.<br><sub>מוזגים, ממיינים, נושמים. פאזל צבעוני ורגוע.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/colorsort/ColorSort.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/colorsort/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/couplesquiz-192.png" width="48" height="48" alt=""> | **Couples Quiz**<br>כמה אתם מתאימים? | How well do you two really know each other?<br><sub>כמה טוב אתם באמת מכירים?</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/couplesquiz/CouplesQuiz.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/couplesquiz/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/dailyword-192.png" width="48" height="48" alt=""> | **Daily Word**<br>מילה ביום | Five letters, six guesses, one word a day.<br><sub>חמש אותיות, שישה ניסיונות, מילה אחת ביום.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/dailyword/DailyWord.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/dailyword/) |
