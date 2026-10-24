@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**125 free Android apps · no ads · Hebrew & English**  
-**125 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**126 free Android apps · no ads · Hebrew & English**  
+**126 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -166,6 +166,7 @@
 
 | | App | Description | |
 |:-:|---|---|---|
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/calcpro-192.png" width="48" height="48" alt=""> | **Calculator: Scientific & Graph**<br>מחשבון – מדעי, מתכנתים וגרפים | Standard, scientific, programmer and graphing – one calculator for everything.<br><sub>רגיל, מדעי, מתכנתים וגרפים – מחשבון אחד לכל דבר.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/calcpro/CalcPro.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/calcpro/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/animalface-192.png" width="48" height="48" alt=""> | **Animal Face: Funny Filters**<br>פרצוף של חיה | Become a cat, a lion or a unicorn – in one tap!<br><sub>הופכים לחתול, לאריה או לחד־קרן – בהקשה אחת!</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/animalface/AnimalFace.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/animalface/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/luach-192.png" width="48" height="48" alt=""> | **Hebrew Calendar & Zmanim**<br>לוח שנה עברי: חגים, זמנים, שבת | Hebrew date, holidays, zmanim and Shabbat – offline.<br><sub>תאריך עברי, חגים, זמני היום ושבת – בלי אינטרנט.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/luach/Luach.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/luach/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/yearemoji-192.png" width="48" height="48" alt=""> | **My Year in Emoji**<br>השנה שלי באימוג׳י | Sum up your year in emojis and share it<br><sub>סכמו את השנה שלכם באימוג׳ים ושתפו</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/yearemoji/YearEmoji.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/yearemoji/) |
