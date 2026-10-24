@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**128 free Android apps · no ads · Hebrew & English**  
-**128 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**129 free Android apps · no ads · Hebrew & English**  
+**129 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -111,6 +111,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/sacrifice-192.png" width="48" height="48" alt=""> | **Sacrifice**<br>סקריפייס | Chess puzzles built around brilliant sacrifices, every line verified<br><sub>חידות שחמט סביב הקרבות מבריקות וכל טקטיקה אחרת – כל מסע נבדק</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/sacrifice/Sacrifice.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/sacrifice/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/soundbattle-192.png" width="48" height="48" alt=""> | **Sound Battle: Mic Party Game**<br>קרב קולות: אתגרי מיקרופון | Sing, roar, whisper and beatbox your way to the podium!<br><sub>שרים, שואגים, לוחשים ומתופפים בדרך לפודיום!</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/soundbattle/SoundBattle.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/soundbattle/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/quizshow-192.png" width="48" height="48" alt=""> | **Spotlight Quiz**<br>זרקור | A quiz-show night at home: one screen is the studio, every phone a buzzer<br><sub>ערב שעשועון בבית: מסך אחד הוא האולפן, כל טלפון הוא באזר</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/quizshow/QuizShow.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/quizshow/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/tilematch-192.png" width="48" height="48" alt=""> | **Trios: Calm Tile Match Puzzle**<br>שלישיות – פאזל התאמת אריחים | Match three cute tiles and clear the board – calmly<br><sub>מתאימים שלושה אריחים חמודים ומנקים את הלוח – ברוגע</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/tilematch/TileMatch.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/tilematch/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/dailyprice-192.png" width="48" height="48" alt=""> | **What's the Price?**<br>כמה זה עולה? | Daily game: guess real supermarket prices, learn where it's cheapest<br><sub>משחק יומי: נחשו מחירים אמיתיים מהסופר וגלו איפה הכי זול</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/dailyprice/DailyPrice.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/dailyprice/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/mapdle-192.png" width="48" height="48" alt=""> | **Where Is It? Israel Map Daily**<br>איפה זה? – מקום ביום | One place a day. Find it on the map of Israel.<br><sub>מקום אחד ביום. מצאו אותו על מפת ישראל.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/mapdle/Mapdle.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/mapdle/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/spy-192.png" width="48" height="48" alt=""> | **Who's the Spy?**<br>המרגל | Everyone knows where they are. Except one<br><sub>כולם יודעים איפה הם. חוץ מאחד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/spy/Spy.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/spy/) |
