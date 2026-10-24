@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**118 free Android apps · no ads · Hebrew & English**  
-**118 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**119 free Android apps · no ads · Hebrew & English**  
+**119 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -169,6 +169,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/unit-converter-192.png" width="48" height="48" alt=""> | **Unit Converter**<br>ממיר יחידות | 13 unit categories, up-to-date currency rates and a kitchen converter<br><sub>13 קטגוריות של יחידות, שערי מטבע עדכניים וממיר למטבח</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/unit-converter/UnitConverter.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/unit-converter/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/voicechanger-192.png" width="48" height="48" alt=""> | **Voice Changer: Funny Effects**<br>משנה קולות | Record your voice and turn it into a chipmunk, a robot, an alien…<br><sub>מקליטים את הקול והופכים אותו לסנאי, לרובוט, לחייזר…</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/voicechanger/VoiceChanger.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/voicechanger/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/weather-192.png" width="48" height="48" alt=""> | **Weather**<br>מזג אוויר | Current conditions, hourly outlook and a 10-day forecast<br><sub>מזג האוויר עכשיו, תחזית שעתית ותחזית ל־10 ימים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/weather/Weather.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/weather/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/letterhelp-192.png" width="48" height="48" alt=""> | **What Does It Say? Letter Help**<br>מה כתוב פה? – מכתבים בשפה פשוטה | Official letters, in plain language.<br><sub>מכתבים רשמיים, בשפה פשוטה.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/letterhelp/LetterHelp.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/letterhelp/) |
 
 ## 🏡 Home & Life · בית וחיים
 

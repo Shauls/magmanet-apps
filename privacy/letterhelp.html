@@ -1,0 +1,51 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Privacy Policy — What Does It Say? (מה כתוב פה?)</title><style>:root{--bg:#fff;--fg:#1d1d1f;--mut:#555;--link:#2457c5;--line:#e5e5e5}
+@media (prefers-color-scheme:dark){:root{--bg:#121212;--fg:#eee;--mut:#aaa;--link:#8ab4f8;--line:#333}}
+body{background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;max-width:760px;margin:0 auto;padding:24px 16px 64px}
+a{color:var(--link)}h1{font-size:1.7em;line-height:1.25}h2{margin-top:1.8em;border-top:1px solid var(--line);padding-top:1em}
+code{background:rgba(127,127,127,.15);padding:1px 4px;border-radius:4px}table{border-collapse:collapse}td,th{border:1px solid var(--line);padding:4px 8px}
+footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>Privacy Policy — What Does It Say? (מה כתוב פה?)</h1>
+<p><em>Last updated: 2026-10-24</em></p>
+<p>What Does It Say? is made by Magmanet. It helps you understand official letters. Letters often contain personal details, so this policy explains exactly where your information goes. The short version: <strong>your letters stay on your phone.</strong> Nothing about a letter is sent anywhere unless you choose the optional AI feature with your own Anthropic key, and then it goes only to Anthropic.</p>
+<h2>What we collect</h2>
+<p>By default, only anonymous usage statistics (see below), which you can turn off. We never receive your letters, the photos you take, the explanations, your API key, or your history. The app has no sign-up, no accounts and no advertising. We never sell or share your data.</p>
+<h2>Letters, photos and history on your phone</h2>
+<ul>
+<li><strong>Pasted text and photos</strong> are processed on your phone. Text in photos is read with Google ML Kit's on-device text recognition (Latin script only); the photo is not uploaded by ML Kit.</li>
+<li><strong>The offline explanation</strong> (summary, deadlines, amounts, contacts, reply draft, glossary) is computed entirely on your phone by built-in rules.</li>
+<li><strong>History</strong>: explained letters (the text and the explanation) are saved in the app's private storage on your phone so you can open them again. You can turn history off, delete one letter, or delete all letters in the app (History screen or Settings). Uninstalling the app removes them.</li>
+<li><strong>Deadline reminders</strong> are local notifications created on your phone; nothing is sent.</li>
+<li><strong>Copy backup</strong> (Settings → Your data) copies your settings and history, including letter text, to your clipboard as text, only when you tap it. Where you paste it is up to you. Your API key is never included.</li>
+</ul>
+<h2>Optional AI with your own Anthropic API key</h2>
+<p>The AI feature is <strong>off unless you add your own API key</strong> from Anthropic (console.anthropic.com). We do not provide, embed or proxy any key, and we never see yours.</p>
+<ul>
+<li><strong>Your key</strong> is stored encrypted on your phone (Android Keystore / iOS Keychain via secure storage). It is sent only to <code>api.anthropic.com</code>, in the request header, and only when you ask for an AI explanation. It is never logged, never included in usage statistics, history or backups. You can delete it in Settings at any time.</li>
+<li><strong>When you tap "Explain with Claude"</strong>, the app sends the letter <strong>text</strong> (as it appears in the text box, which you can edit first, e.g. to remove names or ID numbers) directly from your phone to Anthropic's Messages API over HTTPS, together with instructions asking for a structured explanation. The first time, the app asks you to confirm.</li>
+<li><strong>Photos are sent only if you explicitly tap "Send the image to Claude with my key"</strong> and confirm the dialog explaining that the photo will be uploaded to Anthropic. Otherwise photos never leave your phone.</li>
+<li>The request goes <strong>directly from your phone to Anthropic</strong>. It does not pass through any Magmanet server.</li>
+<li>Anthropic processes the request under its own terms and privacy policy (https://www.anthropic.com/legal/privacy) and bills usage to your Anthropic account. Anthropic's answer is shown to you and, if history is on, saved on your phone.</li>
+</ul>
+<h2>Sharing replies</h2>
+<p>When you tap Share on a reply draft, the app opens your phone's share sheet with the text you see. Nothing is sent unless you choose an app and send it yourself.</p>
+<h2>Internet use</h2>
+<p>The offline mode needs no internet. The app connects to the internet only for: (1) the optional AI requests to Anthropic described above, (2) the update check, and (3) the anonymous usage statistics.</p>
+<p>Once a day the app checks for a newer version by asking the Magmanet server (EU, Contabo) — the request contains only the app name, its version number and how it was installed (site/Google Play); the server counts checks per app and version in aggregate, stores no identifiers and no IP address; if the server is unavailable the app downloads the public version file from GitHub Pages instead (GitHub may see your IP address). If a newer version exists, the app shows a notice and you choose whether to open the download link. You can turn this off in Settings ("Check for updates automatically").</p>
+<h2>Anonymous usage statistics</h2>
+<p>The app sends anonymous usage statistics over HTTPS (a short ping once a day; usage events a few times a day at most, batched) to Magmanet's own server, hosted in the EU (Contabo), not to Google, Anthropic or any other third party. It sends the app name and version, your Android version, your phone manufacturer and model (never the name you gave the phone), your language, how the app was installed, a random install ID, and anonymous usage events: which screens and features are used (for example "explained a letter offline", "set a reminder", or the type of an AI error such as "bad key") and for how long. <strong>It never includes letter text, photos, explanations, amounts, names, phone numbers, your API key or anything you typed.</strong> The random ID is made by the app when it is installed; it is not a device identifier.</p>
+<p>On the server the ID is hashed and no IP address is stored. Raw data is deleted after 400 days. It is used only to count active users and improve the app, never for advertising or profiling, and it is never sold or shared.</p>
+<p>This is on by default. You can turn it off in Settings ("Share anonymous usage statistics"). Turning it off stops sending immediately and deletes the random ID and any unsent usage events from your phone.</p>
+<h2>Permissions</h2>
+<ul>
+<li><strong>Camera / photos:</strong> only when you choose to photograph a letter or pick a photo (through the system camera and photo picker).</li>
+<li><strong>Internet:</strong> for the optional AI requests, the update check and the anonymous usage statistics.</li>
+<li><strong>Notifications</strong> (asked only when you set a deadline reminder), <strong>run at startup</strong> (to keep reminders after a restart).</li>
+</ul>
+<p>The app requests no location, microphone or contacts permissions.</p>
+<h2>Not legal advice</h2>
+<p>Explanations, from the rules or from Claude, can be wrong or incomplete. They are not legal, tax or financial advice.</p>
+<h2>Children</h2>
+<p>The app is intended for adults. It collects no personal information from anyone.</p>
+<h2>Changes</h2>
+<p>If this policy changes, we'll update the date above and publish the new version at the same address.</p>
+<h2>Contact</h2>
+<p>Questions? Open an issue at https://github.com/Shauls/magmanet-apps/issues</p><footer>Magmanet · <a href="./">All privacy policies</a> · <a href="https://github.com/Shauls/magmanet-apps">Apps</a></footer></body></html>
