@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**113 free Android apps · no ads · Hebrew & English**  
-**113 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**114 free Android apps · no ads · Hebrew & English**  
+**114 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -89,6 +89,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/couplesquiz-192.png" width="48" height="48" alt=""> | **Couples Quiz**<br>כמה אתם מתאימים? | How well do you two really know each other?<br><sub>כמה טוב אתם באמת מכירים?</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/couplesquiz/CouplesQuiz.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/couplesquiz/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/dailyword-192.png" width="48" height="48" alt=""> | **Daily Word**<br>מילה ביום | Five letters, six guesses, one word a day.<br><sub>חמש אותיות, שישה ניסיונות, מילה אחת ביום.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/dailyword/DailyWord.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/dailyword/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/forbiddenwords-192.png" width="48" height="48" alt=""> | **Don't Say It!**<br>אל תגיד! | Describe the word without saying the forbidden ones<br><sub>תארו את המילה בלי להגיד את המילים האסורות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/forbiddenwords/ForbiddenWords.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/forbiddenwords/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/drawrelay-192.png" width="48" height="48" alt=""> | **Draw Relay**<br>טלפון שבור מצויר | Write, draw, guess… and watch it all go wrong!<br><sub>כותבים, מציירים, מנחשים… ורואים איך הכול משתבש!</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/drawrelay/DrawRelay.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/drawrelay/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/duelgames-192.png" width="48" height="48" alt=""> | **Duel: Sea & Four**<br>דו־קרב | Two classic duels: hunt the fleet, line up four<br><sub>שני דו־קרבות קלאסיים: צדים את הצי, מסדרים ארבע</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/duelgames/DuelGames.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/duelgames/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/emojipuzzle-192.png" width="48" height="48" alt=""> | **Emoji Riddle**<br>אימוג'ידע | Five emoji riddles a day. Can you read them?<br><sub>חמש חידות אימוג'י ביום. תצליחו לפענח?</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/emojipuzzle/EmojiPuzzle.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/emojipuzzle/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/excuses-192.png" width="48" height="48" alt=""> | **Excuses: Funny Excuse Maker**<br>תירוצים – מחולל תירוצים | A funny excuse for every situation. Shake for a new one!<br><sub>תירוץ מצחיק לכל מצב. נערו בשביל עוד אחד!</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/excuses/Excuses.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/excuses/) |
