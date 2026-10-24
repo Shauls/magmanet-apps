@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**120 free Android apps · no ads · Hebrew & English**  
-**120 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**121 free Android apps · no ads · Hebrew & English**  
+**121 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -149,6 +149,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/splitit-192.png" width="48" height="48" alt=""> | **Split It**<br>מתחלקים | Who owes whom, in the fewest transfers<br><sub>מי חייב למי – בכמה שפחות העברות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/splitit/SplitIt.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/splitit/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/taxrefund-192.png" width="48" height="48" alt=""> | **Tax Refund Check (Israel)**<br>החזר מס – בדיקה לשכירים | Find out if the tax office owes you money<br><sub>בודקים בעצמכם אם מגיע לכם כסף ממס הכנסה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/taxrefund/TaxRefund.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/taxrefund/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/tip-calculator-192.png" width="48" height="48" alt=""> | **Tip Calculator** | Split bills and calculate tips instantly<br><sub>מחשבים טיפ ומתחלקים בחשבון בשניות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/tip-calculator/TipCalculator.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/tip-calculator/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/fuelcost-192.png" width="48" height="48" alt=""> | **Trip Cost: Fuel & EV Split**<br>כמה עולה הנסיעה? | What the trip costs, and how to split it – no arguments<br><sub>כמה עולה הנסיעה, ואיך מתחלקים – בלי ויכוחים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/fuelcost/FuelCost.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/fuelcost/) |
 
 ## 💼 Business & Pro · עסקים ומקצועות
 
