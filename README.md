@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**116 free Android apps · no ads · Hebrew & English**  
-**116 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**117 free Android apps · no ads · Hebrew & English**  
+**117 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -106,6 +106,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/sacrifice-192.png" width="48" height="48" alt=""> | **Sacrifice**<br>סקריפייס | Chess puzzles built around brilliant sacrifices, every line verified<br><sub>חידות שחמט סביב הקרבות מבריקות וכל טקטיקה אחרת – כל מסע נבדק</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/sacrifice/Sacrifice.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/sacrifice/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/quizshow-192.png" width="48" height="48" alt=""> | **Spotlight Quiz**<br>זרקור | A quiz-show night at home: one screen is the studio, every phone a buzzer<br><sub>ערב שעשועון בבית: מסך אחד הוא האולפן, כל טלפון הוא באזר</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/quizshow/QuizShow.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/quizshow/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/dailyprice-192.png" width="48" height="48" alt=""> | **What's the Price?**<br>כמה זה עולה? | Daily game: guess real supermarket prices, learn where it's cheapest<br><sub>משחק יומי: נחשו מחירים אמיתיים מהסופר וגלו איפה הכי זול</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/dailyprice/DailyPrice.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/dailyprice/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/mapdle-192.png" width="48" height="48" alt=""> | **Where Is It? Israel Map Daily**<br>איפה זה? – מקום ביום | One place a day. Find it on the map of Israel.<br><sub>מקום אחד ביום. מצאו אותו על מפת ישראל.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/mapdle/Mapdle.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/mapdle/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/spy-192.png" width="48" height="48" alt=""> | **Who's the Spy?**<br>המרגל | Everyone knows where they are. Except one<br><sub>כולם יודעים איפה הם. חוץ מאחד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/spy/Spy.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/spy/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/worstdriver-192.png" width="48" height="48" alt=""> | **Worst Driver**<br>הנהג הכי גרוע | Funny focus, reaction and steady-hand drills for bad drivers – short and offline<br><sub>תרגילי ריכוז, תגובה ויד יציבה לנהגים גרועים – מצחיק, קצר ובלי אינטרנט</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/worstdriver/WorstDriver.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/worstdriver/) |
 
