@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**122 free Android apps · no ads · Hebrew & English**  
-**122 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**123 free Android apps · no ads · Hebrew & English**  
+**123 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -87,6 +87,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/blackjack-secret-192.png" width="48" height="48" alt=""> | **Blackjack Secret** | Master basic strategy and card counting with play money only<br><sub>לומדים אסטרטגיה בסיסית וספירת קלפים, בכסף משחק בלבד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/blackjack-secret/BlackjackSecret.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/blackjack-secret/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/boardduel-192.png" width="48" height="48" alt=""> | **Board Duel**<br>מלך הלוח | Two classic board games, one app<br><sub>שני משחקי לוח קלאסיים, אפליקציה אחת</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/boardduel/BoardDuel.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/boardduel/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/bridge-secret-192.png" width="48" height="48" alt=""> | **Bridge Secret** | Learn contract bridge: bidding, declarer play and defense<br><sub>לומדים ברידג׳ חוזים: הכרזה, משחק ידיים והגנה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/bridge-secret/BridgeSecret.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/bridge-secret/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/colorsort-192.png" width="48" height="48" alt=""> | **Color Sort: Calm Pour Puzzle**<br>מיון צבעים – פאזל מזיגה רגוע | Pour, sort, breathe. A calm, colourful puzzle.<br><sub>מוזגים, ממיינים, נושמים. פאזל צבעוני ורגוע.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/colorsort/ColorSort.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/colorsort/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/couplesquiz-192.png" width="48" height="48" alt=""> | **Couples Quiz**<br>כמה אתם מתאימים? | How well do you two really know each other?<br><sub>כמה טוב אתם באמת מכירים?</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/couplesquiz/CouplesQuiz.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/couplesquiz/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/dailyword-192.png" width="48" height="48" alt=""> | **Daily Word**<br>מילה ביום | Five letters, six guesses, one word a day.<br><sub>חמש אותיות, שישה ניסיונות, מילה אחת ביום.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/dailyword/DailyWord.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/dailyword/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/forbiddenwords-192.png" width="48" height="48" alt=""> | **Don't Say It!**<br>אל תגיד! | Describe the word without saying the forbidden ones<br><sub>תארו את המילה בלי להגיד את המילים האסורות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/forbiddenwords/ForbiddenWords.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/forbiddenwords/) |
