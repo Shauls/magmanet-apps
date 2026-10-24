@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**110 free Android apps · no ads · Hebrew & English**  
-**110 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**111 free Android apps · no ads · Hebrew & English**  
+**111 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -157,6 +157,7 @@
 
 | | App | Description | |
 |:-:|---|---|---|
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/luach-192.png" width="48" height="48" alt=""> | **Hebrew Calendar & Zmanim**<br>לוח שנה עברי: חגים, זמנים, שבת | Hebrew date, holidays, zmanim and Shabbat – offline.<br><sub>תאריך עברי, חגים, זמני היום ושבת – בלי אינטרנט.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/luach/Luach.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/luach/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/password-generator-192.png" width="48" height="48" alt=""> | **Password Generator**<br>מחולל סיסמאות | Strong passwords, passphrases and PINs – generated on your device<br><sub>סיסמאות חזקות, צירופי מילים וקודי PIN – הכול נוצר במכשיר</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/password-generator/PasswordGenerator.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/password-generator/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/qr-scanner-192.png" width="48" height="48" alt=""> | **QR Scanner**<br>סורק QR | Scan and create QR codes and barcodes, with link safety checks<br><sub>סורקים ויוצרים קודי QR וברקודים, עם בדיקת בטיחות לקישורים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/qr-scanner/QRScanner.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/qr-scanner/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/unit-converter-192.png" width="48" height="48" alt=""> | **Unit Converter**<br>ממיר יחידות | 13 unit categories, up-to-date currency rates and a kitchen converter<br><sub>13 קטגוריות של יחידות, שערי מטבע עדכניים וממיר למטבח</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/unit-converter/UnitConverter.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/unit-converter/) |
