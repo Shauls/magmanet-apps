@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**103 free Android apps · no ads · Hebrew & English**  
-**103 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**104 free Android apps · no ads · Hebrew & English**  
+**104 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -37,6 +37,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/mitzi-192.png" width="48" height="48" alt=""> | **Mitzi's World**<br>העולם של מיצי | Feed and dress up Mitzi the cat, run her pizzeria and travel the world<br><sub>מאכילים, מלבישים ומפנקים את מיצי החתולה, מנהלים פיצרייה וטסים לעולם</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/mitzi/Mitzi.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/mitzi/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/motorquest-192.png" width="48" height="48" alt=""> | **MotorQuest**<br>מסע התנועה | Motor-skill games and learner-driver practice for dyspraxia (DCD)<br><sub>משחקי מוטוריקה ותרגול נהיגה לילדים ולמבוגרים עם דיספרקסיה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/motorquest/MotorQuest.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/motorquest/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/richard-192.png" width="48" height="48" alt=""> | **Richard**<br>ריצ׳ארד | Turn a mirror selfie into your own cartoon avatar, stickers and dances<br><sub>מצלמים סלפי במראה ומקבלים דמות מצוירת משלכם, עם סטיקרים וריקודים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/richard/Richard.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/richard/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/bedtimestory-192.png" width="48" height="48" alt=""> | **Bedtime Story Maker**<br>סיפור לפני השינה | Pick a hero, a place and a friend: a new illustrated bedtime story, read aloud<br><sub>בוחרים גיבור, מקום וחבר, ומקבלים סיפור לפני השינה חדש ומאויר, בהקראה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/bedtimestory/BedtimeStory.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/bedtimestory/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/bobo-192.png" width="48" height="48" alt=""> | **Bobo**<br>בובו | A friendly buddy that gets kids talking English: chats, stories, games<br><sub>חבר ידידותי שגורם לילדים לדבר אנגלית: שיחות, סיפורים ומשחקים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/bobo/Bobo.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/bobo/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/brainrace-192.png" width="48" height="48" alt=""> | **Brain Race**<br>מרוץ מוחות | A math and word race – every kid at their own level<br><sub>מרוץ חשבון ומילים – כל ילד ברמה שלו</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/brainrace/BrainRace.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/brainrace/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/chainstory-192.png" width="48" height="48" alt=""> | **Chain Story**<br>סיפור בשרשרת | Everyone adds a part – the whole story comes at the end<br><sub>כל אחד מוסיף חלק – ורק בסוף שומעים את כל הסיפור</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/chainstory/ChainStory.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/chainstory/) |
