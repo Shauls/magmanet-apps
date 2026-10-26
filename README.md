@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**152 free Android apps · no ads · Hebrew & English**  
-**152 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**153 free Android apps · no ads · Hebrew & English**  
+**153 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -105,6 +105,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/hexasort-192.png" width="48" height="48" alt=""> | **Hexa Sort: Calm Color Puzzle**<br>משושים צבעוניים – פאזל מיון | Stack, slide and clear calm, colourful hexagons<br><sub>מערמים, מחליקים ומנקים משושים צבעוניים – ברוגע</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/hexasort/HexaSort.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/hexasort/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/wordsearch-192.png" width="48" height="48" alt=""> | **Hidden Words: Word Search**<br>מילה חבויה – תפזורת מילים | Find the hidden words. A new grid every day.<br><sub>מצאו את המילים החבויות. תפזורת חדשה בכל יום.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/wordsearch/WordSearch.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/wordsearch/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/fivedice-192.png" width="48" height="48" alt=""> | **High Five Dice**<br>חמישייה! | Five dice, three rolls, thirteen boxes<br><sub>חמש קוביות, שלוש הטלות, שלוש עשרה משבצות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/fivedice/FiveDice.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/fivedice/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/higherlower-192.png" width="48" height="48" alt=""> | **Higher or Lower: Israel**<br>יותר או פחות – ישראל | Higher or lower? A numbers game about Israel<br><sub>יותר או פחות? משחק מספרים על ישראל</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/higherlower/HigherLower.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/higherlower/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/historyday-192.png" width="48" height="48" alt=""> | **History Today: Daily Quiz**<br>היום בהיסטוריה – חידון יומי | Five questions a day about what happened on this date<br><sub>חמש שאלות ביום על מה שקרה בתאריך הזה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/historyday/HistoryDay.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/historyday/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/hotseat-192.png" width="48" height="48" alt=""> | **Hot Seat**<br>כיסא חם | How well do your friends really know you?<br><sub>כמה טוב החברים באמת מכירים אתכם?</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/hotseat/HotSeat.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/hotseat/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/howisraeli-192.png" width="48" height="48" alt=""> | **How Israeli Are You?**<br>כמה ישראלי אתה? | Funny, kind quizzes about Israeli life<br><sub>שאלונים מצחיקים על החיים בישראל</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/howisraeli/HowIsraeli.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/howisraeli/) |
