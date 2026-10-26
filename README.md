@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**138 free Android apps · no ads · Hebrew & English**  
-**138 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**139 free Android apps · no ads · Hebrew & English**  
+**139 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -142,6 +142,7 @@
 
 | | App | Description | |
 |:-:|---|---|---|
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/vacationdays-192.png" width="48" height="48" alt=""> | **Bridge Days: Vacation Planner**<br>גשרים וחופשות: תכנון ימי חופש | Take 3 vacation days, get 9 off – smart holiday bridges.<br><sub>לוקחים 3 ימי חופשה, מקבלים 9 ימי חופש – גשרים חכמים.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/vacationdays/VacationDays.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/vacationdays/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/countdown-192.png" width="48" height="48" alt=""> | **Countdown**<br>ספירה לאחור | Count down to big moments – or count up from them<br><sub>סופרים את הימים לרגעים הגדולים – ואת הימים מאז</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/countdown/Countdown.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/countdown/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/event-planner-192.png" width="48" height="48" alt=""> | **Event Planner**<br>מתכנן אירועים | Guests, tasks, budget and seating – your whole event in one place<br><sub>מוזמנים, משימות, תקציב והושבה – כל האירוע במקום אחד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/event-planner/EventPlanner.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/event-planner/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/grouplists-192.png" width="48" height="48" alt=""> | **Group Lists**<br>רשימות משותפות | Shopping, packing and who-brings-what – one list for the whole group<br><sub>קניות, ציוד לטיול ומי מביא מה – רשימה אחת לכל החבורה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/grouplists/GroupLists.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/grouplists/) |
