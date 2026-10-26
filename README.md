@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**137 free Android apps · no ads · Hebrew & English**  
-**137 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**138 free Android apps · no ads · Hebrew & English**  
+**138 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -158,6 +158,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/onewaym-192.png" width="48" height="48" alt=""> | **1wayM** | Plan your path to a million: net worth, budget, income ideas and lessons<br><sub>הדרך למיליון: הון נקי, תקציב, רעיונות להכנסה ושיעורים על כסף</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/onewaym/1wayM.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/onewaym/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/budget-planner-192.png" width="48" height="48" alt=""> | **Budget Planner** | Envelope budgeting that gives every dollar a job<br><sub>תקציב מעטפות: לכל שקל יש תפקיד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/budget-planner/BudgetPlanner.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/budget-planner/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/expense-tracker-192.png" width="48" height="48" alt=""> | **Expense Tracker** | Log spending and see where your money goes<br><sub>רושמים הוצאות ורואים לאן הכסף הולך</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/expense-tracker/ExpenseTracker.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/expense-tracker/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/giftcalc-192.png" width="48" height="48" alt=""> | **Gift Calc: How Much to Give**<br>כמה לשים בצ'ק? – מחשבון מתנות | How much to give – without the awkwardness<br><sub>כמה לשים בצ'ק – בלי מבוכה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/giftcalc/GiftCalc.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/giftcalc/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/topmoves-192.png" width="48" height="48" alt=""> | **Morning Movers**<br>תנועות הבוקר | The 10 biggest decliners and gainers at the last close<br><sub>10 המניות שירדו ו-10 שעלו הכי הרבה בסגירה האחרונה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/topmoves/TopMoves.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/topmoves/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/salary-192.png" width="48" height="48" alt=""> | **Salary Calculator**<br>מחשבון שכר | Gross, net, tax and rights – by 2026 rules<br><sub>ברוטו, נטו, מס וזכויות – לפי חוקי 2026</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/salary/Salary.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/salary/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/basket-192.png" width="48" height="48" alt=""> | **Smart Basket**<br>סל חכם | Where is your basket cheapest? Supermarket price comparison<br><sub>איפה הסל שלכם הכי זול? השוואת מחירים בסופרמרקטים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/basket/Basket.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/basket/) |

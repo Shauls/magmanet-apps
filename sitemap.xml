@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://shauls.github.io/magmanet-apps/</loc><lastmod>2026-10-25</lastmod><priority>1.0</priority></url>
+<url><loc>https://shauls.github.io/magmanet-apps/</loc><lastmod>2026-10-26</lastmod><priority>1.0</priority></url>
 <url><loc>https://shauls.github.io/magmanet-apps/apps/perfavore/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://shauls.github.io/magmanet-apps/apps/blackjack-secret/</loc><lastmod>2026-10-18</lastmod></url>
 <url><loc>https://shauls.github.io/magmanet-apps/apps/book-tracker/</loc><lastmod>2026-10-18</lastmod></url>
@@ -138,4 +138,5 @@
 <url><loc>https://shauls.github.io/magmanet-apps/apps/dailystory/</loc><lastmod>2026-10-25</lastmod></url>
 <url><loc>https://shauls.github.io/magmanet-apps/apps/groupchallenge/</loc><lastmod>2026-10-25</lastmod></url>
 <url><loc>https://shauls.github.io/magmanet-apps/apps/predictleague/</loc><lastmod>2026-10-25</lastmod></url>
+<url><loc>https://shauls.github.io/magmanet-apps/apps/giftcalc/</loc><lastmod>2026-10-26</lastmod></url>
 </urlset>

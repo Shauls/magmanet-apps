@@ -1,0 +1,75 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Privacy Policy — Find Friends (איפה כולם?)</title><style>:root{--bg:#fff;--fg:#1d1d1f;--mut:#555;--link:#2457c5;--line:#e5e5e5}
+@media (prefers-color-scheme:dark){:root{--bg:#121212;--fg:#eee;--mut:#aaa;--link:#8ab4f8;--line:#333}}
+body{background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;max-width:760px;margin:0 auto;padding:24px 16px 64px}
+a{color:var(--link)}h1{font-size:1.7em;line-height:1.25}h2{margin-top:1.8em;border-top:1px solid var(--line);padding-top:1em}
+code{background:rgba(127,127,127,.15);padding:1px 4px;border-radius:4px}table{border-collapse:collapse}td,th{border:1px solid var(--line);padding:4px 8px}
+footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>Privacy Policy — Find Friends (איפה כולם?)</h1>
+<p><em>Last updated: 2026-10-25</em></p>
+<p>Find Friends (איפה כולם?) is made by Magmanet. This policy explains what the app does with your information. The short version: <strong>your location is shared only while you turn sharing on, only with the members of the circles you joined, and it is end-to-end encrypted: our server stores it in a form it cannot read, keeps only the latest update and no history.</strong> You need no account, e-mail or phone number. The app also sends anonymous usage statistics (never your location or anything about your circles), which you can turn off.</p>
+<h2>End-to-end encryption, precisely</h2>
+<ul>
+<li>Every circle has a random 256-bit key made on the phone of the person who created it. The key travels only inside the invite: in the part of the link after "#" (which browsers never send to a web server) or in the QR code. The app sends our server only the circle's id and invite code from it, never the key.</li>
+<li>Each location update is encrypted on your phone with <strong>AES-256-GCM</strong> under the circle key, with a fresh random nonce, and tied to the circle and to your member number so it cannot be altered or passed off as someone else's. Only phones that hold the circle key can read it.</li>
+<li>Each phone has its own key pair (X25519). When a member leaves or is removed, the owner's phone makes a <strong>new circle key</strong> and sends it to each remaining member wrapped with that member's public key (the server only passes the sealed envelopes along). A removed member cannot read later updates. Each phone also proves to the others that it holds the circle key, so the server cannot slip in a fake member, and every member has a "safety code" you can compare in person.</li>
+</ul>
+<h2>What is sent to the server, precisely</h2>
+<ul>
+<li><strong>Your nickname</strong> (2–16 characters; no real name needed), shown to the members of your circles.</li>
+<li><strong>Circles:</strong> the circle's name (visible to the server), its invite code, the member list (nickname, a member number, your phone's public key and the proof described above), who owns it, and the encrypted circle keys for each member after a key change.</li>
+<li><strong>Your location, only while you share:</strong> one encrypted blob per circle (at most 1 KB) containing your latitude, longitude, accuracy, speed, heading, battery percentage and the time of the fix. <strong>The server cannot read it.</strong> Alongside it the server sees only the time it received the update and your member number in that circle. Each new update <strong>replaces</strong> the previous one: the server never keeps a history of where you were.</li>
+<li><strong>Signals:</strong> that you have a circle's map open right now (for 90 seconds, so the others' phones update more often and so the members can see who is looking) and "locate now" requests (the time of the latest request). These never turn anybody's sharing on.</li>
+<li><strong>Anonymous usage statistics</strong> (see below), which never contain locations, circle names, nicknames or keys.</li>
+</ul>
+<p>The app does <strong>not</strong> send your contacts, e-mail address or phone number. There is no advertising and no tracking. We never sell or share your data.</p>
+<h2>Who sees what</h2>
+<ul>
+<li><strong>Members of a circle</strong> see its name, the members' nicknames, who shares, who is looking at the map, and — decrypted on their phones — the positions of the members who share (with accuracy, battery level, speed and time). Your position is visible to them only while you share in that circle.</li>
+<li><strong>You see who sees you:</strong> the circle's member list is the complete list of people who can see your location in it.</li>
+<li><strong>Our server</strong> sees circle names, nicknames, member numbers, public keys and ciphertext with receive times — never a location or a circle key.</li>
+<li>Nobody outside a circle can see it.</li>
+</ul>
+<h2>You are in control</h2>
+<ul>
+<li>Sharing starts only when you tap "Share my location" and choose how long: <strong>1 hour</strong>, <strong>until tonight</strong> (23:59) or <strong>always</strong>. Timed sharing ends by itself. <strong>Pause</strong>, <strong>Resume</strong> and <strong>Stop</strong> are one tap away in the app and the notification is always visible while you share.</li>
+<li><strong>Stop</strong> (and timed sharing running out) deletes your last location from the server. <strong>Pause</strong> sends one last encrypted update marked "paused" so your circle knows why updates stopped.</li>
+<li>You can turn sharing off for one circle only ("Share my location in this circle"); this deletes your location from that circle.</li>
+<li>Nobody can turn sharing on for you, remotely or otherwise.</li>
+</ul>
+<h2>Where your data is stored</h2>
+<ul>
+<li><strong>On your phone:</strong> your nickname and settings, your circles with their keys, your phone's private key, and the sharing state, in the app's private storage. Other members' positions are kept in memory only, not saved. Everything is removed when you uninstall the app. The <strong>Copy backup</strong> feature (Settings → Your data) copies the app's storage, <strong>including your circle keys</strong>, to your clipboard as text: keep such a backup private.</li>
+<li><strong>On the Magmanet server:</strong> the data listed above, run by Magmanet on a server hosted in the European Union (by Contabo). It is not sent to Google or any other third party and is not used for advertising or profiling. Data is encrypted in transit (HTTPS) and the locations are additionally end-to-end encrypted. The server keeps no access log with your IP address for these requests; the address is used in memory only, to limit abuse.</li>
+</ul>
+<p>The account is <strong>anonymous</strong>: the server creates a random user id and access tokens, stored on your phone. The app also stores a random number made at install time (not a device identifier), which it sends once when the account is created so the server can limit abuse. Other users never see these ids; inside a circle members are numbered 1, 2, 3…</p>
+<h2>How long, and how to delete</h2>
+<ul>
+<li><strong>Latest only:</strong> the server keeps only your most recent encrypted location per circle; each update overwrites it. A latest location older than <strong>30 days</strong> is deleted automatically.</li>
+<li><strong>Leave a circle:</strong> your last location and your keys in it are deleted from the server at once, and the circle gets a new key. The owner can remove a member with the same effect, and can delete the circle for everyone.</li>
+<li><strong>Delete everything</strong> (Settings): you leave every circle, and your locations, keys, nickname and anonymous account are deleted from the server.</li>
+<li>A circle with no activity for <strong>90 days</strong> is deleted automatically with everything in it.</li>
+<li>Uninstalling the app does not reach the server (the anonymous account can't be reached any more), so use "Delete everything" first, or contact us (below); your circle will be deleted after 90 days without activity anyway.</li>
+</ul>
+<h2>Location permission and the notification</h2>
+<ul>
+<li>The app asks for location "while using the app" the first time you choose to share (or to show yourself on the map). It asks for "Allow all the time" only if you choose <strong>Always</strong> sharing, after a screen that explains why. If you refuse, sharing still works while the app is open or its notification is showing.</li>
+<li>On Android, while you share, a foreground service shows an ongoing notification ("Sharing your location – with …"); on iPhone the system shows its location indicator. Notification permission is asked so this notification is visible.</li>
+<li>The location provider of your phone (Google Play services' fused location on Android, Core Location on iPhone) computes your position on the phone.</li>
+</ul>
+<h2>Maps and other internet use</h2>
+<p>Map images come from <strong>OpenFreeMap</strong> (tiles.openfreemap.org; map data © OpenStreetMap contributors). To draw the map your phone downloads map tiles for the area on screen, so OpenFreeMap's servers see your IP address and which map area is requested (not who or where your circle members are). Once a day the app checks for a newer version by asking the Magmanet server (EU, Contabo) — the request contains only the app name, its version and how it was installed; if the server is unavailable the app downloads the public version file from GitHub Pages instead (GitHub may see your IP address). You can turn this off in Settings.</p>
+<p>When you tap "Navigate", the app opens Google Maps, Waze or another map app with the member's position; from then on that app's own privacy policy applies. When you share an invite, the text is made on your phone and only goes where you send it — <strong>anyone with the invite can join and read the circle</strong>, so send it only to people you trust.</p>
+<h2>Anonymous usage statistics</h2>
+<p>Find Friends sends anonymous usage statistics over HTTPS (a short ping once a day; usage events a few times a day at most, batched) to Magmanet's own server, hosted in the EU (Contabo). It sends the app name and version, your Android version, your phone's manufacturer and model, your language, how the app was installed, a random install ID, and anonymous usage events (which screens are used and for how long). It <strong>never</strong> includes locations, circle names, nicknames, keys or anything about your circles. On the server the ID is hashed and no IP address is stored. Raw data is deleted after 400 days. You can turn it off in Settings ("Share anonymous usage statistics"); this also deletes the random ID from your phone.</p>
+<h2>Permissions</h2>
+<ul>
+<li><strong>Location</strong> (precise and approximate; "all the time" only for Always sharing): to share your position with your circles while you share, and to show yourself on the map.</li>
+<li><strong>Foreground service (location)</strong> and <strong>Notifications</strong>: the ongoing "Sharing your location" notification while you share.</li>
+<li><strong>Internet</strong>: your circles, map tiles, the update check and the anonymous statistics.</li>
+<li><strong>Camera</strong> (optional): only when you tap "Scan a QR code" to join a circle; images are not saved or sent.</li>
+</ul>
+<h2>Children</h2>
+<p>Find Friends is a general-audience app and is not directed at children.</p>
+<h2>Changes</h2>
+<p>If this policy changes, we'll update the date above and publish the new version at the same address.</p>
+<h2>Contact</h2>
+<p>Questions, or a request to delete your data? Open an issue at https://github.com/Shauls/magmanet-apps/issues</p><footer>Magmanet · <a href="./">All privacy policies</a> · <a href="https://github.com/Shauls/magmanet-apps">Apps</a></footer></body></html>
