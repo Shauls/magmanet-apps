@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**154 free Android apps · no ads · Hebrew & English**  
-**154 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**155 free Android apps · no ads · Hebrew & English**  
+**155 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -58,6 +58,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/petsalon-192.png" width="48" height="48" alt=""> | **Pet Salon**<br>המספרה של החיות | Wash, dry, brush, trim and dress up cute animals in your own pet salon!<br><sub>מקלחים, מייבשים, מסרקים ומלבישים חיות חמודות במספרה משלכם!</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/petsalon/PetSalon.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/petsalon/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/ponystable-192.png" width="48" height="48" alt=""> | **Pony Stable**<br>האורווה של הפוני | Brush, braid and feed your pony, clean the stable and ride gentle trails!<br><sub>מברישים, קולעים צמות ומאכילים את הפוני, מנקים את האורווה ויוצאים לרכיבה!</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/ponystable/PonyStable.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/ponystable/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/puzzlito-kids-192.png" width="48" height="48" alt=""> | **Puzzlito Kids**<br>פאזליטו לילדים | 12 colorful puzzle games that grow with your child<br><sub>12 סוגי פאזלים צבעוניים ומשחקי חשיבה שגדלים יחד עם הילד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/puzzlito-kids/PuzzlitoKids.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/puzzlito-kids/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/nikud-192.png" width="48" height="48" alt=""> | **Read with Nikud: Hebrew**<br>קוראים עם ניקוד | Learn to read Hebrew with niqqud – from letters to stories<br><sub>לומדים לקרוא עם ניקוד – מאותיות ועד סיפורים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/nikud/Nikud.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/nikud/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/thinkk-5-7-192.png" width="48" height="48" alt=""> | **Thinkk 5-7**<br>ת׳ינק 5–7 | 13 thinking games for ages 5-7, spoken aloud so no reading is needed<br><sub>13 משחקי חשיבה לגילאי 5–7, עם הוראות קוליות ובלי צורך לקרוא</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/thinkk-5-7/ThinkkAges57.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/thinkk-5-7/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/thinkk-7-9-192.png" width="48" height="48" alt=""> | **Thinkk 7-9**<br>ת׳ינק 7–9 | 13 worlds of logic, math and coding puzzles for ages 7-9<br><sub>13 עולמות של חידות היגיון, מספרים ותכנות לגילאי 7–9</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/thinkk-7-9/ThinkkAges79.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/thinkk-7-9/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/timestables-192.png" width="48" height="48" alt=""> | **Times Table Race**<br>מרוץ לוח הכפל | Race to learn your times tables! Solo, with a sibling, or on two phones<br><sub>לומדים את לוח הכפל במרוץ! לבד, מול אח או אחות, או על שני טלפונים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/timestables/TimesTables.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/timestables/) |
