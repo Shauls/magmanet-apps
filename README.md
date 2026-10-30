@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**162 free Android apps · no ads · Hebrew & English**  
-**162 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**163 free Android apps · no ads · Hebrew & English**  
+**163 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -63,6 +63,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/thinkk-5-7-192.png" width="48" height="48" alt=""> | **Thinkk 5-7**<br>ת׳ינק 5–7 | 13 thinking games for ages 5-7, spoken aloud so no reading is needed<br><sub>13 משחקי חשיבה לגילאי 5–7, עם הוראות קוליות ובלי צורך לקרוא</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/thinkk-5-7/ThinkkAges57.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/thinkk-5-7/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/thinkk-7-9-192.png" width="48" height="48" alt=""> | **Thinkk 7-9**<br>ת׳ינק 7–9 | 13 worlds of logic, math and coding puzzles for ages 7-9<br><sub>13 עולמות של חידות היגיון, מספרים ותכנות לגילאי 7–9</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/thinkk-7-9/ThinkkAges79.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/thinkk-7-9/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/timestables-192.png" width="48" height="48" alt=""> | **Times Table Race**<br>מרוץ לוח הכפל | Race to learn your times tables! Solo, with a sibling, or on two phones<br><sub>לומדים את לוח הכפל במרוץ! לבד, מול אח או אחות, או על שני טלפונים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/timestables/TimesTables.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/timestables/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/typing-192.png" width="48" height="48" alt=""> | **Touch Typing: Hebrew & English**<br>הקלדה עיוורת – לומדים להקליד | Learn to type in Hebrew and English without looking<br><sub>לומדים להקליד בעברית ובאנגלית בלי להסתכל על המקלדת</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/typing/Typing.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/typing/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/treasurehunt-192.png" width="48" height="48" alt=""> | **Treasure Hunt**<br>ציד אוצרות | A treasure hunt at home – riddles, QR codes and challenges<br><sub>ציד אוצרות בבית – חידות, קודי QR ומשימות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/treasurehunt/TreasureHunt.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/treasurehunt/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/drawguess-192.png" width="48" height="48" alt=""> | **What Did I Draw?!**<br>מה ציירתי?! | Draw it, guess it, laugh together<br><sub>מציירים, מנחשים וצוחקים ביחד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/drawguess/DrawGuess.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/drawguess/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/whoami-192.png" width="48" height="48" alt=""> | **Who Am I?**<br>מי אני? | Phone on your forehead – friends give the hints<br><sub>הטלפון על המצח – החברים נותנים רמזים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/whoami/WhoAmI.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/whoami/) |
