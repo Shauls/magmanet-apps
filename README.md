@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**159 free Android apps · no ads · Hebrew & English**  
-**159 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**160 free Android apps · no ads · Hebrew & English**  
+**160 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -208,6 +208,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/voicechanger-192.png" width="48" height="48" alt=""> | **Voice Changer: Funny Effects**<br>משנה קולות | Record your voice and turn it into a chipmunk, a robot, an alien…<br><sub>מקליטים את הקול והופכים אותו לסנאי, לרובוט, לחייזר…</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/voicechanger/VoiceChanger.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/voicechanger/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/weather-192.png" width="48" height="48" alt=""> | **Weather**<br>מזג אוויר | Current conditions, hourly outlook and a 10-day forecast<br><sub>מזג האוויר עכשיו, תחזית שעתית ותחזית ל־10 ימים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/weather/Weather.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/weather/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/letterhelp-192.png" width="48" height="48" alt=""> | **What Does It Say? Letter Help**<br>מה כתוב פה? – מכתבים בשפה פשוטה | Official letters, in plain language.<br><sub>מכתבים רשמיים, בשפה פשוטה.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/letterhelp/LetterHelp.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/letterhelp/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/parking-192.png" width="48" height="48" alt=""> | **Where I Parked: Find My Car**<br>איפה החניתי? – מוצאים את הרכב | One tap when you park – find your car easily<br><sub>מקישים פעם אחת כשחונים – ומוצאים את הרכב בקלות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/parking/Parking.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/parking/) |
 
 ## 🏡 Home & Life · בית וחיים
 
