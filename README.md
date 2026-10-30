@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**161 free Android apps · no ads · Hebrew & English**  
-**161 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**162 free Android apps · no ads · Hebrew & English**  
+**162 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -122,6 +122,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/quiz-game-192.png" width="48" height="48" alt=""> | **Quiz Game**<br>חידון טריוויה | 720 questions in 12 categories, a daily challenge, party modes and leaderboards<br><sub>720 שאלות ב-12 קטגוריות, אתגר יומי, מצבי משחק לחברים וטבלאות שיאים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/quiz-game/QuizGame.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/quiz-game/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/tilerummy-192.png" width="48" height="48" alt=""> | **Runset**<br>רצף | Runs, groups and one shared table<br><sub>רצפים, קבוצות ושולחן משותף אחד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/tilerummy/TileRummy.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/tilerummy/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/sacrifice-192.png" width="48" height="48" alt=""> | **Sacrifice**<br>סקריפייס | Chess puzzles built around brilliant sacrifices, every line verified<br><sub>חידות שחמט סביב הקרבות מבריקות וכל טקטיקה אחרת – כל מסע נבדק</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/sacrifice/Sacrifice.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/sacrifice/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/solitaire-192.png" width="48" height="48" alt=""> | **Solitaire Collection**<br>סוליטר – אוסף קלפים | Klondike, Spider, FreeCell and more – big, clear cards<br><sub>קלונדייק, ספיידר, פריסל ועוד – קלפים גדולים וברורים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/solitaire/Solitaire.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/solitaire/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/songemoji-192.png" width="48" height="48" alt=""> | **Song Emoji: Guess the Song**<br>נחש את השיר – באימוג׳י | Guess the song from emojis – five a day<br><sub>נחשו את השיר מתוך אימוג׳ים – חמישה בכל יום</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/songemoji/SongEmoji.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/songemoji/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/soundbattle-192.png" width="48" height="48" alt=""> | **Sound Battle: Mic Party Game**<br>קרב קולות: אתגרי מיקרופון | Sing, roar, whisper and beatbox your way to the podium!<br><sub>שרים, שואגים, לוחשים ומתופפים בדרך לפודיום!</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/soundbattle/SoundBattle.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/soundbattle/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/quizshow-192.png" width="48" height="48" alt=""> | **Spotlight Quiz**<br>זרקור | A quiz-show night at home: one screen is the studio, every phone a buzzer<br><sub>ערב שעשועון בבית: מסך אחד הוא האולפן, כל טלפון הוא באזר</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/quizshow/QuizShow.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/quizshow/) |
