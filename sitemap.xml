@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://shauls.github.io/magmanet-apps/</loc><lastmod>2026-10-30</lastmod><priority>1.0</priority></url>
+<url><loc>https://shauls.github.io/magmanet-apps/</loc><lastmod>2026-10-31</lastmod><priority>1.0</priority></url>
 <url><loc>https://shauls.github.io/magmanet-apps/apps/perfavore/</loc><lastmod>2026-10-30</lastmod></url>
 <url><loc>https://shauls.github.io/magmanet-apps/apps/blackjack-secret/</loc><lastmod>2026-10-30</lastmod></url>
 <url><loc>https://shauls.github.io/magmanet-apps/apps/book-tracker/</loc><lastmod>2026-10-30</lastmod></url>
@@ -165,4 +165,20 @@
 <url><loc>https://shauls.github.io/magmanet-apps/apps/solitaire/</loc><lastmod>2026-10-30</lastmod></url>
 <url><loc>https://shauls.github.io/magmanet-apps/apps/typing/</loc><lastmod>2026-10-30</lastmod></url>
 <url><loc>https://shauls.github.io/magmanet-apps/apps/equation/</loc><lastmod>2026-10-30</lastmod></url>
+<url><loc>https://shauls.github.io/magmanet-apps/apps/medreminder/</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://shauls.github.io/magmanet-apps/apps/wordladder/</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://shauls.github.io/magmanet-apps/apps/spellbee/</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://shauls.github.io/magmanet-apps/apps/moonwalk/</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://shauls.github.io/magmanet-apps/apps/recipecost/</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://shauls.github.io/magmanet-apps/apps/pocketmoney/</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://shauls.github.io/magmanet-apps/apps/warranty/</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://shauls.github.io/magmanet-apps/apps/subscriptions/</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://shauls.github.io/magmanet-apps/apps/telltime/</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://shauls.github.io/magmanet-apps/apps/babylog/</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://shauls.github.io/magmanet-apps/apps/freezer/</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://shauls.github.io/magmanet-apps/apps/healthlog/</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://shauls.github.io/magmanet-apps/apps/bagrut/</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://shauls.github.io/magmanet-apps/apps/miluim/</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://shauls.github.io/magmanet-apps/apps/flagsquiz/</loc><lastmod>2026-10-31</lastmod></url>
+<url><loc>https://shauls.github.io/magmanet-apps/apps/minicross/</loc><lastmod>2026-10-31</lastmod></url>
 </urlset>

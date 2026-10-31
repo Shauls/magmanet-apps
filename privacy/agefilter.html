@@ -4,7 +4,7 @@ body{background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,
 a{color:var(--link)}h1{font-size:1.7em;line-height:1.25}h2{margin-top:1.8em;border-top:1px solid var(--line);padding-top:1em}
 code{background:rgba(127,127,127,.15);padding:1px 4px;border-radius:4px}table{border-collapse:collapse}td,th{border:1px solid var(--line);padding:4px 8px}
 footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>Privacy Policy — איך אראה? (Age Filter)</h1>
-<p><em>Last updated: 2026-10-26</em></p>
+<p><em>Last updated: 2026-10-30</em></p>
 <p>איך אראה? (Age Filter) is made by Magmanet. This policy explains what the app does with your
 information. The short version: <strong>faces are found on your phone, and your camera picture and photos never
 leave it unless you share a picture yourself.</strong> The app sends anonymous usage statistics, which you can turn
@@ -30,23 +30,39 @@ transit and doesn't pass it to third parties. Details: https://developers.google
   information described above.)</li>
 <li>The looks ("old me", "baby me", costumes and so on) are cartoon drawings and a gentle stretch of the photo,
   just for fun. They are not a prediction of how you will look and nothing about them is stored.</li>
+<li><strong>Drawn character mode:</strong> if you switch a photo to "Drawn character", the app measures the face shape
+  (outline, eyes, brows, nose, mouth, smile) and reads three flat colours (skin, hair, eyes) from a small,
+  in-memory copy of the photo, on the phone, then paints a cartoon from scratch. No photo pixels are used in
+  the drawing and the in-memory copy is dropped. If you tap <strong>Keep character</strong>, only the name you type, these
+  shape numbers and the three colours are saved, on your phone only (never the photo).</li>
 </ul>
 <h2>Photos</h2>
 <ul>
 <li>"Use a photo from the gallery" opens the system photo picker; the app sees only the photo you pick. Faces
-  in it are found on the phone in the same way. The photo is not copied, kept or uploaded by the app.</li>
+  in it are found on the phone in the same way. The photo is not kept or uploaded by the app: the temporary
+  copy the picker hands over is deleted right after the faces are found.</li>
 <li>A picture is saved only when you tap <strong>Save</strong> (to your phone's gallery, in an "Age Filter" album). On
   Android 9 and older the phone asks for storage permission at that moment; on iPhone the system asks
   whether the app may add photos to your library (add-only access).</li>
 <li><strong>Share</strong> makes a temporary copy of the finished picture in the app's cache and opens the system share
-  sheet. You choose where it goes; the app never uploads it itself. The share text includes a link to the
+  sheet (copies from earlier shares are deleted the next time you share). You choose where it goes; the app
+  never uploads it itself. The share text includes a link to the
   app's page. Once shared, the recipient's app handles the picture under its own privacy policy.</li>
 </ul>
 <h2>Where your other data is stored</h2>
 <p>Your settings (language, last look, strength, whether the app label is on, whether you've seen the
-camera explanation) are saved only on
-your device. The app's <strong>Copy backup</strong> feature (Settings → Your data) copies these settings as text to your
-clipboard — never pictures — so you can keep them somewhere you choose. The app never uploads it.</p>
+camera explanation, photo or drawn mode, drawing style, mirror selfies) are saved only on your device.</p>
+<ul>
+<li><strong>My characters:</strong> characters you keep (a name, shape numbers and three colours; never a photo) are saved
+  only on your device.</li>
+<li><strong>My gallery:</strong> when you tap <strong>Keep in app</strong>, the finished picture (a cartoon filter picture or a drawn
+  character) is saved as a file in the app's own private folder on your phone. It is not added to your
+  phone's gallery and never uploaded. You can delete pictures and characters one by one, or all of them with
+  Settings → "Delete all characters and pictures"; uninstalling the app deletes them too.</li>
+</ul>
+<p>The app's <strong>Copy backup</strong> feature (Settings → Your data) copies the settings, the kept characters' names and
+shape numbers and the titles of kept pictures as text to your clipboard — never pictures — so you can keep them somewhere you choose. The
+app never uploads it.</p>
 <h2>Internet use</h2>
 <p>The filters work offline, and the app never uploads your pictures. The internet is used for the update
 check, the anonymous usage statistics below, and ML Kit's diagnostic information (see above).</p>
