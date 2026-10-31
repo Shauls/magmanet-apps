@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**180 free Android apps · no ads · Hebrew & English**  
-**180 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**181 free Android apps · no ads · Hebrew & English**  
+**181 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -80,6 +80,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/music-quiz-80s-192.png" width="48" height="48" alt=""> | **80s Music Quiz**<br>חידון מוזיקה: שנות ה-80 | Fact-based trivia, listening games and party play for fans of 80s music<br><sub>טריוויה, משחקי האזנה ומשחקי חברים לכל מי שגדל על המוזיקה של שנות ה-80</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/music-quiz-80s/80sMusicQuiz.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/music-quiz-80s/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/guitarmaster-192.png" width="48" height="48" alt=""> | **GuitarMaster**<br>גיטרמאסטר | Learn guitar step by step with lessons that listen to you play<br><sub>לומדים גיטרה צעד אחר צעד, עם שיעורים שמקשיבים לכם מנגנים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/guitarmaster/GuitarMaster.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/guitarmaster/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/tabmaster-192.png" width="48" height="48" alt=""> | **TabMaster**<br>טאבמאסטר | Interactive tabs for guitar, bass, ukulele and drums, with mic play-along<br><sub>טאבים ותווים אינטראקטיביים לגיטרה, בס, יוקלילי ותופים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/tabmaster/TabMaster.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/tabmaster/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/melodynotes-192.png" width="48" height="48" alt=""> | **Melody to Notes**<br>מנגינה לתווים | Sing it. Hum it. See the notes<br><sub>שרים, מזמזמים ורואים את התווים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/melodynotes/MelodyNotes.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/melodynotes/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/music-practice-192.png" width="48" height="48" alt=""> | **Music Practice** | Metronome, reference tones, ear training and a practice log in one app<br><sub>מטרונום, צלילי כיוון, אימון שמיעה ויומן תרגול במקום אחד</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/music-practice/MusicPractice.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/music-practice/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/pitchtrainer-192.png" width="48" height="48" alt=""> | **Pitch Trainer**<br>אימון שמיעה | Sharper ears and a truer voice, every day<br><sub>שמיעה מוזיקלית וקול מדויק, כל יום</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/pitchtrainer/PitchTrainer.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/pitchtrainer/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/playcord-192.png" width="48" height="48" alt=""> | **PlayCord**<br>פלייקורד | Chords for any song, in seconds<br><sub>אקורדים לכל שיר, תוך שניות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/playcord/PlayCord.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/playcord/) |
