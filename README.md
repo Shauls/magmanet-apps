@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**182 free Android apps · no ads · Hebrew & English**  
-**182 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**183 free Android apps · no ads · Hebrew & English**  
+**183 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -223,6 +223,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/qr-scanner-192.png" width="48" height="48" alt=""> | **QR Scanner**<br>סורק QR | Scan and create QR codes and barcodes, with link safety checks<br><sub>סורקים ויוצרים קודי QR וברקודים, עם בדיקת בטיחות לקישורים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/qr-scanner/QRScanner.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/qr-scanner/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/shichrur-192.png" width="48" height="48" alt=""> | **Release Countdown (IDF)**<br>כמה לשחרור? – ספירה לאחור | Countdown to release day – for soldiers and families<br><sub>ספירה לאחור לשחרור – לחיילים ולמשפחות</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/shichrur/Shichrur.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/shichrur/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/secretsanta-192.png" width="48" height="48" alt=""> | **Secret Santa: Gift Draw**<br>גמד וענק – הגרלה | Draw Secret Santa – without anyone peeking<br><sub>מגרילים גמד וענק – בלי שאף אחד יציץ</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/secretsanta/SecretSanta.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/secretsanta/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/solidra-192.png" width="48" height="48" alt=""> | **Solidra CAD** | Parametric 3D modeling on your tablet, from sketch to print or mill<br><sub>מודלים תלת־ממדיים פרמטריים בטאבלט, עד הדפסה או כרסום</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/solidra/Solidra.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/solidra/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/unit-converter-192.png" width="48" height="48" alt=""> | **Unit Converter**<br>ממיר יחידות | 13 unit categories, up-to-date currency rates and a kitchen converter<br><sub>13 קטגוריות של יחידות, שערי מטבע עדכניים וממיר למטבח</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/unit-converter/UnitConverter.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/unit-converter/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/voicechanger-192.png" width="48" height="48" alt=""> | **Voice Changer: Funny Effects**<br>משנה קולות | Record your voice and turn it into a chipmunk, a robot, an alien…<br><sub>מקליטים את הקול והופכים אותו לסנאי, לרובוט, לחייזר…</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/voicechanger/VoiceChanger.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/voicechanger/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/weather-192.png" width="48" height="48" alt=""> | **Weather**<br>מזג אוויר | Current conditions, hourly outlook and a 10-day forecast<br><sub>מזג האוויר עכשיו, תחזית שעתית ותחזית ל־10 ימים</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/weather/Weather.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/weather/) |
