@@ -6,8 +6,8 @@
 
 ### 🌐 [**Browse the store → shauls.github.io/magmanet-apps/**](https://shauls.github.io/magmanet-apps/)
 
-**202 free Android apps · no ads · Hebrew & English**  
-**202 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
+**203 free Android apps · no ads · Hebrew & English**  
+**203 אפליקציות אנדרואיד חינמיות · בלי פרסומות · בעברית ובאנגלית**
 
 </div>
 
@@ -227,6 +227,7 @@
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/accidentkit-192.png" width="48" height="48" alt=""> | **Accident Kit**<br>ערכת תאונה | The first minutes after a car accident, one calm step at a time.<br><sub>הדקות הראשונות אחרי תאונת דרכים, צעד אחר צעד, בלי לחץ.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/accidentkit/AccidentKit.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/accidentkit/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/agefilter-192.png" width="48" height="48" alt=""> | **Age Filter: Old Me, Baby Me**<br>איך אראה? – פילטר גילאים | See yourself old, as a baby or a superhero – just for fun<br><sub>תראו איך תיראו זקנים, תינוקות או גיבורי על – בכיף</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/agefilter/AgeFilter.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/agefilter/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/animalface-192.png" width="48" height="48" alt=""> | **Animal Face: Funny Filters**<br>פרצוף של חיה | Become a cat, a lion or a unicorn – in one tap!<br><sub>הופכים לחתול, לאריה או לחד־קרן – בהקשה אחת!</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/animalface/AnimalFace.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/animalface/) |
+| <img src="https://shauls.github.io/magmanet-apps/img/icons/atelier-192.png" width="48" height="48" alt=""> | **Atelier**<br>אטלייה | A serious sketch pad for life drawing, art lessons and practice.<br><sub>מחברת סקיצות רצינית לציור מודל חי, לשיעורי אמנות ולתרגול.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/atelier/Atelier.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/atelier/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/findfriends-192.png" width="48" height="48" alt=""> | **Find Friends: Family Locator**<br>איפה כולם? – שיתוף מיקום | See where family and friends are – only those who chose to share, end-to-end encrypted<br><sub>רואים איפה המשפחה והחברים – רק מי שבחר לשתף, ומוצפן מקצה לקצה</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/findfriends/FindFriends.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/findfriends/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/luach-192.png" width="48" height="48" alt=""> | **Hebrew Calendar & Zmanim**<br>לוח שנה עברי: חגים, זמנים, שבת | Hebrew date, holidays, zmanim and Shabbat – offline.<br><sub>תאריך עברי, חגים, זמני היום ושבת – בלי אינטרנט.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/luach/Luach.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/luach/) |
 | <img src="https://shauls.github.io/magmanet-apps/img/icons/livecaptions-192.png" width="48" height="48" alt=""> | **Live Captions**<br>כתוביות חיות | Speech appears live as huge text, for talking with someone hard of hearing.<br><sub>דיבור מופיע בזמן אמת בטקסט ענק, לשיחה עם מי שמתקשה לשמוע.</sub> | [⬇️ APK](https://github.com/Shauls/magmanet-apps/releases/download/livecaptions/LiveCaptions.apk)<br>[ℹ️ Page](https://shauls.github.io/magmanet-apps/apps/livecaptions/) |
