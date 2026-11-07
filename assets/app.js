@@ -55,40 +55,96 @@
   });
 
   /* ---------- home: search + category filter ---------- */
+  // Typing or picking a category turns the home page into a results view: the
+  // carousel, category tiles, shelves and install help hide, and the matching apps
+  // sit right under the sticky search bar. A category is its own history entry
+  // (?cat=kids), so the back button leaves it and the link can be shared.
   var grid = $('#grid');
   if (grid) {
     var q = $('#q'), cards = $$('.card', grid), chips = $$('.chip'), empty = $('#empty'), count = $('#count');
-    var cat = '';
-    var norm = function (s) { return (s || '').toLowerCase().replace(/[֑-ׇ]/g, '').replace(/[׳']/g, '').trim(); };
-    cards.forEach(function (c) { c._q = norm(c.getAttribute('data-q')); });
-    function run(scroll) {
+    var finder = $('#finder'), back = $('#backAll'), title = $('#allTitle'), allTitle = title.innerHTML;
+    var share = $('#shareCat'), topbar = $('.topbar');
+    var cat = '', wasFiltering = false, pushed = 0;
+    var FINALS = 'ךםןףץ', PLAIN = 'כמנפצ';
+    var norm = function (s) {
+      return (s || '').toLowerCase()
+        .replace(/[֑-ׇ]/g, '')          // niqqud and cantillation
+        .replace(/[׳']/g, '')                 // geresh / apostrophe
+        .replace(/[ךםןףץ]/g, function (ch) { return PLAIN.charAt(FINALS.indexOf(ch)); })
+        .trim();
+    };
+    cards.forEach(function (c, i) { c._q = norm(c.getAttribute('data-q')); c._n = norm(c.getAttribute('data-n')); c._t = norm(c.getAttribute('data-t')); c._i = i; });
+    var ranked = false;
+    function rank(words) {
+      // name matches first, then tagline matches, then the rest (features, category)
+      if (!words.length && !ranked) return;
+      var score = function (c) {
+        if (!words.length) return 0;
+        var s = 0;
+        words.forEach(function (w) { s += c._n.indexOf(w) !== -1 ? 0 : c._t.indexOf(w) !== -1 ? 1 : 2; });
+        return s;
+      };
+      cards.slice().sort(function (a, b) { return (score(a) - score(b)) || (a._i - b._i); })
+        .forEach(function (c) { grid.appendChild(c); });
+      ranked = words.length > 0;
+    }
+    function toResults() {
+      // put the search bar at the top of the screen, results right under it
+      var top = finder.getBoundingClientRect().top + window.pageYOffset - (topbar ? topbar.offsetHeight : 0);
+      if (window.pageYOffset < top - 2 || window.pageYOffset > top + 2) window.scrollTo(0, top);
+    }
+    function catUrl(c) {
+      var u = new URL(location.href);
+      if (c) u.searchParams.set('cat', c); else u.searchParams.delete('cat');
+      return u.href;
+    }
+    function run() {
       var words = norm(q.value).split(/\s+/).filter(Boolean), n = 0;
       cards.forEach(function (c) {
         var ok = (!cat || c.getAttribute('data-cat') === cat) && words.every(function (w) { return c._q.indexOf(w) !== -1; });
         c.hidden = !ok;
         if (ok) n++;
       });
+      rank(words);
       count.textContent = n;
       empty.hidden = n > 0;
-      document.body.classList.toggle('filtering', !!(cat || words.length));
+      var filtering = !!(cat || words.length);
+      document.body.classList.toggle('filtering', filtering);
+      document.body.classList.toggle('in-cat', !!cat);
       chips.forEach(function (ch) { var on = ch.getAttribute('data-cat') === cat; ch.classList.toggle('on', on); ch.setAttribute('aria-pressed', on); });
-      if (scroll) $('.all').scrollIntoView({ block: 'start' });
-      // The address bar follows the category, so it can be copied and sent as is.
-      try {
-        var u = new URL(location.href);
-        if (cat) u.searchParams.set('cat', cat); else u.searchParams.delete('cat');
-        if (u.href !== location.href) history.replaceState(null, '', u.href);
-      } catch (e) {}
+      var chip = cat && $('.chip[data-cat="' + cat + '"]');
+      if (chip) {
+        var he = $('.t-he', chip), en = $('.t-en', chip);
+        title.innerHTML = '';
+        title.appendChild(document.createTextNode(chip.getAttribute('data-emoji') + ' '));
+        if (he) title.appendChild(he.cloneNode(true));
+        if (en) title.appendChild(en.cloneNode(true));
+        if (chip.scrollIntoView) chip.scrollIntoView({ block: 'nearest', inline: 'center' });
+      } else title.innerHTML = allTitle;
+      back.hidden = !cat;
       if (share) share.hidden = !cat;
+      if (filtering && !wasFiltering) toResults();
+      wasFiltering = filtering;
+    }
+    function setCat(c) {
+      c = c || '';
+      if (c === cat) { toResults(); return; }
+      cat = c;
+      try {
+        var h = catUrl(cat);
+        if (h !== location.href) { history.pushState({ cat: cat }, '', h); pushed++; }
+      } catch (e) {}
+      wasFiltering = false;
+      run();
+      if (cat) toResults();
     }
     // "Share this category": the /c/<key>/ link, whose preview shows that category.
-    var share = $('#shareCat');
     if (share) share.addEventListener('click', function () {
       var url = share.getAttribute('data-base') + cat + '/';
       var chip = $('.chip[data-cat="' + cat + '"]');
       var lbl = chip && chip.querySelector(isEn() ? '.t-en' : '.t-he');
-      var title = lbl ? lbl.textContent.trim() : '';
-      if (navigator.share) { navigator.share({ title: title, url: url }).catch(function () {}); return; }
+      var t = lbl ? lbl.textContent.trim() : '';
+      if (navigator.share) { navigator.share({ title: t, url: url }).catch(function () {}); return; }
       var done = function () {
         var old = share.innerHTML;
         share.textContent = share.getAttribute(isEn() ? 'data-copied-en' : 'data-copied-he');
@@ -97,11 +153,30 @@
       if (navigator.clipboard) navigator.clipboard.writeText(url).then(done, function () { prompt('', url); });
       else prompt('', url);
     });
-    q.addEventListener('input', function () { run(false); });
-    q.addEventListener('keydown', function (e) { if (e.key === 'Enter') { e.preventDefault(); run(true); q.blur(); } });
-    chips.forEach(function (ch) { ch.addEventListener('click', function () { cat = ch.getAttribute('data-cat'); run(false); }); });
-    $$('[data-goto]').forEach(function (b) { b.addEventListener('click', function () { cat = b.getAttribute('data-goto'); run(true); }); });
-    try { var c0 = new URLSearchParams(location.search).get('cat'); if (c0) { cat = c0; run(false); setTimeout(function () { $('.chips').scrollIntoView({ block: 'start' }); }, 50); } } catch (e) {}
+    q.addEventListener('input', run);
+    q.addEventListener('focus', function () { if (window.innerWidth < 720) toResults(); });
+    q.addEventListener('keydown', function (e) {
+      if (e.key === 'Enter') { e.preventDefault(); q.blur(); }
+      else if (e.key === 'Escape') { q.value = ''; run(); }
+    });
+    chips.forEach(function (ch) { ch.addEventListener('click', function () { setCat(ch.getAttribute('data-cat')); }); });
+    $$('[data-goto]').forEach(function (b) { b.addEventListener('click', function (e) { e.preventDefault(); setCat(b.getAttribute('data-goto')); }); });
+    back.addEventListener('click', function () {
+      if (pushed > 0) { history.back(); return; }
+      setCat('');
+      if (!q.value) window.scrollTo(0, 0);
+    });
+    window.addEventListener('popstate', function () {
+      var c = '';
+      try { c = new URLSearchParams(location.search).get('cat') || ''; } catch (e) {}
+      if (pushed > 0) pushed--;
+      cat = c; wasFiltering = false; run();
+      if (!cat && !q.value) window.scrollTo(0, 0);
+    });
+    try {
+      var c0 = new URLSearchParams(location.search).get('cat');
+      if (c0 && $('.chip[data-cat="' + c0 + '"]')) { cat = c0; run(); setTimeout(toResults, 50); }
+    } catch (e) {}
   }
 
   /* ---------- home: hero carousel ---------- */
