@@ -25,7 +25,8 @@
 }
 
 *, *::before, *::after { box-sizing: border-box; }
-html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; }
+/* scroll-padding keeps anchor jumps and focused elements clear of the sticky bars (app.js sets the home value) */
+html { -webkit-text-size-adjust: 100%; scroll-behavior: smooth; scroll-padding-top: 72px; }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } * { transition: none !important; animation: none !important; } }
 body {
   margin: 0; background: var(--bg); color: var(--text); overflow-x: hidden;
@@ -169,29 +170,32 @@ html.en .t-he { display: none !important; }
 }
 .empty { text-align: center; color: var(--muted); padding: 40px 0; font-size: 1.05rem; }
 /* sticky search + category bar; results view */
-.finder { position: sticky; top: 61px; z-index: 40; background: color-mix(in srgb, var(--bg) 88%, transparent); backdrop-filter: saturate(1.6) blur(14px); -webkit-backdrop-filter: saturate(1.6) blur(14px); padding: 10px 0 2px; margin-top: 14px; }
+.finder { position: sticky; top: 61px; z-index: 40; background: var(--bg); padding: 10px 0 2px; margin-top: 14px; }
 .finder .search { margin: 0 auto; }
 .finder .chips { padding-top: 10px; padding-bottom: 8px; }
 .finder .search input { height: 50px; }
 body.filtering #extras, body.filtering .install { display: none; }
 body.filtering .all { margin-top: 14px; min-height: 70vh; }
-.back-btn { display: inline-flex; align-items: center; gap: 4px; border: 0; background: none; color: var(--brand); font: inherit; font-weight: 700; padding: 6px 0; margin-bottom: 4px; cursor: pointer; }
-.back-btn[hidden] { display: none; }
+.back-btn { gap: 4px; font-size: 1rem; padding: 6px 0; margin-bottom: 4px; }
 .back-btn svg { width: 18px; height: 18px; }
 [dir="rtl"] .chev.back svg { transform: none; }
 [dir="ltr"] .chev.back svg { transform: scaleX(-1); }
 /* category tiles */
 .cats { margin-top: 30px; }
 .cat-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(min(46%, 200px), 1fr)); gap: 12px; }
-.cat-tile { position: relative; display: grid; grid-template-columns: auto 1fr; grid-template-areas: "emo name" "emo count" "icons icons"; column-gap: 12px; row-gap: 2px; align-items: center; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 14px; box-shadow: var(--shadow); text-decoration: none; color: inherit; transition: transform .18s, box-shadow .18s, border-color .18s; }
+.cat-tile { position: relative; display: grid; grid-template-columns: auto minmax(0, 1fr); grid-template-areas: "emo name" "emo count" "icons icons"; column-gap: 12px; row-gap: 2px; align-items: center; background: var(--surface); border: 1px solid var(--line); border-radius: var(--r); padding: 14px; box-shadow: var(--shadow); text-decoration: none; color: inherit; transition: transform .18s, box-shadow .18s, border-color .18s; }
 .cat-tile:hover { transform: translateY(-2px); box-shadow: var(--shadow-lg); border-color: var(--brand); }
-.cat-tile:focus-visible { outline: 3px solid var(--brand); outline-offset: 2px; }
 .cat-emoji { grid-area: emo; font-size: 1.9rem; line-height: 1; width: 48px; height: 48px; display: grid; place-items: center; border-radius: 14px; background: var(--surface-2); }
-.cat-name { grid-area: name; font-weight: 800; font-size: 1rem; line-height: 1.25; min-width: 0; overflow-wrap: anywhere; }
+.cat-name { grid-area: name; font-weight: 800; font-size: 1rem; line-height: 1.25; min-width: 0; overflow-wrap: break-word; }
 .cat-count { grid-area: count; color: var(--muted); font-size: .85rem; }
 .cat-icons { grid-area: icons; display: flex; gap: 6px; margin-top: 10px; }
 .cat-icons img { width: 28px; height: 28px; border-radius: 8px; box-shadow: 0 1px 3px rgba(0,0,0,.12); }
-@media (max-width: 380px) { .cat-tile { padding: 12px; column-gap: 10px; } .cat-emoji { width: 40px; height: 40px; font-size: 1.5rem; } .cat-name { font-size: .92rem; } }
+/* phones: emoji above the name, so a one-word name gets the tile's full width instead of breaking mid-word */
+@media (max-width: 480px) {
+  .cat-tile { grid-template-columns: minmax(0, 1fr); grid-template-areas: "emo" "name" "count" "icons"; row-gap: 2px; padding: 12px; }
+  .cat-emoji { width: 40px; height: 40px; font-size: 1.5rem; margin-bottom: 6px; }
+}
+@media (max-width: 360px) { .cat-name { font-size: .92rem; } }
 @media (max-width: 480px) { .mosaic a:nth-child(n+13) { display: none; } }
 
 /* install */

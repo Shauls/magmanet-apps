@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://shauls.github.io/magmanet-apps/</loc><lastmod>2026-11-07</lastmod><priority>1.0</priority></url>
+<url><loc>https://shauls.github.io/magmanet-apps/</loc><lastmod>2026-11-09</lastmod><priority>1.0</priority></url>
 <url><loc>https://shauls.github.io/magmanet-apps/apps/perfavore/</loc><lastmod>2026-10-30</lastmod></url>
 <url><loc>https://shauls.github.io/magmanet-apps/apps/blackjack-secret/</loc><lastmod>2026-10-30</lastmod></url>
 <url><loc>https://shauls.github.io/magmanet-apps/apps/book-tracker/</loc><lastmod>2026-10-30</lastmod></url>
@@ -234,4 +234,5 @@
 <url><loc>https://shauls.github.io/magmanet-apps/apps/phoneband/</loc><lastmod>2026-11-07</lastmod></url>
 <url><loc>https://shauls.github.io/magmanet-apps/apps/tinykingdoms/</loc><lastmod>2026-11-07</lastmod></url>
 <url><loc>https://shauls.github.io/magmanet-apps/apps/kitchenrush/</loc><lastmod>2026-11-07</lastmod></url>
+<url><loc>https://shauls.github.io/magmanet-apps/apps/facilitation/</loc><lastmod>2026-11-09</lastmod></url>
 </urlset>

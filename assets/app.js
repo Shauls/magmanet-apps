@@ -57,14 +57,18 @@
   /* ---------- home: search + category filter ---------- */
   // Typing or picking a category turns the home page into a results view: the
   // carousel, category tiles, shelves and install help hide, and the matching apps
-  // sit right under the sticky search bar. A category is its own history entry
-  // (?cat=kids), so the back button leaves it and the link can be shared.
+  // sit right under the sticky search bar. Entering a category from the all-apps view
+  // pushes ONE history entry (?cat=kids), marked in history.state; switching between
+  // categories replaces it. So the phone's Back button and "All apps" both return to
+  // the all-apps view, and the link can be shared.
   var grid = $('#grid');
-  if (grid) {
-    var q = $('#q'), cards = $$('.card', grid), chips = $$('.chip'), empty = $('#empty'), count = $('#count');
-    var finder = $('#finder'), back = $('#backAll'), title = $('#allTitle'), allTitle = title.innerHTML;
+  var q = $('#q'), finder = $('#finder'), finderAt = $('#finderAt'), back = $('#backAll'), title = $('#allTitle');
+  if (grid && q && finder && finderAt && back && title) {
+    var cards = $$('.card', grid), chips = $$('.chip'), empty = $('#empty'), count = $('#count');
+    var allTitle = title.innerHTML, heading = $('#all-h');
+    var allChip = chips.filter(function (ch) { return !ch.getAttribute('data-cat'); })[0];
     var share = $('#shareCat'), topbar = $('.topbar');
-    var cat = '', wasFiltering = false, pushed = 0;
+    var cat = '', wasFiltering = false, order = 'orig';
     var FINALS = 'ךםןףץ', PLAIN = 'כמנפצ';
     var norm = function (s) {
       return (s || '').toLowerCase()
@@ -73,46 +77,72 @@
         .replace(/[ךםןףץ]/g, function (ch) { return PLAIN.charAt(FINALS.indexOf(ch)); })
         .trim();
     };
-    cards.forEach(function (c, i) { c._q = norm(c.getAttribute('data-q')); c._n = norm(c.getAttribute('data-n')); c._t = norm(c.getAttribute('data-t')); c._i = i; });
-    var ranked = false;
-    function rank(words) {
-      // name matches first, then tagline matches, then the rest (features, category)
-      if (!words.length && !ranked) return;
-      var score = function (c) {
-        if (!words.length) return 0;
-        var s = 0;
-        words.forEach(function (w) { s += c._n.indexOf(w) !== -1 ? 0 : c._t.indexOf(w) !== -1 ? 1 : 2; });
-        return s;
-      };
-      cards.slice().sort(function (a, b) { return (score(a) - score(b)) || (a._i - b._i); })
-        .forEach(function (c) { grid.appendChild(c); });
-      ranked = words.length > 0;
+    // data-q is "name | tagline | the rest" (build.py app_card)
+    cards.forEach(function (c, i) {
+      var parts = norm(c.getAttribute('data-q')).split('|');
+      c._q = parts.join(' '); c._n = parts[0] || ''; c._t = parts[1] || ''; c._i = i;
+    });
+    function chipFor(c) { return chips.filter(function (ch) { return ch.getAttribute('data-cat') === c; })[0] || null; }
+    function validCat(c) { return c && chipFor(c) ? c : ''; }
+    function urlCat() { try { return validCat(new URLSearchParams(location.search).get('cat') || ''); } catch (e) { return ''; } }
+    function rank(words, matches) {
+      // name matches first, then tagline matches, then the rest (features, category);
+      // only the matches move, and only when their order actually changes
+      var list = cards, key = 'orig';
+      if (words.length) {
+        matches.forEach(function (c) {
+          var s = 0;
+          words.forEach(function (w) { s += c._n.indexOf(w) !== -1 ? 0 : c._t.indexOf(w) !== -1 ? 1 : 2; });
+          c._s = s;
+        });
+        list = matches.slice().sort(function (a, b) { return (a._s - b._s) || (a._i - b._i); });
+        key = list.map(function (c) { return c._i; }).join(',');
+      }
+      if (key === order) return;
+      order = key;
+      var frag = document.createDocumentFragment();
+      list.forEach(function (c) { frag.appendChild(c); });
+      grid.appendChild(frag);
+    }
+    function stickyTop() {
+      return parseFloat(getComputedStyle(finder).top) || (topbar ? topbar.offsetHeight : 0);
+    }
+    function resultsY() {
+      // the scroll position that puts the search bar right under the top bar, results under it.
+      // Measured from #finderAt (not sticky), because the stuck bar's own rect never moves.
+      var mt = parseFloat(getComputedStyle(finder).marginTop) || 0;
+      return Math.max(0, Math.round(finderAt.getBoundingClientRect().top + window.pageYOffset + mt - stickyTop()));
     }
     function toResults() {
-      // put the search bar at the top of the screen, results right under it
-      var top = finder.getBoundingClientRect().top + window.pageYOffset - (topbar ? topbar.offsetHeight : 0);
-      if (window.pageYOffset < top - 2 || window.pageYOffset > top + 2) window.scrollTo(0, top);
+      var y = resultsY();
+      if (Math.abs(window.pageYOffset - y) > 2) window.scrollTo(0, y);
     }
+    function padTop() {
+      // anchor jumps and focus scrolling must clear the top bar AND the sticky search bar
+      doc.style.scrollPaddingTop = Math.round(stickyTop() + finder.offsetHeight + 8) + 'px';
+    }
+    padTop();
+    window.addEventListener('resize', padTop);
     function catUrl(c) {
       var u = new URL(location.href);
       if (c) u.searchParams.set('cat', c); else u.searchParams.delete('cat');
+      u.hash = '';
       return u.href;
     }
-    function run() {
-      var words = norm(q.value).split(/\s+/).filter(Boolean), n = 0;
+    function run(scroll) {
+      var words = norm(q.value).split(/\s+/).filter(Boolean), matches = [];
       cards.forEach(function (c) {
         var ok = (!cat || c.getAttribute('data-cat') === cat) && words.every(function (w) { return c._q.indexOf(w) !== -1; });
         c.hidden = !ok;
-        if (ok) n++;
+        if (ok) matches.push(c);
       });
-      rank(words);
-      count.textContent = n;
-      empty.hidden = n > 0;
+      rank(words, matches);
+      count.textContent = matches.length;
+      if (empty) empty.hidden = matches.length > 0;
       var filtering = !!(cat || words.length);
       document.body.classList.toggle('filtering', filtering);
-      document.body.classList.toggle('in-cat', !!cat);
       chips.forEach(function (ch) { var on = ch.getAttribute('data-cat') === cat; ch.classList.toggle('on', on); ch.setAttribute('aria-pressed', on); });
-      var chip = cat && $('.chip[data-cat="' + cat + '"]');
+      var chip = cat && chipFor(cat);
       if (chip) {
         var he = $('.t-he', chip), en = $('.t-en', chip);
         title.innerHTML = '';
@@ -123,25 +153,37 @@
       } else title.innerHTML = allTitle;
       back.hidden = !cat;
       if (share) share.hidden = !cat;
-      if (filtering && !wasFiltering) toResults();
+      if (scroll !== false) {
+        // entering results, or refining while scrolled past their top: show the top results.
+        // Leaving results: back to the top of the page (the carousel and tiles come back).
+        if (filtering && (!wasFiltering || window.pageYOffset > resultsY() + 2)) toResults();
+        else if (!filtering && wasFiltering) window.scrollTo(0, 0);
+      }
       wasFiltering = filtering;
     }
+    function inPushed() { return !!(history.state && history.state.mgCat); }
     function setCat(c) {
-      c = c || '';
-      if (c === cat) { toResults(); return; }
+      c = validCat(c || '');
+      if (c === cat) { if (c) toResults(); return; }
+      if (!c && inPushed()) { history.back(); return; }   // popstate shows the all-apps view
+      var prev = cat;
       cat = c;
       try {
         var h = catUrl(cat);
-        if (h !== location.href) { history.pushState({ cat: cat }, '', h); pushed++; }
+        if (cat && !prev && !inPushed()) history.pushState({ mgCat: 1 }, '', h);
+        else history.replaceState(history.state, '', h);
       } catch (e) {}
-      wasFiltering = false;
       run();
       if (cat) toResults();
+    }
+    function focusResults() {
+      // the control the user activated may now be hidden; keep focus (and the screen reader) on the results
+      if (heading) try { heading.focus({ preventScroll: true }); } catch (e) { heading.focus(); }
     }
     // "Share this category": the /c/<key>/ link, whose preview shows that category.
     if (share) share.addEventListener('click', function () {
       var url = share.getAttribute('data-base') + cat + '/';
-      var chip = $('.chip[data-cat="' + cat + '"]');
+      var chip = chipFor(cat);
       var lbl = chip && chip.querySelector(isEn() ? '.t-en' : '.t-he');
       var t = lbl ? lbl.textContent.trim() : '';
       if (navigator.share) { navigator.share({ title: t, url: url }).catch(function () {}); return; }
@@ -153,30 +195,52 @@
       if (navigator.clipboard) navigator.clipboard.writeText(url).then(done, function () { prompt('', url); });
       else prompt('', url);
     });
-    q.addEventListener('input', run);
+    q.addEventListener('input', function () { run(); });
     q.addEventListener('focus', function () { if (window.innerWidth < 720) toResults(); });
     q.addEventListener('keydown', function (e) {
-      if (e.key === 'Enter') { e.preventDefault(); q.blur(); }
+      if (e.key === 'Enter') { e.preventDefault(); q.blur(); if (document.body.classList.contains('filtering')) toResults(); }
       else if (e.key === 'Escape') { q.value = ''; run(); }
     });
     chips.forEach(function (ch) { ch.addEventListener('click', function () { setCat(ch.getAttribute('data-cat')); }); });
-    $$('[data-goto]').forEach(function (b) { b.addEventListener('click', function (e) { e.preventDefault(); setCat(b.getAttribute('data-goto')); }); });
+    $$('[data-goto]').forEach(function (b) {
+      b.addEventListener('click', function (e) {
+        // let Ctrl/Cmd/Shift/middle-click on the tile links open a new tab or window
+        if (e.button || e.ctrlKey || e.metaKey || e.shiftKey || e.altKey) return;
+        e.preventDefault();
+        setCat(b.getAttribute('data-goto'));
+        focusResults();
+      });
+    });
     back.addEventListener('click', function () {
-      if (pushed > 0) { history.back(); return; }
+      if (allChip) try { allChip.focus({ preventScroll: true }); } catch (e) {}
       setCat('');
-      if (!q.value) window.scrollTo(0, 0);
+    });
+    // "How to install" links (footer) jump to #install, which the results view hides: leave it first
+    $$('a[href*="#install"]').forEach(function (a) {
+      a.addEventListener('click', function () {
+        if (!document.body.classList.contains('filtering')) return;
+        q.value = '';
+        cat = '';
+        try { history.replaceState(null, '', catUrl('')); } catch (e) {}
+        run(false);
+      });
     });
     window.addEventListener('popstate', function () {
-      var c = '';
-      try { c = new URLSearchParams(location.search).get('cat') || ''; } catch (e) {}
-      if (pushed > 0) pushed--;
-      cat = c; wasFiltering = false; run();
-      if (!cat && !q.value) window.scrollTo(0, 0);
+      // keep ?lang matching the language the page shows now, whatever entry Back restored
+      try {
+        var u = new URL(location.href);
+        if ((u.searchParams.get('lang') === 'en') !== isEn()) {
+          if (isEn()) u.searchParams.set('lang', 'en'); else u.searchParams.delete('lang');
+          history.replaceState(history.state, '', u.href);
+        }
+      } catch (e) {}
+      var c = urlCat();
+      if (c === cat) return;          // e.g. a #fragment jump: nothing to change
+      cat = c;
+      run(false);                     // the browser restores this entry's own scroll position
     });
-    try {
-      var c0 = new URLSearchParams(location.search).get('cat');
-      if (c0 && $('.chip[data-cat="' + c0 + '"]')) { cat = c0; run(); setTimeout(toResults, 50); }
-    } catch (e) {}
+    var c0 = urlCat();
+    if (c0) { cat = c0; run(false); setTimeout(toResults, 50); }
   }
 
   /* ---------- home: hero carousel ---------- */
