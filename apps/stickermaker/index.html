@@ -25,7 +25,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700;800&display=swap">
-<link rel="stylesheet" href="../../assets/style.css?v=95955bee6f">
+<link rel="stylesheet" href="../../assets/style.css?v=2b16ea7cca">
 <script>(function(){var d=document.documentElement,l='he',t='';try{var q=new URLSearchParams(location.search).get('lang');if(q==='en'||q==='he'){l=q;localStorage.setItem('mg-lang',q)}else{l=localStorage.getItem('mg-lang')||'he'}t=localStorage.getItem('mg-theme')||''}catch(e){}if(l==='en'){d.lang='en';d.dir='ltr';d.classList.add('en')}if(t)d.setAttribute('data-theme',t)})();</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Sticker Maker", "alternateName": "סטיקרים", "operatingSystem": "Android", "applicationCategory": "Creativity", "description": "Turn any photo into a sticker for chats with friends and family.", "softwareVersion": "1.0.0", "downloadUrl": "https://github.com/Shauls/magmanet-apps/releases/download/stickermaker/StickerMaker.apk", "image": "https://apps.magmanet.app/img/icons/stickermaker-512.png", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}}</script>
 </head>
@@ -51,6 +51,16 @@
   <a href="../../?cat=creative"><span class="t-he">יצירה ועיצוב</span><span class="t-en" lang="en">Creativity</span></a><span class="sep"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg></span>
   <span aria-current="page"><span class="t-he">סטיקרים</span><span class="t-en" lang="en">Sticker Maker</span></span>
 </nav>
+<section class="wrap invite" id="invite" hidden data-app="stickermaker" data-pkg="com.magmanet.stickermaker" aria-live="polite">
+  <div class="invite-card">
+    <p class="invite-title"><span class="invite-j"><span class="t-he">הוזמנת! קוד</span><span class="t-en" lang="en">You&#x27;re invited! Code</span></span><span class="invite-c" hidden><span class="t-he">הוזמנת! קוד שיתוף:</span><span class="t-en" lang="en">You&#x27;re invited! Share code:</span></span> <code id="inviteCode" dir="ltr"></code></p>
+    <div class="invite-btns">
+      <a class="btn btn-lg" id="inviteOpen" href="#download"><span class="t-he">פתיחה באפליקציה</span><span class="t-en" lang="en">Open in the app</span></a>
+      <button type="button" class="btn btn-lg btn-light" id="inviteCopy" data-copied-he="הקוד הועתק" data-copied-en="Code copied"><span class="t-he">העתקת הקוד</span><span class="t-en" lang="en">Copy code</span></button>
+    </div>
+    <p class="invite-hint"><span class="t-he">אין לך את האפליקציה? מתקינים, ואז מקישים שוב על הקישור (או מדביקים את הקוד).</span><span class="t-en" lang="en">Don&#x27;t have the app? Install it, then tap the link again (or paste the code).</span></p>
+  </div>
+</section>
 <div class="wrap"><div class="banner banner-plain" aria-hidden="true"></div></div>
 <section class="wrap app-head">
   <img class="app-icon icon-big" src="../../img/icons/stickermaker-512.png" width="128" height="128" alt="הסמל של סטיקרים" data-alt-he="הסמל של סטיקרים" data-alt-en="Sticker Maker icon">
@@ -58,7 +68,7 @@
     <h1><span class="t-he">סטיקרים</span><span class="t-en" lang="en">Sticker Maker</span></h1>
     <p class="tagline tagline-big"><span class="t-he">הופכים כל תמונה לסטיקר לצ׳אטים עם חברים ומשפחה.</span><span class="t-en" lang="en">Turn any photo into a sticker for chats with friends and family.</span></p>
     <div class="badges"><a class="badge cat" href="../../?cat=creative">🎨 <span class="t-he">יצירה ועיצוב</span><span class="t-en" lang="en">Creativity</span></a><span class="badge "><span class="t-he">כל מי ששולח סטיקרים לחברים ולמשפחה</span><span class="t-en" lang="en">Anyone who sends stickers to friends and family</span></span><span class="badge "><span class="t-he">🌐 עברית, אנגלית</span><span class="t-en" lang="en">🌐 Hebrew, English</span></span><span class="badge ok"><span class="t-he">✈️ אופליין</span><span class="t-en" lang="en">✈️ Offline</span></span></div>
-    <div class="cta">
+    <div class="cta" id="download">
       <a class="btn btn-lg" href="https://github.com/Shauls/magmanet-apps/releases/download/stickermaker/StickerMaker.apk" download><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדת APK · ⁦40.7 MB⁩</span><span class="t-en" lang="en">Download APK · ⁦40.7 MB⁩</span></a>
       <span class="meta"><span class="t-he">גרסה ⁦1.0.0⁩ · ⁦40.7 MB⁩ · עודכן 7 בנובמבר 2026</span><span class="t-en" lang="en">Version ⁦1.0.0⁩ · ⁦40.7 MB⁩ · Updated November 7, 2026</span></span>
     </div>
@@ -108,6 +118,22 @@
     <div class="card-meta"><span class="cat-label">🎨 <span class="t-he">יצירה ועיצוב</span><span class="t-en" lang="en">Creativity</span></span></div>
   </div>
   <a class="btn btn-sm dl" href="https://github.com/Shauls/magmanet-apps/releases/download/pixelart/PixelArt.apk" aria-label="הורדה צביעה לפי מספרים – פיקסל ארט" data-aria-label-he="הורדה צביעה לפי מספרים – פיקסל ארט" data-aria-label-en="Download Color by Number: Pixel Art"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדה</span><span class="t-en" lang="en">Download</span></a>
+</article><article class="card compact" style="--accent:#ae6a27">
+  <img class="app-icon" src="../../img/icons/photostudio-192.png" width="72" height="72" loading="lazy" alt="הסמל של סטודיו לתמונות" data-alt-he="הסמל של סטודיו לתמונות" data-alt-en="Photo Studio icon">
+  <div class="card-body">
+    <h3><a class="stretch" href="../../apps/photostudio/"><span class="t-he">סטודיו לתמונות</span><span class="t-en" lang="en">Photo Studio</span></a></h3>
+    <p class="tagline"><span class="t-he">עורך תמונות יפהפה שכל מה שבו נשאר בטלפון.</span><span class="t-en" lang="en">A beautiful photo editor that keeps everything on your phone.</span></p>
+    <div class="card-meta"><span class="cat-label">🎨 <span class="t-he">יצירה ועיצוב</span><span class="t-en" lang="en">Creativity</span></span></div>
+  </div>
+  <a class="btn btn-sm dl" href="https://github.com/Shauls/magmanet-apps/releases/download/photostudio/PhotoStudio.apk" aria-label="הורדה סטודיו לתמונות" data-aria-label-he="הורדה סטודיו לתמונות" data-aria-label-en="Download Photo Studio"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדה</span><span class="t-en" lang="en">Download</span></a>
+</article><article class="card compact" style="--accent:#9e4637">
+  <img class="app-icon" src="../../img/icons/calligraphy-192.png" width="72" height="72" loading="lazy" alt="הסמל של קולמוס" data-alt-he="הסמל של קולמוס" data-alt-en="Nib Studio icon">
+  <div class="card-body">
+    <h3><a class="stretch" href="../../apps/calligraphy/"><span class="t-he">קולמוס</span><span class="t-en" lang="en">Nib Studio</span></a></h3>
+    <p class="tagline"><span class="t-he">דיו, נייר ויד רגועה. אות אחר אות.</span><span class="t-en" lang="en">Ink, paper and a calm hand. One letter at a time.</span></p>
+    <div class="card-meta"><span class="cat-label">🎨 <span class="t-he">יצירה ועיצוב</span><span class="t-en" lang="en">Creativity</span></span></div>
+  </div>
+  <a class="btn btn-sm dl" href="https://github.com/Shauls/magmanet-apps/releases/download/calligraphy/NibStudio.apk" aria-label="הורדה קולמוס" data-aria-label-he="הורדה קולמוס" data-aria-label-en="Download Nib Studio"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדה</span><span class="t-en" lang="en">Download</span></a>
 </article><article class="card compact" style="--accent:#9b3a5e">
   <img class="app-icon" src="../../img/icons/rowcounter-192.png" width="72" height="72" loading="lazy" alt="הסמל של שורות ועיניים" data-alt-he="הסמל של שורות ועיניים" data-alt-en="Stitch Tally icon">
   <div class="card-body">
@@ -124,6 +150,14 @@
     <div class="card-meta"><span class="cat-label">🎨 <span class="t-he">יצירה ועיצוב</span><span class="t-en" lang="en">Creativity</span></span></div>
   </div>
   <a class="btn btn-sm dl" href="https://github.com/Shauls/magmanet-apps/releases/download/mememaker/MemeMaker.apk" aria-label="הורדה מחולל ממים – בעברית" data-aria-label-he="הורדה מחולל ממים – בעברית" data-aria-label-en="Download Meme Maker: Hebrew &amp; English"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדה</span><span class="t-en" lang="en">Download</span></a>
+</article><article class="card compact" style="--accent:#ae3b27">
+  <img class="app-icon" src="../../img/icons/flipbook-192.png" width="72" height="72" loading="lazy" alt="הסמל של דפדפת" data-alt-he="הסמל של דפדפת" data-alt-en="Flipbook icon">
+  <div class="card-body">
+    <h3><a class="stretch" href="../../apps/flipbook/"><span class="t-he">דפדפת</span><span class="t-en" lang="en">Flipbook</span></a></h3>
+    <p class="tagline"><span class="t-he">סטודיו לאנימציה מצוירת ביד: שכבת בצל, ציר זמן ו-GIF בלחיצה.</span><span class="t-en" lang="en">A hand-drawn animation studio: onion skin, a timeline and GIFs in a tap.</span></p>
+    <div class="card-meta"><span class="cat-label">🎨 <span class="t-he">יצירה ועיצוב</span><span class="t-en" lang="en">Creativity</span></span></div>
+  </div>
+  <a class="btn btn-sm dl" href="https://github.com/Shauls/magmanet-apps/releases/download/flipbook/Flipbook.apk" aria-label="הורדה דפדפת" data-aria-label-he="הורדה דפדפת" data-aria-label-en="Download Flipbook"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדה</span><span class="t-en" lang="en">Download</span></a>
 </article><article class="card compact" style="--accent:#9b593a">
   <img class="app-icon" src="../../img/icons/pottery-192.png" width="72" height="72" loading="lazy" alt="הסמל של סדנת החימר" data-alt-he="הסמל של סדנת החימר" data-alt-en="Quiet Clay icon">
   <div class="card-body">
@@ -140,30 +174,6 @@
     <div class="card-meta"><span class="cat-label">🎨 <span class="t-he">יצירה ועיצוב</span><span class="t-en" lang="en">Creativity</span></span></div>
   </div>
   <a class="btn btn-sm dl" href="https://github.com/Shauls/magmanet-apps/releases/download/atelier/Atelier.apk" aria-label="הורדה אטלייה" data-aria-label-he="הורדה אטלייה" data-aria-label-en="Download Atelier"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדה</span><span class="t-en" lang="en">Download</span></a>
-</article><article class="card compact" style="--accent:#9b3a52">
-  <img class="app-icon" src="../../img/icons/greetings-192.png" width="72" height="72" loading="lazy" alt="הסמל של ברכות" data-alt-he="הסמל של ברכות" data-alt-en="Greeting Cards icon">
-  <div class="card-body">
-    <h3><a class="stretch" href="../../apps/greetings/"><span class="t-he">ברכות</span><span class="t-en" lang="en">Greeting Cards</span></a></h3>
-    <p class="tagline"><span class="t-he">כרטיסי ברכה יפים לקבוצת המשפחה, מוכנים בדקה.</span><span class="t-en" lang="en">Beautiful greeting cards for the family group, ready in a minute.</span></p>
-    <div class="card-meta"><span class="cat-label">🎨 <span class="t-he">יצירה ועיצוב</span><span class="t-en" lang="en">Creativity</span></span></div>
-  </div>
-  <a class="btn btn-sm dl" href="https://github.com/Shauls/magmanet-apps/releases/download/greetings/Greetings.apk" aria-label="הורדה ברכות" data-aria-label-he="הורדה ברכות" data-aria-label-en="Download Greeting Cards"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדה</span><span class="t-en" lang="en">Download</span></a>
-</article><article class="card compact" style="--accent:#a55a31">
-  <img class="app-icon" src="../../img/icons/photoprompt-192.png" width="72" height="72" loading="lazy" alt="הסמל של צילום היום" data-alt-he="הסמל של צילום היום" data-alt-en="Photo of the Day icon">
-  <div class="card-body">
-    <h3><a class="stretch" href="../../apps/photoprompt/"><span class="t-he">צילום היום</span><span class="t-en" lang="en">Photo of the Day</span></a></h3>
-    <p class="tagline"><span class="t-he">משימת צילום אחת ביום – לכולם אותה משימה.</span><span class="t-en" lang="en">One photo prompt a day – the same for everyone.</span></p>
-    <div class="card-meta"><span class="cat-label">🎨 <span class="t-he">יצירה ועיצוב</span><span class="t-en" lang="en">Creativity</span></span></div>
-  </div>
-  <a class="btn btn-sm dl" href="https://github.com/Shauls/magmanet-apps/releases/download/photoprompt/PhotoPrompt.apk" aria-label="הורדה צילום היום" data-aria-label-he="הורדה צילום היום" data-aria-label-en="Download Photo of the Day"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדה</span><span class="t-en" lang="en">Download</span></a>
-</article><article class="card compact" style="--accent:#3415c0">
-  <img class="app-icon" src="../../img/icons/pixelwall-192.png" width="72" height="72" loading="lazy" alt="הסמל של קיר פיקסלים" data-alt-he="הסמל של קיר פיקסלים" data-alt-en="Pixel Wall icon">
-  <div class="card-body">
-    <h3><a class="stretch" href="../../apps/pixelwall/"><span class="t-he">קיר פיקסלים</span><span class="t-en" lang="en">Pixel Wall</span></a></h3>
-    <p class="tagline"><span class="t-he">פיקסל אחד לכל אחד, תמונה אחת לכולם.</span><span class="t-en" lang="en">One pixel each, one picture together.</span></p>
-    <div class="card-meta"><span class="cat-label">🎨 <span class="t-he">יצירה ועיצוב</span><span class="t-en" lang="en">Creativity</span></span></div>
-  </div>
-  <a class="btn btn-sm dl" href="https://github.com/Shauls/magmanet-apps/releases/download/pixelwall/PixelWall.apk" aria-label="הורדה קיר פיקסלים" data-aria-label-he="הורדה קיר פיקסלים" data-aria-label-en="Download Pixel Wall"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדה</span><span class="t-en" lang="en">Download</span></a>
 </article></div></section>
 </div>
 </div>
@@ -174,7 +184,25 @@
   <button type="button" class="lb-nav lb-next" aria-label="הבא" data-aria-label-he="הבא" data-aria-label-en="Next"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg></button>
   <div class="lb-count" id="lbCount"></div>
 </div>
-
+<script>(function(){var s=document.getElementById('invite');if(!s)return;
+var h=(location.hash||'').slice(1),m,k,v,x='',shown;
+if((m=/^j=([A-Za-z2-9]{3})-?([A-Za-z2-9]{3})((?:&[a-z]{1,8}=[A-Za-z0-9]{1,16})*)$/.exec(h))){k='j';v=(m[1]+'-'+m[2]).toUpperCase();x=m[3];if(!/^[A-Z2-9]{3}-[A-Z2-9]{3}$/.test(v))k=''}
+else if((m=/^c=(.{3,4000})$/.exec(h))){try{v=decodeURIComponent(m[1]).trim()}catch(e){v=''}
+if(/^[\x21-\x7e]{3,3000}$/.test(v))k='c'}
+if(!k)return;
+shown=v.length>40?v.slice(0,36)+'\u2026':v;
+var app=s.getAttribute('data-app'),pkg=s.getAttribute('data-pkg'),o=document.getElementById('inviteOpen'),cp=document.getElementById('inviteCopy');
+document.getElementById('inviteCode').textContent=shown;
+if(k==='c'){s.querySelector('.invite-j').hidden=true;s.querySelector('.invite-c').hidden=false}
+s.hidden=false;
+function fallback(done){try{var t=document.createElement('textarea');t.value=v;t.setAttribute('readonly','');t.style.position='fixed';t.style.opacity='0';document.body.appendChild(t);t.select();document.execCommand('copy');document.body.removeChild(t);if(done)done()}catch(e){}}
+function copy(done){try{if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(v).then(done,function(){fallback(done)});return}}catch(e){}fallback(done)}
+var page=location.href.split('#')[0]+'#download';
+o.addEventListener('click',function(e){copy();
+if(/android/i.test(navigator.userAgent)){e.preventDefault();
+location.href='intent://join?app='+encodeURIComponent(app)+'&'+k+'='+encodeURIComponent(v)+x+'#Intent;scheme=magmanet;package='+pkg+';S.browser_fallback_url='+encodeURIComponent(page)+';end'}});
+cp.addEventListener('click',function(){copy(function(){var l=document.documentElement.classList.contains('en');cp.textContent=cp.getAttribute(l?'data-copied-en':'data-copied-he')})});
+})();</script>
 </main>
 <footer class="footer">
   <div class="wrap footer-in">
@@ -190,6 +218,6 @@
   </div>
   <div class="wrap copy">© 2026 Magmanet</div>
 </footer>
-<script src="../../assets/app.js?v=95955bee6f" defer></script>
+<script src="../../assets/app.js?v=2b16ea7cca" defer></script>
 </body>
 </html>
