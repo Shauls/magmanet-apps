@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://apps.magmanet.app/</loc><lastmod>2026-11-20</lastmod><priority>1.0</priority></url>
+<url><loc>https://apps.magmanet.app/</loc><lastmod>2026-11-21</lastmod><priority>1.0</priority></url>
 <url><loc>https://apps.magmanet.app/apps/perfavore/</loc><lastmod>2026-10-30</lastmod></url>
 <url><loc>https://apps.magmanet.app/apps/blackjack-secret/</loc><lastmod>2026-10-30</lastmod></url>
 <url><loc>https://apps.magmanet.app/apps/book-tracker/</loc><lastmod>2026-10-30</lastmod></url>
@@ -250,4 +250,14 @@
 <url><loc>https://apps.magmanet.app/apps/worldmap/</loc><lastmod>2026-11-14</lastmod></url>
 <url><loc>https://apps.magmanet.app/apps/idioms/</loc><lastmod>2026-11-14</lastmod></url>
 <url><loc>https://apps.magmanet.app/apps/frenchkids/</loc><lastmod>2026-11-14</lastmod></url>
+<url><loc>https://apps.magmanet.app/apps/matkot/</loc><lastmod>2026-11-21</lastmod></url>
+<url><loc>https://apps.magmanet.app/apps/humhero/</loc><lastmod>2026-11-21</lastmod></url>
+<url><loc>https://apps.magmanet.app/apps/wordknight/</loc><lastmod>2026-11-21</lastmod></url>
+<url><loc>https://apps.magmanet.app/apps/paperboat/</loc><lastmod>2026-11-21</lastmod></url>
+<url><loc>https://apps.magmanet.app/apps/lighthouse/</loc><lastmod>2026-11-21</lastmod></url>
+<url><loc>https://apps.magmanet.app/apps/paperplane/</loc><lastmod>2026-11-21</lastmod></url>
+<url><loc>https://apps.magmanet.app/apps/kibbutzfarm/</loc><lastmod>2026-11-21</lastmod></url>
+<url><loc>https://apps.magmanet.app/apps/familydetective/</loc><lastmod>2026-11-21</lastmod></url>
+<url><loc>https://apps.magmanet.app/apps/gardendefense/</loc><lastmod>2026-11-21</lastmod></url>
+<url><loc>https://apps.magmanet.app/apps/lightbender/</loc><lastmod>2026-11-21</lastmod></url>
 </urlset>
