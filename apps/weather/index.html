@@ -27,7 +27,7 @@
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700;800&display=swap">
 <link rel="stylesheet" href="../../assets/style.css?v=95955bee6f">
 <script>(function(){var d=document.documentElement,l='he',t='';try{var q=new URLSearchParams(location.search).get('lang');if(q==='en'||q==='he'){l=q;localStorage.setItem('mg-lang',q)}else{l=localStorage.getItem('mg-lang')||'he'}t=localStorage.getItem('mg-theme')||''}catch(e){}if(l==='en'){d.lang='en';d.dir='ltr';d.classList.add('en')}if(t)d.setAttribute('data-theme',t)})();</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Weather", "alternateName": "מזג אוויר", "operatingSystem": "Android", "applicationCategory": "Tools", "description": "Current conditions, hourly outlook and a 10-day forecast", "softwareVersion": "1.0.3", "downloadUrl": "https://github.com/Shauls/magmanet-apps/releases/download/weather/Weather.apk", "image": "https://apps.magmanet.app/img/icons/weather-512.png", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Weather", "alternateName": "מזג אוויר", "operatingSystem": "Android", "applicationCategory": "Outdoors & Nature", "description": "Current conditions, hourly outlook and a 10-day forecast", "softwareVersion": "1.0.3", "downloadUrl": "https://github.com/Shauls/magmanet-apps/releases/download/weather/Weather.apk", "image": "https://apps.magmanet.app/img/icons/weather-512.png", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}}</script>
 </head>
 <body class="app">
 <a class="skip" href="#main"><span class="t-he">דילוג לתוכן</span><span class="t-en" lang="en">Skip to content</span></a>
@@ -48,7 +48,7 @@
 <div class="app-page" style="--accent:#167ebf">
 <nav class="wrap crumbs" aria-label="Breadcrumb">
   <a href="../../"><span class="t-he">בית</span><span class="t-en" lang="en">Home</span></a><span class="sep"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg></span>
-  <a href="../../?cat=tools"><span class="t-he">כלים</span><span class="t-en" lang="en">Tools</span></a><span class="sep"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg></span>
+  <a href="../../?cat=outdoors"><span class="t-he">טבע ובחוץ</span><span class="t-en" lang="en">Outdoors &amp; Nature</span></a><span class="sep"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg></span>
   <span aria-current="page"><span class="t-he">מזג אוויר</span><span class="t-en" lang="en">Weather</span></span>
 </nav>
 <div class="wrap"><div class="banner banner-plain" aria-hidden="true"></div></div>
@@ -57,7 +57,7 @@
   <div class="app-title">
     <h1><span class="t-he">מזג אוויר</span><span class="t-en" lang="en">Weather</span></h1>
     <p class="tagline tagline-big"><span class="t-he">מזג האוויר עכשיו, תחזית שעתית ותחזית ל־10 ימים</span><span class="t-en" lang="en">Current conditions, hourly outlook and a 10-day forecast</span></p>
-    <div class="badges"><a class="badge cat" href="../../?cat=tools">🛠️ <span class="t-he">כלים</span><span class="t-en" lang="en">Tools</span></a><span class="badge "><span class="t-he">כל הגילים</span><span class="t-en" lang="en">Everyone</span></span><span class="badge "><span class="t-he">🌐 אנגלית</span><span class="t-en" lang="en">🌐 English</span></span><span class="badge "><span class="t-he">📶 דורשת אינטרנט</span><span class="t-en" lang="en">📶 Needs internet</span></span></div>
+    <div class="badges"><a class="badge cat" href="../../?cat=outdoors">🌿 <span class="t-he">טבע ובחוץ</span><span class="t-en" lang="en">Outdoors &amp; Nature</span></a><span class="badge "><span class="t-he">כל הגילים</span><span class="t-en" lang="en">Everyone</span></span><span class="badge "><span class="t-he">🌐 אנגלית</span><span class="t-en" lang="en">🌐 English</span></span><span class="badge "><span class="t-he">📶 דורשת אינטרנט</span><span class="t-en" lang="en">📶 Needs internet</span></span></div>
     <div class="cta">
       <a class="btn btn-lg" href="https://github.com/Shauls/magmanet-apps/releases/download/weather/Weather.apk" download><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדת APK · ⁦55.6 MB⁩</span><span class="t-en" lang="en">Download APK · ⁦55.6 MB⁩</span></a>
       <span class="meta"><span class="t-he">גרסה ⁦1.0.3⁩ · ⁦55.6 MB⁩ · עודכן 30 באוקטובר 2026</span><span class="t-en" lang="en">Version ⁦1.0.3⁩ · ⁦55.6 MB⁩ · Updated October 30, 2026</span></span>
@@ -83,75 +83,27 @@
 <div class="prose"><div class="t-he"><p>תוקן: המתגים &quot;בדיקת עדכונים אוטומטית&quot; ו&quot;שיתוף נתוני שימוש אנונימיים&quot; בהגדרות נכבים ונדלקים שוב כרגיל</p></div><div class="t-en" lang="en"><p>Fixed: the &quot;Check for updates automatically&quot; and &quot;Share anonymous usage statistics&quot; switches in Settings turn off and on again</p></div></div></section>
   </div>
   <aside class="col-side">
-    <section class="block info-card" aria-labelledby="in-h"><h2 id="in-h"><span class="t-he">מידע</span><span class="t-en" lang="en">Information</span></h2><dl class="info"><div class="info-row"><dt><span class="t-he">גרסה</span><span class="t-en" lang="en">Version</span></dt><dd>1.0.3</dd></div><div class="info-row"><dt><span class="t-he">גודל</span><span class="t-en" lang="en">Size</span></dt><dd>⁦55.6 MB⁩</dd></div><div class="info-row"><dt><span class="t-he">עודכן</span><span class="t-en" lang="en">Updated</span></dt><dd><span class="t-he">30 באוקטובר 2026</span><span class="t-en" lang="en">October 30, 2026</span></dd></div><div class="info-row"><dt><span class="t-he">קטגוריה</span><span class="t-en" lang="en">Category</span></dt><dd><a href="../../?cat=tools">🛠️ <span class="t-he">כלים</span><span class="t-en" lang="en">Tools</span></a></dd></div><div class="info-row"><dt><span class="t-he">שפות</span><span class="t-en" lang="en">Languages</span></dt><dd><span class="t-he">אנגלית</span><span class="t-en" lang="en">English</span></dd></div><div class="info-row"><dt><span class="t-he">קהל יעד</span><span class="t-en" lang="en">Audience</span></dt><dd><span class="t-he">כל הגילים</span><span class="t-en" lang="en">Everyone</span></dd></div><div class="info-row"><dt><span class="t-he">חיבור</span><span class="t-en" lang="en">Connectivity</span></dt><dd><span class="t-he">דורשת אינטרנט</span><span class="t-en" lang="en">Needs internet</span></dd></div><div class="info-row"><dt><span class="t-he">הרשאות</span><span class="t-en" lang="en">Permissions</span></dt><dd><span class="t-he">אינטרנט לקבלת תחזיות וחיפוש ערים; מיקום משוער רק כשבוחרים ״המיקום שלי״; סטטיסטיקה אנונימית (ניתן לכבות).</span><span class="t-en" lang="en">Internet for forecasts and city search; approximate location only when you tap &quot;Use my location&quot;; anonymous stats (can be turned off).</span></dd></div><div class="info-row"><dt><span class="t-he">מדיניות פרטיות</span><span class="t-en" lang="en">Privacy policy</span></dt><dd><a href="../../privacy/weather.html"><span class="t-he">מדיניות פרטיות</span><span class="t-en" lang="en">Privacy policy</span></a></dd></div><div class="info-row"><dt><span class="t-he">מזהה חבילה</span><span class="t-en" lang="en">Package ID</span></dt><dd><code dir="ltr">com.magmanet.weather</code></dd></div></dl></section>
+    <section class="block info-card" aria-labelledby="in-h"><h2 id="in-h"><span class="t-he">מידע</span><span class="t-en" lang="en">Information</span></h2><dl class="info"><div class="info-row"><dt><span class="t-he">גרסה</span><span class="t-en" lang="en">Version</span></dt><dd>1.0.3</dd></div><div class="info-row"><dt><span class="t-he">גודל</span><span class="t-en" lang="en">Size</span></dt><dd>⁦55.6 MB⁩</dd></div><div class="info-row"><dt><span class="t-he">עודכן</span><span class="t-en" lang="en">Updated</span></dt><dd><span class="t-he">30 באוקטובר 2026</span><span class="t-en" lang="en">October 30, 2026</span></dd></div><div class="info-row"><dt><span class="t-he">קטגוריה</span><span class="t-en" lang="en">Category</span></dt><dd><a href="../../?cat=outdoors">🌿 <span class="t-he">טבע ובחוץ</span><span class="t-en" lang="en">Outdoors &amp; Nature</span></a></dd></div><div class="info-row"><dt><span class="t-he">שפות</span><span class="t-en" lang="en">Languages</span></dt><dd><span class="t-he">אנגלית</span><span class="t-en" lang="en">English</span></dd></div><div class="info-row"><dt><span class="t-he">קהל יעד</span><span class="t-en" lang="en">Audience</span></dt><dd><span class="t-he">כל הגילים</span><span class="t-en" lang="en">Everyone</span></dd></div><div class="info-row"><dt><span class="t-he">חיבור</span><span class="t-en" lang="en">Connectivity</span></dt><dd><span class="t-he">דורשת אינטרנט</span><span class="t-en" lang="en">Needs internet</span></dd></div><div class="info-row"><dt><span class="t-he">הרשאות</span><span class="t-en" lang="en">Permissions</span></dt><dd><span class="t-he">אינטרנט לקבלת תחזיות וחיפוש ערים; מיקום משוער רק כשבוחרים ״המיקום שלי״; סטטיסטיקה אנונימית (ניתן לכבות).</span><span class="t-en" lang="en">Internet for forecasts and city search; approximate location only when you tap &quot;Use my location&quot;; anonymous stats (can be turned off).</span></dd></div><div class="info-row"><dt><span class="t-he">מדיניות פרטיות</span><span class="t-en" lang="en">Privacy policy</span></dt><dd><a href="../../privacy/weather.html"><span class="t-he">מדיניות פרטיות</span><span class="t-en" lang="en">Privacy policy</span></a></dd></div><div class="info-row"><dt><span class="t-he">מזהה חבילה</span><span class="t-en" lang="en">Package ID</span></dt><dd><code dir="ltr">com.magmanet.weather</code></dd></div></dl></section>
   </aside>
 </div>
-<section class="block" aria-labelledby="mo-h"><div class="shelf-head"><h2 id="mo-h"><span class="t-he">עוד בכלים</span><span class="t-en" lang="en">More in Tools</span></h2>
-<a class="link-btn" href="../../?cat=tools"><span class="t-he">לכולן</span><span class="t-en" lang="en">See all</span> <span class="chev"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg></span></a></div>
-<div class="row-scroll"><article class="card compact" style="--accent:#3a489b">
-  <img class="app-icon" src="../../img/icons/calcpro-192.png" width="72" height="72" loading="lazy" alt="הסמל של מחשבון – מדעי, מתכנתים וגרפים" data-alt-he="הסמל של מחשבון – מדעי, מתכנתים וגרפים" data-alt-en="Calculator: Scientific &amp; Graph icon">
+<section class="block" aria-labelledby="mo-h"><div class="shelf-head"><h2 id="mo-h"><span class="t-he">עוד בטבע ובחוץ</span><span class="t-en" lang="en">More in Outdoors &amp; Nature</span></h2>
+<a class="link-btn" href="../../?cat=outdoors"><span class="t-he">לכולן</span><span class="t-en" lang="en">See all</span> <span class="chev"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="m9 6 6 6-6 6"/></svg></span></a></div>
+<div class="row-scroll"><article class="card compact" style="--accent:#333d8c">
+  <img class="app-icon" src="../../img/icons/stargazer-192.png" width="72" height="72" loading="lazy" alt="הסמל של רקיע" data-alt-he="הסמל של רקיע" data-alt-en="Stargazer icon">
   <div class="card-body">
-    <h3><a class="stretch" href="../../apps/calcpro/"><span class="t-he">מחשבון – מדעי, מתכנתים וגרפים</span><span class="t-en" lang="en">Calculator: Scientific &amp; Graph</span></a></h3>
-    <p class="tagline"><span class="t-he">רגיל, מדעי, מתכנתים וגרפים – מחשבון אחד לכל דבר.</span><span class="t-en" lang="en">Standard, scientific, programmer and graphing – one calculator for everything.</span></p>
-    <div class="card-meta"><span class="cat-label">🛠️ <span class="t-he">כלים</span><span class="t-en" lang="en">Tools</span></span></div>
+    <h3><a class="stretch" href="../../apps/stargazer/"><span class="t-he">רקיע</span><span class="t-en" lang="en">Stargazer</span></a></h3>
+    <p class="tagline"><span class="t-he">מכוונים לשמיים. פוגשים את הכוכבים.</span><span class="t-en" lang="en">Point at the sky. Meet the stars.</span></p>
+    <div class="card-meta"><span class="cat-label">🌿 <span class="t-he">טבע ובחוץ</span><span class="t-en" lang="en">Outdoors &amp; Nature</span></span></div>
   </div>
-  <a class="btn btn-sm dl" href="https://github.com/Shauls/magmanet-apps/releases/download/calcpro/CalcPro.apk" aria-label="הורדה מחשבון – מדעי, מתכנתים וגרפים" data-aria-label-he="הורדה מחשבון – מדעי, מתכנתים וגרפים" data-aria-label-en="Download Calculator: Scientific &amp; Graph"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדה</span><span class="t-en" lang="en">Download</span></a>
-</article><article class="card compact" style="--accent:#2d589c">
-  <img class="app-icon" src="../../img/icons/solidra-192.png" width="72" height="72" loading="lazy" alt="הסמל של Solidra CAD" data-alt-he="הסמל של Solidra CAD" data-alt-en="Solidra CAD icon">
+  <a class="btn btn-sm dl" href="https://github.com/Shauls/magmanet-apps/releases/download/stargazer/Stargazer.apk" aria-label="הורדה רקיע" data-aria-label-he="הורדה רקיע" data-aria-label-en="Download Stargazer"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדה</span><span class="t-en" lang="en">Download</span></a>
+</article><article class="card compact" style="--accent:#2c765f">
+  <img class="app-icon" src="../../img/icons/birdlog-192.png" width="72" height="72" loading="lazy" alt="הסמל של יומן ציפורים" data-alt-he="הסמל של יומן ציפורים" data-alt-en="Birdlog icon">
   <div class="card-body">
-    <h3><a class="stretch" href="../../apps/solidra/">Solidra CAD</a></h3>
-    <p class="tagline"><span class="t-he">מודלים תלת־ממדיים פרמטריים בטאבלט, עד הדפסה או כרסום</span><span class="t-en" lang="en">Parametric 3D modeling on your tablet, from sketch to print or mill</span></p>
-    <div class="card-meta"><span class="cat-label">🛠️ <span class="t-he">כלים</span><span class="t-en" lang="en">Tools</span></span></div>
+    <h3><a class="stretch" href="../../apps/birdlog/"><span class="t-he">יומן ציפורים</span><span class="t-en" lang="en">Birdlog</span></a></h3>
+    <p class="tagline"><span class="t-he">כל ציפור שראיתם, במקום אחד.</span><span class="t-en" lang="en">Every bird you see, in one place.</span></p>
+    <div class="card-meta"><span class="cat-label">🌿 <span class="t-he">טבע ובחוץ</span><span class="t-en" lang="en">Outdoors &amp; Nature</span></span></div>
   </div>
-  <a class="btn btn-sm dl" href="https://github.com/Shauls/magmanet-apps/releases/download/solidra/Solidra.apk" aria-label="הורדה Solidra CAD" data-aria-label-he="הורדה Solidra CAD" data-aria-label-en="Download Solidra CAD"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדה</span><span class="t-en" lang="en">Download</span></a>
-</article><article class="card compact" style="--accent:#3a5f9b">
-  <img class="app-icon" src="../../img/icons/luach-192.png" width="72" height="72" loading="lazy" alt="הסמל של לוח שנה עברי: חגים, זמנים, שבת" data-alt-he="הסמל של לוח שנה עברי: חגים, זמנים, שבת" data-alt-en="Hebrew Calendar &amp; Zmanim icon">
-  <div class="card-body">
-    <h3><a class="stretch" href="../../apps/luach/"><span class="t-he">לוח שנה עברי: חגים, זמנים, שבת</span><span class="t-en" lang="en">Hebrew Calendar &amp; Zmanim</span></a></h3>
-    <p class="tagline"><span class="t-he">תאריך עברי, חגים, זמני היום ושבת – בלי אינטרנט.</span><span class="t-en" lang="en">Hebrew date, holidays, zmanim and Shabbat – offline.</span></p>
-    <div class="card-meta"><span class="cat-label">🛠️ <span class="t-he">כלים</span><span class="t-en" lang="en">Tools</span></span></div>
-  </div>
-  <a class="btn btn-sm dl" href="https://github.com/Shauls/magmanet-apps/releases/download/luach/Luach.apk" aria-label="הורדה לוח שנה עברי: חגים, זמנים, שבת" data-aria-label-he="הורדה לוח שנה עברי: חגים, זמנים, שבת" data-aria-label-en="Download Hebrew Calendar &amp; Zmanim"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדה</span><span class="t-en" lang="en">Download</span></a>
-</article><article class="card compact" style="--accent:#3a6a9b">
-  <img class="app-icon" src="../../img/icons/letterhelp-192.png" width="72" height="72" loading="lazy" alt="הסמל של מה כתוב פה? – מכתבים בשפה פשוטה" data-alt-he="הסמל של מה כתוב פה? – מכתבים בשפה פשוטה" data-alt-en="What Does It Say? Letter Help icon">
-  <div class="card-body">
-    <h3><a class="stretch" href="../../apps/letterhelp/"><span class="t-he">מה כתוב פה? – מכתבים בשפה פשוטה</span><span class="t-en" lang="en">What Does It Say? Letter Help</span></a></h3>
-    <p class="tagline"><span class="t-he">מכתבים רשמיים, בשפה פשוטה.</span><span class="t-en" lang="en">Official letters, in plain language.</span></p>
-    <div class="card-meta"><span class="cat-label">🛠️ <span class="t-he">כלים</span><span class="t-en" lang="en">Tools</span></span></div>
-  </div>
-  <a class="btn btn-sm dl" href="https://github.com/Shauls/magmanet-apps/releases/download/letterhelp/LetterHelp.apk" aria-label="הורדה מה כתוב פה? – מכתבים בשפה פשוטה" data-aria-label-he="הורדה מה כתוב פה? – מכתבים בשפה פשוטה" data-aria-label-en="Download What Does It Say? Letter Help"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדה</span><span class="t-en" lang="en">Download</span></a>
-</article><article class="card compact" style="--accent:#3a469b">
-  <img class="app-icon" src="../../img/icons/password-generator-192.png" width="72" height="72" loading="lazy" alt="הסמל של מחולל סיסמאות" data-alt-he="הסמל של מחולל סיסמאות" data-alt-en="Password Generator icon">
-  <div class="card-body">
-    <h3><a class="stretch" href="../../apps/password-generator/"><span class="t-he">מחולל סיסמאות</span><span class="t-en" lang="en">Password Generator</span></a></h3>
-    <p class="tagline"><span class="t-he">סיסמאות חזקות, צירופי מילים וקודי PIN – הכול נוצר במכשיר</span><span class="t-en" lang="en">Strong passwords, passphrases and PINs – generated on your device</span></p>
-    <div class="card-meta"><span class="cat-label">🛠️ <span class="t-he">כלים</span><span class="t-en" lang="en">Tools</span></span></div>
-  </div>
-  <a class="btn btn-sm dl" href="https://github.com/Shauls/magmanet-apps/releases/download/password-generator/PasswordGenerator.apk" aria-label="הורדה מחולל סיסמאות" data-aria-label-he="הורדה מחולל סיסמאות" data-aria-label-en="Download Password Generator"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדה</span><span class="t-en" lang="en">Download</span></a>
-</article><article class="card compact" style="--accent:#128883">
-  <img class="app-icon" src="../../img/icons/qr-scanner-192.png" width="72" height="72" loading="lazy" alt="הסמל של סורק QR" data-alt-he="הסמל של סורק QR" data-alt-en="QR Scanner icon">
-  <div class="card-body">
-    <h3><a class="stretch" href="../../apps/qr-scanner/"><span class="t-he">סורק QR</span><span class="t-en" lang="en">QR Scanner</span></a></h3>
-    <p class="tagline"><span class="t-he">סורקים ויוצרים קודי QR וברקודים, עם בדיקת בטיחות לקישורים</span><span class="t-en" lang="en">Scan and create QR codes and barcodes, with link safety checks</span></p>
-    <div class="card-meta"><span class="cat-label">🛠️ <span class="t-he">כלים</span><span class="t-en" lang="en">Tools</span></span></div>
-  </div>
-  <a class="btn btn-sm dl" href="https://github.com/Shauls/magmanet-apps/releases/download/qr-scanner/QRScanner.apk" aria-label="הורדה סורק QR" data-aria-label-he="הורדה סורק QR" data-aria-label-en="Download QR Scanner"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדה</span><span class="t-en" lang="en">Download</span></a>
-</article><article class="card compact" style="--accent:#1a7585">
-  <img class="app-icon" src="../../img/icons/findfriends-192.png" width="72" height="72" loading="lazy" alt="הסמל של איפה כולם? – שיתוף מיקום" data-alt-he="הסמל של איפה כולם? – שיתוף מיקום" data-alt-en="Find Friends: Family Locator icon">
-  <div class="card-body">
-    <h3><a class="stretch" href="../../apps/findfriends/"><span class="t-he">איפה כולם? – שיתוף מיקום</span><span class="t-en" lang="en">Find Friends: Family Locator</span></a></h3>
-    <p class="tagline"><span class="t-he">רואים איפה המשפחה והחברים – רק מי שבחר לשתף, ומוצפן מקצה לקצה</span><span class="t-en" lang="en">See where family and friends are – only those who chose to share, end-to-end encrypted</span></p>
-    <div class="card-meta"><span class="cat-label">🛠️ <span class="t-he">כלים</span><span class="t-en" lang="en">Tools</span></span></div>
-  </div>
-  <a class="btn btn-sm dl" href="https://github.com/Shauls/magmanet-apps/releases/download/findfriends/FindFriends.apk" aria-label="הורדה איפה כולם? – שיתוף מיקום" data-aria-label-he="הורדה איפה כולם? – שיתוף מיקום" data-aria-label-en="Download Find Friends: Family Locator"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדה</span><span class="t-en" lang="en">Download</span></a>
-</article><article class="card compact" style="--accent:#a23391">
-  <img class="app-icon" src="../../img/icons/yearemoji-192.png" width="72" height="72" loading="lazy" alt="הסמל של השנה שלי באימוג׳י" data-alt-he="הסמל של השנה שלי באימוג׳י" data-alt-en="My Year in Emoji icon">
-  <div class="card-body">
-    <h3><a class="stretch" href="../../apps/yearemoji/"><span class="t-he">השנה שלי באימוג׳י</span><span class="t-en" lang="en">My Year in Emoji</span></a></h3>
-    <p class="tagline"><span class="t-he">סכמו את השנה שלכם באימוג׳ים ושתפו</span><span class="t-en" lang="en">Sum up your year in emojis and share it</span></p>
-    <div class="card-meta"><span class="cat-label">🛠️ <span class="t-he">כלים</span><span class="t-en" lang="en">Tools</span></span></div>
-  </div>
-  <a class="btn btn-sm dl" href="https://github.com/Shauls/magmanet-apps/releases/download/yearemoji/YearEmoji.apk" aria-label="הורדה השנה שלי באימוג׳י" data-aria-label-he="הורדה השנה שלי באימוג׳י" data-aria-label-en="Download My Year in Emoji"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדה</span><span class="t-en" lang="en">Download</span></a>
+  <a class="btn btn-sm dl" href="https://github.com/Shauls/magmanet-apps/releases/download/birdlog/Birdlog.apk" aria-label="הורדה יומן ציפורים" data-aria-label-he="הורדה יומן ציפורים" data-aria-label-en="Download Birdlog"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדה</span><span class="t-en" lang="en">Download</span></a>
 </article></div></section>
 </div>
 </div>
