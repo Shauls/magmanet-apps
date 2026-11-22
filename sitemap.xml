@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url><loc>https://apps.magmanet.app/</loc><lastmod>2026-11-21</lastmod><priority>1.0</priority></url>
+<url><loc>https://apps.magmanet.app/</loc><lastmod>2026-11-22</lastmod><priority>1.0</priority></url>
 <url><loc>https://apps.magmanet.app/apps/perfavore/</loc><lastmod>2026-10-30</lastmod></url>
 <url><loc>https://apps.magmanet.app/apps/blackjack-secret/</loc><lastmod>2026-10-30</lastmod></url>
 <url><loc>https://apps.magmanet.app/apps/book-tracker/</loc><lastmod>2026-10-30</lastmod></url>
@@ -350,4 +350,13 @@
 <url><loc>https://apps.magmanet.app/apps/cookoff/</loc><lastmod>2026-11-21</lastmod></url>
 <url><loc>https://apps.magmanet.app/apps/tripjournal/</loc><lastmod>2026-11-21</lastmod></url>
 <url><loc>https://apps.magmanet.app/apps/standup/</loc><lastmod>2026-11-21</lastmod></url>
+<url><loc>https://apps.magmanet.app/apps/palette/</loc><lastmod>2026-11-22</lastmod></url>
+<url><loc>https://apps.magmanet.app/apps/cloudatlas/</loc><lastmod>2026-11-22</lastmod></url>
+<url><loc>https://apps.magmanet.app/apps/quitcoach/</loc><lastmod>2026-11-22</lastmod></url>
+<url><loc>https://apps.magmanet.app/apps/zengarden/</loc><lastmod>2026-11-22</lastmod></url>
+<url><loc>https://apps.magmanet.app/apps/taskboard/</loc><lastmod>2026-11-22</lastmod></url>
+<url><loc>https://apps.magmanet.app/apps/mindmap/</loc><lastmod>2026-11-22</lastmod></url>
+<url><loc>https://apps.magmanet.app/apps/chemlab/</loc><lastmod>2026-11-22</lastmod></url>
+<url><loc>https://apps.magmanet.app/apps/skatepark/</loc><lastmod>2026-11-22</lastmod></url>
+<url><loc>https://apps.magmanet.app/apps/golftour/</loc><lastmod>2026-11-22</lastmod></url>
 </urlset>
