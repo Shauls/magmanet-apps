@@ -329,3 +329,11 @@ body.lb-open { overflow: hidden; }
 .invite-btns .btn-light { border: 1px solid var(--line); }
 .invite-hint { color: var(--muted); font-size: .9rem; margin: 12px 0 0; }
 @media (max-width: 600px) { .invite-btns .btn-lg { width: 100%; } }
+
+/* official-store links (Google Play / App Store) */
+.btn-store { background: #111; box-shadow: 0 4px 14px rgba(0,0,0,.25); }
+.btn-store svg { fill: currentColor; stroke: none; width: 20px; height: 20px; }
+.store-chip { display: inline-flex; align-items: center; gap: 3px; margin-inline-start: 8px; white-space: nowrap; }
+.store-chip svg { width: 11px; height: 11px; fill: currentColor; stroke: none; }
+:root[data-theme="dark"] .btn-store { background: #f2f2f2; color: #111; }
+@media (prefers-color-scheme: dark) { :root:not([data-theme="light"]) .btn-store { background: #f2f2f2; color: #111; } }
