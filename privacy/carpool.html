@@ -1,0 +1,50 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Privacy Policy — Carpool Rota (הסעות)</title><style>:root{--bg:#fff;--fg:#1d1d1f;--mut:#555;--link:#2457c5;--line:#e5e5e5}
+@media (prefers-color-scheme:dark){:root{--bg:#121212;--fg:#eee;--mut:#aaa;--link:#8ab4f8;--line:#333}}
+body{background:var(--bg);color:var(--fg);font:16px/1.6 system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;max-width:760px;margin:0 auto;padding:24px 16px 64px}
+a{color:var(--link)}h1{font-size:1.7em;line-height:1.25}h2{margin-top:1.8em;border-top:1px solid var(--line);padding-top:1em}
+code{background:rgba(127,127,127,.15);padding:1px 4px;border-radius:4px}table{border-collapse:collapse}td,th{border:1px solid var(--line);padding:4px 8px}
+footer{margin-top:3em;color:var(--mut);font-size:.9em}</style></head><body><h1>Privacy Policy — Carpool Rota (הסעות)</h1>
+<p><em>Last updated: 2026-11-05</em></p>
+<p>Carpool Rota (הסעות) is made by Magmanet. It is a driving rota for parents. This policy says exactly what it stores. The short version: <strong>a group's rota is on the Magmanet server so the group's parents can share it; only a parent with the group's invite code can see it; there is no location, no address, no photo, no phone number and no surname anywhere in the app; and all of it can be deleted.</strong></p>
+<p>The app is a list of who is down to drive. It doesn't check drivers or cars, and makes no promise about the safety or supervision of any child. The runs remain the parents' own responsibility.</p>
+<h2>What is on the server</h2>
+<ul>
+<li><strong>The group:</strong> its name, an invite code and when the code was issued.</li>
+<li><strong>Each parent:</strong> the nickname they chose (2 to 16 characters; no real name needed), a small number within the group, whether they are the group's admin, and their family.</li>
+<li><strong>Each family:</strong> the label the parents chose for it (2 to 16 characters; no surname needed), and the weekdays it said it can't drive.</li>
+<li><strong>Each child:</strong> <strong>a first name or nickname, and which family they belong to. Nothing else.</strong> The app has no field for a surname, age, school, class, photo, address or phone number. Please enter a first name or nickname only.</li>
+<li><strong>Each run:</strong> its name (for example "to school"), its weekday and time, and which children are on it. Please don't type addresses into the name.</li>
+<li><strong>The rota:</strong> which family drives which run on which date, whether a date has no run, and whether the choice was made by hand.</li>
+<li><strong>Absences:</strong> that a child isn't coming on a run on a date. No reason is asked for or stored.</li>
+<li><strong>Swaps:</strong> which family offered a run, which family took it, and when.</li>
+</ul>
+<p>All parents in the group see all of the above. The server doesn't show any of it to anyone else, and looking at an invite code before joining shows only the group's name and how many parents are in it.</p>
+<p>The account is <strong>anonymous</strong>: the server creates a random user id and access tokens, stored on your phone. The app also stores a random number made at install time, used only to create that account. There is no email, phone number or password.</p>
+<h2>What the app never collects</h2>
+<p>Location (the app has no location permission, no live map and no tracking), addresses, photos, contacts, phone numbers, surnames, messages, payments, ratings, and advertising identifiers.</p>
+<h2>When it is deleted</h2>
+<ul>
+<li><strong>You leave a group, or a parent removes you:</strong> your nickname leaves the group at once. If no other parent is left in your family, your family and its children are erased at once: their names are overwritten on the server rather than kept hidden, your family's past drives go too, and the runs you were down for have no driver. The group carries on. A person's phone drops the erased names at its next sync.</li>
+<li><strong>Delete all my data</strong> (Settings), or <code>DELETE /v1/profile</code>: you leave every group as above and your anonymous account and its tokens are deleted.</li>
+<li><strong>The admin deletes the group:</strong> everything in it is erased at once.</li>
+<li><strong>A child is deleted by their family:</strong> the name, their absences and their place on the runs are erased at once.</li>
+<li><strong>Automatically, every night:</strong></li>
+<li>an absence or a swap, 14 days after its date;</li>
+<li>a line of the rota, 120 days after its date, so the count of how many runs a family has driven looks back 120 days;</li>
+<li>a marker of something deleted (it holds no text), after 30 days;</li>
+<li>a whole group, when nobody has opened it for 180 days.</li>
+<li>An invite code stops working after 14 days, and any parent can replace it at any time.</li>
+</ul>
+<p>Server backups, if any are kept, age out on the server's normal backup rotation.</p>
+<h2>Anonymous usage statistics</h2>
+<p>To improve the app it sends anonymous statistics: a random install ID, which screens and features are used and for how long, counts (such as how many runs a new rota set), the app version, Android or iOS version, phone model, language, and counts of error types. <strong>Never what anyone typed:</strong> no child's name, family, nickname, run name or invite code. You can turn this off in Settings.</p>
+<h2>On your phone</h2>
+<p>The app keeps a copy of your groups in its private storage, so that it works offline. <code>allowBackup</code> is off, so this copy stays out of device backups. "Copy backup" in Settings puts the copy on the clipboard as text, and only when you tap it; keep that text safe.</p>
+<p><strong>Reminders</strong> are local notifications made on your phone, off until you turn them on. They show the run's name, its time and the group's name, and never a child's name, since they can appear on a locked screen.</p>
+<p><strong>Sharing</strong> the week or an invite uses your phone's share sheet: you choose the app and the recipient. The shared week names the runs and the families who drive, not the children.</p>
+<h2>Who else sees it</h2>
+<p>Nobody. The data isn't sold or shared with any third party and isn't used for advertising. The server writes no access log for this app's requests, and these tables aren't copied to any test system.</p>
+<h2>Children</h2>
+<p>The app is for parents and isn't directed at children. A child's first name or nickname is entered by their own parent, only that family can change or delete it, and it is shared only with the parents in that group.</p>
+<h2>Contact</h2>
+<p>Magmanet: shauls@gmail.com</p><footer>Magmanet · <a href="./">All privacy policies</a> · <a href="https://github.com/Shauls/magmanet-apps">Apps</a></footer></body></html>
