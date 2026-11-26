@@ -25,9 +25,9 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700;800&display=swap">
-<link rel="stylesheet" href="../../assets/style.css?v=2d8b639f7d">
+<link rel="stylesheet" href="../../assets/style.css?v=5ba7f08f13">
 <script>(function(){var d=document.documentElement,l='he',t='';try{var q=new URLSearchParams(location.search).get('lang');if(q==='en'||q==='he'){l=q;localStorage.setItem('mg-lang',q)}else{l=localStorage.getItem('mg-lang')||'he'}t=localStorage.getItem('mg-theme')||''}catch(e){}if(l==='en'){d.lang='en';d.dir='ltr';d.classList.add('en')}if(t)d.setAttribute('data-theme',t)})();</script>
-<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Melody to Notes", "alternateName": "מנגינה לתווים", "operatingSystem": "Android, iOS", "applicationCategory": "Music", "description": "Sing it. Hum it. See the notes", "softwareVersion": "1.1.0", "downloadUrl": "https://github.com/Shauls/magmanet-apps/releases/download/melodynotes/MelodyNotes.apk", "image": "https://apps.magmanet.app/img/icons/melodynotes-512.png", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "sameAs": ["https://apps.apple.com/app/id6829431245"]}</script>
+<script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "Melody to Notes", "alternateName": "מנגינה לתווים", "operatingSystem": "Android, iOS", "applicationCategory": "Music", "description": "Sing it. Hum it. See the notes", "softwareVersion": "1.1.0", "downloadUrl": "https://github.com/Shauls/magmanet-apps/releases/download/melodynotes/MelodyNotes.apk", "image": "https://apps.magmanet.app/img/icons/melodynotes-512.png", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "sameAs": ["https://play.google.com/store/apps/details?id=com.magmanet.melodynotes", "https://apps.apple.com/app/id6829431245"]}</script>
 </head>
 <body class="app">
 <a class="skip" href="#main"><span class="t-he">דילוג לתוכן</span><span class="t-en" lang="en">Skip to content</span></a>
@@ -61,6 +61,16 @@
     <p class="invite-hint"><span class="t-he">אין לך את האפליקציה? מתקינים, ואז מקישים שוב על הקישור (או מדביקים את הקוד).</span><span class="t-en" lang="en">Don&#x27;t have the app? Install it, then tap the link again (or paste the code).</span></p>
   </div>
 </section>
+<section class="wrap go-store" id="goStore" hidden data-play="https://play.google.com/store/apps/details?id=com.magmanet.melodynotes" data-apple="https://apps.apple.com/app/id6829431245" aria-live="polite">
+  <div class="go-card">
+    <p class="go-title"><span class="go-play" hidden><span class="t-he">פותחים את ⁨Google Play⁩…</span><span class="t-en" lang="en">Opening Google Play…</span></span><span class="go-apple" hidden><span class="t-he">פותחים את ⁨App Store⁩…</span><span class="t-en" lang="en">Opening the App Store…</span></span></p>
+    <div class="go-bar"><span></span></div>
+    <div class="go-btns">
+      <button type="button" class="btn btn-light" id="goStay"><span class="t-he">להישאר בדף</span><span class="t-en" lang="en">Stay on this page</span></button>
+      <a class="btn btn-light go-apk" id="goApk" href="https://github.com/Shauls/magmanet-apps/releases/download/melodynotes/MelodyNotes.apk" download hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">או להוריד את קובץ ה־⁨APK⁩ ישירות</span><span class="t-en" lang="en">Or download the APK directly</span></a>
+    </div>
+  </div>
+</section>
 <div class="wrap"><div class="banner banner-plain" aria-hidden="true"></div></div>
 <section class="wrap app-head">
   <img class="app-icon icon-big" src="../../img/icons/melodynotes-512.png" width="128" height="128" alt="הסמל של מנגינה לתווים" data-alt-he="הסמל של מנגינה לתווים" data-alt-en="Melody to Notes icon">
@@ -69,7 +79,7 @@
     <p class="tagline tagline-big"><span class="t-he">שרים, מזמזמים ורואים את התווים</span><span class="t-en" lang="en">Sing it. Hum it. See the notes</span></p>
     <div class="badges"><a class="badge cat" href="../../?cat=music">🎸 <span class="t-he">מוזיקה</span><span class="t-en" lang="en">Music</span></a><span class="badge "><span class="t-he">זמרים, נגנים, תלמידי מוזיקה ומורים</span><span class="t-en" lang="en">Singers, players, music students and teachers</span></span><span class="badge "><span class="t-he">🌐 עברית, אנגלית</span><span class="t-en" lang="en">🌐 Hebrew, English</span></span><span class="badge ok"><span class="t-he">✈️ אופליין</span><span class="t-en" lang="en">✈️ Offline</span></span></div>
     <div class="cta" id="download">
-      <a class="btn btn-lg btn-store store-apple" href="https://apps.apple.com/app/id6829431245" rel="noopener" target="_blank"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 3c0 1.6-1.3 3.2-3 3.2-.2-1.7 1.3-3.2 3-3.2zM12.2 7.4c.9 0 2.1-.9 3.6-.9 2.4 0 3.5 1.7 3.8 2.2-2.6 1.4-2.2 5.1.4 6.2-.6 1.7-2 4.6-3.7 4.6-1.4 0-1.7-.8-3.3-.8s-2 .8-3.3.8C7.8 19.5 5 15.6 5 11.9 5 8.7 7 7 9 7c1.5 0 2.4.4 3.2.4z"/></svg><span class="t-he">להורדה ב־⁨App Store⁩</span><span class="t-en" lang="en">Download on the App Store</span></a><a class="btn btn-lg" href="https://github.com/Shauls/magmanet-apps/releases/download/melodynotes/MelodyNotes.apk" download><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדת APK · ⁦28.8 MB⁩</span><span class="t-en" lang="en">Download APK · ⁦28.8 MB⁩</span></a>
+      <a class="btn btn-lg btn-store store-play" href="https://play.google.com/store/apps/details?id=com.magmanet.melodynotes" rel="noopener" target="_blank"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 3.5v17l14-8.5z"/></svg><span class="t-he">להורדה ב־⁨Google Play⁩</span><span class="t-en" lang="en">Get it on Google Play</span></a><a class="btn btn-lg btn-store store-apple" href="https://apps.apple.com/app/id6829431245" rel="noopener" target="_blank"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M16 3c0 1.6-1.3 3.2-3 3.2-.2-1.7 1.3-3.2 3-3.2zM12.2 7.4c.9 0 2.1-.9 3.6-.9 2.4 0 3.5 1.7 3.8 2.2-2.6 1.4-2.2 5.1.4 6.2-.6 1.7-2 4.6-3.7 4.6-1.4 0-1.7-.8-3.3-.8s-2 .8-3.3.8C7.8 19.5 5 15.6 5 11.9 5 8.7 7 7 9 7c1.5 0 2.4.4 3.2.4z"/></svg><span class="t-he">להורדה ב־⁨App Store⁩</span><span class="t-en" lang="en">Download on the App Store</span></a><a class="btn btn-lg" href="https://github.com/Shauls/magmanet-apps/releases/download/melodynotes/MelodyNotes.apk" download><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">הורדת APK · ⁦28.8 MB⁩</span><span class="t-en" lang="en">Download APK · ⁦28.8 MB⁩</span></a>
       <span class="meta"><span class="t-he">גרסה ⁦1.1.0⁩ · ⁦28.8 MB⁩ · עודכן 24 בנובמבר 2026</span><span class="t-en" lang="en">Version ⁦1.1.0⁩ · ⁦28.8 MB⁩ · Updated November 24, 2026</span></span>
     </div>
     <p class="mini-tags"><span class="t-he">חינם</span><span class="t-en" lang="en">Free</span> · <span class="t-he">בלי פרסומות</span><span class="t-en" lang="en">No ads</span> · <span class="t-he">אנדרואיד</span><span class="t-en" lang="en">Android</span> · <span class="t-he">אייפון</span><span class="t-en" lang="en">iPhone</span> · <a href="../../#install"><span class="t-he">איך מתקינים?</span><span class="t-en" lang="en">How to install</span></a></p>
@@ -193,6 +203,22 @@ o.addEventListener('click',function(e){copy();
 if(/android/i.test(navigator.userAgent)){e.preventDefault();
 location.href='intent://join?app='+encodeURIComponent(app)+'&'+k+'='+encodeURIComponent(v)+x+'#Intent;scheme=magmanet;package='+pkg+';S.browser_fallback_url='+encodeURIComponent(page)+';end'}});
 cp.addEventListener('click',function(){copy(function(){var l=document.documentElement.classList.contains('en');cp.textContent=cp.getAttribute(l?'data-copied-en':'data-copied-he')})});
+})();</script><script>(function(){var s=document.getElementById('goStore');if(!s)return;
+var ua=navigator.userAgent||'',q=location.search||'',t,url,k;
+if(/bot|crawl|spider|slurp|lighthouse|headless|preview|facebookexternalhit|whatsapp/i.test(ua))return;
+if(location.hash||/[?&]stay/.test(q))return;
+try{if(sessionStorage.getItem('mg-stay'))return}catch(e){}
+try{var n=performance.getEntriesByType('navigation')[0];if(n&&n.type!=='navigate')return}catch(e){}
+var ios=/iPhone|iPad|iPod/.test(ua)||(/Macintosh/.test(ua)&&navigator.maxTouchPoints>1),android=/Android/i.test(ua);
+if(android&&s.getAttribute('data-play')){url=s.getAttribute('data-play');k='.go-play'}
+else if(ios&&s.getAttribute('data-apple')){url=s.getAttribute('data-apple');k='.go-apple'}
+if(!url)return;
+s.querySelector(k).hidden=false;if(android)document.getElementById('goApk').hidden=false;
+s.hidden=false;requestAnimationFrame(function(){s.classList.add('run')});
+function stop(){clearTimeout(t);s.hidden=true;try{sessionStorage.setItem('mg-stay','1')}catch(e){}}
+document.getElementById('goStay').addEventListener('click',stop);
+document.getElementById('goApk').addEventListener('click',stop);
+t=setTimeout(function(){s.classList.remove('run');location.href=url},3000);
 })();</script>
 </main>
 <footer class="footer">
@@ -209,6 +235,6 @@ cp.addEventListener('click',function(){copy(function(){var l=document.documentEl
   </div>
   <div class="wrap copy">© 2026 Magmanet</div>
 </footer>
-<script src="../../assets/app.js?v=2d8b639f7d" defer></script>
+<script src="../../assets/app.js?v=5ba7f08f13" defer></script>
 </body>
 </html>

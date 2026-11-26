@@ -25,7 +25,7 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Heebo:wght@400;500;700;800&display=swap">
-<link rel="stylesheet" href="../../assets/style.css?v=2d8b639f7d">
+<link rel="stylesheet" href="../../assets/style.css?v=5ba7f08f13">
 <script>(function(){var d=document.documentElement,l='he',t='';try{var q=new URLSearchParams(location.search).get('lang');if(q==='en'||q==='he'){l=q;localStorage.setItem('mg-lang',q)}else{l=localStorage.getItem('mg-lang')||'he'}t=localStorage.getItem('mg-theme')||''}catch(e){}if(l==='en'){d.lang='en';d.dir='ltr';d.classList.add('en')}if(t)d.setAttribute('data-theme',t)})();</script>
 <script type="application/ld+json">{"@context": "https://schema.org", "@type": "SoftwareApplication", "name": "MotorQuest", "alternateName": "מסע התנועה", "operatingSystem": "Android, iOS", "applicationCategory": "Kids", "description": "Motor-skill games and learner-driver practice for dyspraxia (DCD)", "softwareVersion": "1.3.1", "downloadUrl": "https://github.com/Shauls/magmanet-apps/releases/download/motorquest/MotorQuest.apk", "image": "https://apps.magmanet.app/img/icons/motorquest-512.png", "offers": {"@type": "Offer", "price": "0", "priceCurrency": "USD"}, "sameAs": ["https://apps.apple.com/app/id6827507534"]}</script>
 </head>
@@ -59,6 +59,16 @@
       <button type="button" class="btn btn-lg btn-light" id="inviteCopy" data-copied-he="הקוד הועתק" data-copied-en="Code copied"><span class="t-he">העתקת הקוד</span><span class="t-en" lang="en">Copy code</span></button>
     </div>
     <p class="invite-hint"><span class="t-he">אין לך את האפליקציה? מתקינים, ואז מקישים שוב על הקישור (או מדביקים את הקוד).</span><span class="t-en" lang="en">Don&#x27;t have the app? Install it, then tap the link again (or paste the code).</span></p>
+  </div>
+</section>
+<section class="wrap go-store" id="goStore" hidden data-play="" data-apple="https://apps.apple.com/app/id6827507534" aria-live="polite">
+  <div class="go-card">
+    <p class="go-title"><span class="go-apple" hidden><span class="t-he">פותחים את ⁨App Store⁩…</span><span class="t-en" lang="en">Opening the App Store…</span></span></p>
+    <div class="go-bar"><span></span></div>
+    <div class="go-btns">
+      <button type="button" class="btn btn-light" id="goStay"><span class="t-he">להישאר בדף</span><span class="t-en" lang="en">Stay on this page</span></button>
+      <a class="btn btn-light go-apk" id="goApk" href="https://github.com/Shauls/magmanet-apps/releases/download/motorquest/MotorQuest.apk" download hidden><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3v12m0 0-5-5m5 5 5-5M5 21h14"/></svg><span class="t-he">או להוריד את קובץ ה־⁨APK⁩ ישירות</span><span class="t-en" lang="en">Or download the APK directly</span></a>
+    </div>
   </div>
 </section>
 <div class="wrap"><div class="banner"><picture><source media="(max-width: 640px)" srcset="../../img/feature/motorquest-640.webp"><img src="../../img/feature/motorquest.webp" width="1024" height="500" alt="" fetchpriority="high"></picture></div></div>
@@ -190,6 +200,22 @@ o.addEventListener('click',function(e){copy();
 if(/android/i.test(navigator.userAgent)){e.preventDefault();
 location.href='intent://join?app='+encodeURIComponent(app)+'&'+k+'='+encodeURIComponent(v)+x+'#Intent;scheme=magmanet;package='+pkg+';S.browser_fallback_url='+encodeURIComponent(page)+';end'}});
 cp.addEventListener('click',function(){copy(function(){var l=document.documentElement.classList.contains('en');cp.textContent=cp.getAttribute(l?'data-copied-en':'data-copied-he')})});
+})();</script><script>(function(){var s=document.getElementById('goStore');if(!s)return;
+var ua=navigator.userAgent||'',q=location.search||'',t,url,k;
+if(/bot|crawl|spider|slurp|lighthouse|headless|preview|facebookexternalhit|whatsapp/i.test(ua))return;
+if(location.hash||/[?&]stay/.test(q))return;
+try{if(sessionStorage.getItem('mg-stay'))return}catch(e){}
+try{var n=performance.getEntriesByType('navigation')[0];if(n&&n.type!=='navigate')return}catch(e){}
+var ios=/iPhone|iPad|iPod/.test(ua)||(/Macintosh/.test(ua)&&navigator.maxTouchPoints>1),android=/Android/i.test(ua);
+if(android&&s.getAttribute('data-play')){url=s.getAttribute('data-play');k='.go-play'}
+else if(ios&&s.getAttribute('data-apple')){url=s.getAttribute('data-apple');k='.go-apple'}
+if(!url)return;
+s.querySelector(k).hidden=false;if(android)document.getElementById('goApk').hidden=false;
+s.hidden=false;requestAnimationFrame(function(){s.classList.add('run')});
+function stop(){clearTimeout(t);s.hidden=true;try{sessionStorage.setItem('mg-stay','1')}catch(e){}}
+document.getElementById('goStay').addEventListener('click',stop);
+document.getElementById('goApk').addEventListener('click',stop);
+t=setTimeout(function(){s.classList.remove('run');location.href=url},3000);
 })();</script>
 </main>
 <footer class="footer">
@@ -206,6 +232,6 @@ cp.addEventListener('click',function(){copy(function(){var l=document.documentEl
   </div>
   <div class="wrap copy">© 2026 Magmanet</div>
 </footer>
-<script src="../../assets/app.js?v=2d8b639f7d" defer></script>
+<script src="../../assets/app.js?v=5ba7f08f13" defer></script>
 </body>
 </html>
